@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\procedural_programming.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\procedural_programming.dir/objects.a @CMakeFiles\procedural_programming.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\procedural_programming.dir/objects.a -Wl,--no-whole-archive -o procedural_programming.exe -Wl,--out-implib,libprocedural_programming.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\procedural_programming.dir\linklibs.rsp
