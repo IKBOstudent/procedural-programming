@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/test0.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.cpp
 iostream
 -
-windows.h
--
+zads.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
+
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 

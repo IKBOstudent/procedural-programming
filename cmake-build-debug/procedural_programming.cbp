@@ -80,7 +80,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/test0.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/index.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h">
 			<Option target="procedural_programming"/>
 		</Unit>
 		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/CMakeLists.txt">

@@ -128,29 +128,125 @@ procedural_programming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/build
 .PHONY : procedural_programming/fast
 
-test-progs/test0.obj: test-progs/test0.cpp.obj
-.PHONY : test-progs/test0.obj
+test-progs/double_type_input.obj: test-progs/double_type_input.cpp.obj
+.PHONY : test-progs/double_type_input.obj
 
 # target to build an object file
-test-progs/test0.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/test0.cpp.obj
-.PHONY : test-progs/test0.cpp.obj
+test-progs/double_type_input.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj
+.PHONY : test-progs/double_type_input.cpp.obj
 
-test-progs/test0.i: test-progs/test0.cpp.i
-.PHONY : test-progs/test0.i
+test-progs/double_type_input.i: test-progs/double_type_input.cpp.i
+.PHONY : test-progs/double_type_input.i
 
 # target to preprocess a source file
-test-progs/test0.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/test0.cpp.i
-.PHONY : test-progs/test0.cpp.i
+test-progs/double_type_input.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.i
+.PHONY : test-progs/double_type_input.cpp.i
 
-test-progs/test0.s: test-progs/test0.cpp.s
-.PHONY : test-progs/test0.s
+test-progs/double_type_input.s: test-progs/double_type_input.cpp.s
+.PHONY : test-progs/double_type_input.s
 
 # target to generate assembly for a file
-test-progs/test0.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/test0.cpp.s
-.PHONY : test-progs/test0.cpp.s
+test-progs/double_type_input.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.s
+.PHONY : test-progs/double_type_input.cpp.s
+
+test-progs/index.obj: test-progs/index.cpp.obj
+.PHONY : test-progs/index.obj
+
+# target to build an object file
+test-progs/index.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/index.cpp.obj
+.PHONY : test-progs/index.cpp.obj
+
+test-progs/index.i: test-progs/index.cpp.i
+.PHONY : test-progs/index.i
+
+# target to preprocess a source file
+test-progs/index.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/index.cpp.i
+.PHONY : test-progs/index.cpp.i
+
+test-progs/index.s: test-progs/index.cpp.s
+.PHONY : test-progs/index.s
+
+# target to generate assembly for a file
+test-progs/index.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/index.cpp.s
+.PHONY : test-progs/index.cpp.s
+
+test-progs/zad1.obj: test-progs/zad1.cpp.obj
+.PHONY : test-progs/zad1.obj
+
+# target to build an object file
+test-progs/zad1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj
+.PHONY : test-progs/zad1.cpp.obj
+
+test-progs/zad1.i: test-progs/zad1.cpp.i
+.PHONY : test-progs/zad1.i
+
+# target to preprocess a source file
+test-progs/zad1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.i
+.PHONY : test-progs/zad1.cpp.i
+
+test-progs/zad1.s: test-progs/zad1.cpp.s
+.PHONY : test-progs/zad1.s
+
+# target to generate assembly for a file
+test-progs/zad1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.s
+.PHONY : test-progs/zad1.cpp.s
+
+test-progs/zad2.obj: test-progs/zad2.cpp.obj
+.PHONY : test-progs/zad2.obj
+
+# target to build an object file
+test-progs/zad2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj
+.PHONY : test-progs/zad2.cpp.obj
+
+test-progs/zad2.i: test-progs/zad2.cpp.i
+.PHONY : test-progs/zad2.i
+
+# target to preprocess a source file
+test-progs/zad2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.i
+.PHONY : test-progs/zad2.cpp.i
+
+test-progs/zad2.s: test-progs/zad2.cpp.s
+.PHONY : test-progs/zad2.s
+
+# target to generate assembly for a file
+test-progs/zad2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.s
+.PHONY : test-progs/zad2.cpp.s
+
+test-progs/zad3.obj: test-progs/zad3.cpp.obj
+.PHONY : test-progs/zad3.obj
+
+# target to build an object file
+test-progs/zad3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj
+.PHONY : test-progs/zad3.cpp.obj
+
+test-progs/zad3.i: test-progs/zad3.cpp.i
+.PHONY : test-progs/zad3.i
+
+# target to preprocess a source file
+test-progs/zad3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.i
+.PHONY : test-progs/zad3.cpp.i
+
+test-progs/zad3.s: test-progs/zad3.cpp.s
+.PHONY : test-progs/zad3.s
+
+# target to generate assembly for a file
+test-progs/zad3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.s
+.PHONY : test-progs/zad3.cpp.s
 
 # Help Target
 help:
@@ -161,9 +257,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... procedural_programming
-	@echo ... test-progs/test0.obj
-	@echo ... test-progs/test0.i
-	@echo ... test-progs/test0.s
+	@echo ... test-progs/double_type_input.obj
+	@echo ... test-progs/double_type_input.i
+	@echo ... test-progs/double_type_input.s
+	@echo ... test-progs/index.obj
+	@echo ... test-progs/index.i
+	@echo ... test-progs/index.s
+	@echo ... test-progs/zad1.obj
+	@echo ... test-progs/zad1.i
+	@echo ... test-progs/zad1.s
+	@echo ... test-progs/zad2.obj
+	@echo ... test-progs/zad2.i
+	@echo ... test-progs/zad2.s
+	@echo ... test-progs/zad3.obj
+	@echo ... test-progs/zad3.i
+	@echo ... test-progs/zad3.s
 .PHONY : help
 
 
