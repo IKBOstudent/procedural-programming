@@ -3,35 +3,35 @@
 
 using namespace std;
 
-void zad1_main(){
-    cout << "Ìàêñèì\n";
+void zad1(){
+    cout << "ÐœÐ°ÐºÑÐ¸Ð¼\n";
 }
 
 double check_a_input(){
     double a;
-    cout << "Ââåäèòå ïåðâîå ÷èñëî (ðàçäåëèòåëü [.]):\n";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¿ÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ (Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ: [.]):\n";
 
     while (!(cin >> a)){
         cin.clear();
-        //cin.ignore(100, '\n');
-        cout << "Ââîä íåêîððåêòíûé! ïîïðîáóéòå ñíîâà ââåñòè ïåðâîå ÷èñëî:\n";
+        cin.ignore(100, '\n');
+        cout << "Ð’Ð²Ð¾Ð´ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹! ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ ÑÐ½Ð¾Ð²Ð° Ð²Ð²ÐµÑÑ‚Ð¸ Ð¿ÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾:\n";
     }
     return a;
 }
 
 double check_b_input(){
     double b;
-    cout << "Ââåäèòå âòîðîå ÷èñëî (ðàçäåëèòåëü [.]):\n";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ (Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ: [.]):\n";
 
     while (!(cin >> b)){
         cin.clear();
         cin.ignore(100, '\n');
-        cout << "Ââîä íåêîððåêòíûé! ïîïðîáóéòå ñíîâà ââåñòè âòîðîå ÷èñëî:\n";
+        cout << "Ð’Ð²Ð¾Ð´ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹! ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ ÑÐ½Ð¾Ð²Ð° Ð²Ð²ÐµÑÑ‚Ð¸ Ð²Ñ‚Ð¾Ñ€Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾:\n";
     }
     return b;
 }
 
-void zad2_main(){
+void zad2(){
     double a, b;
     bool division = true;
 
@@ -39,39 +39,39 @@ void zad2_main(){
     b = check_b_input();
 
     if (b == 0.0){
-        cout << "!!! Ïðåäóïðåæäåíèå !!!: äåëåíèå íå áóäåò âûïîëíåíî\n";
+        cout << "ÐŸÑ€ÐµÐ´ÑƒÐ¿Ñ€ÐµÐ´Ð¶Ð´ÐµÐ½Ð¸Ðµ: !Ð”ÐµÐ»ÐµÐ½Ð¸Ðµ Ð½Ð° Ð½Ð¾Ð»ÑŒ!: Ð´ÐµÐ»ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð±ÑƒÐ´ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾...\n";
         division = false;
     }
 
-    cout << "Ñóììà: " << a+b << endl;
-    cout << "Ðàçíîñòü: " << a-b << endl;
-    cout << "Ïðîèçâåäåíèå: " << a*b << endl;
+    cout << "Ð¡ÑƒÐ¼Ð¼Ð°: " << a+b << endl;
+    cout << "Ð Ð°Ð·Ð½Ð¾ÑÑ‚ÑŒ: " << a-b << endl;
+    cout << "ÐŸÑ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ: " << a*b << endl;
     if (division){
-        cout << "×àñòíîå: " << a/b << endl;
+        cout << "Ð§Ð°ÑÑ‚Ð½Ð¾Ðµ: " << a/b << endl;
     }
 }
 
-void zad3_main(){
-    // ðåøåíèå óðàâíåíèÿ âèäà: bx + c = 0
+void zad3(){
+    // Ð£Ñ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ Ð²Ð¸Ð´Ð°: bx + c = 0
     double answer, b, c;
     b = check_a_input();
     c = check_b_input();
 
-    if (!b == 0.0){
+    if (b != 0.0){
         answer = -c/b;
         cout << "x = " << answer << endl;
     } else{
-        cout << "íåò êîðíåé" << endl;
+        cout << "Ð½ÐµÑ‚ ÐºÐ¾Ñ€Ð½ÐµÐ¹" << endl;
     }
 }
 
 int main(){
-    SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);
+    SetConsoleCP(CP_UTF8);
+    SetConsoleOutputCP(CP_UTF8);
 
-//    zad1_main();
-//    zad2_main();
-    zad3_main();
+    zad1();
+    zad2();
+    zad3();
 
     return 0;
 }
