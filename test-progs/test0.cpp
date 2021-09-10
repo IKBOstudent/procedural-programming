@@ -3,43 +3,40 @@
 
 using namespace std;
 
-void name_output(){
+void zad1_main(){
     cout << "Максим\n";
 }
 
-double zad2_a_input(){
+double check_a_input(){
     double a;
-    cout << "Введите первое число:\n";
+    cout << "Введите первое число (разделитель [.]):\n";
 
     while (!(cin >> a)){
         cin.clear();
-        cin.ignore(100, '\n');
-        cout << "Ввод некорректный! попробуйте снова:\n";
+        //cin.ignore(100, '\n');
+        cout << "Ввод некорректный! попробуйте снова ввести первое число:\n";
     }
     return a;
 }
 
-double zad2_b_input(){
+double check_b_input(){
     double b;
-    cout << "Введите второе число:\n";
+    cout << "Введите второе число (разделитель [.]):\n";
 
     while (!(cin >> b)){
         cin.clear();
         cin.ignore(100, '\n');
-        cout << "Ввод некорректный! попробуйте снова:\n";
+        cout << "Ввод некорректный! попробуйте снова ввести второе число:\n";
     }
     return b;
 }
 
-int main(){
-    SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);
-
+void zad2_main(){
     double a, b;
     bool division = true;
 
-    a = zad2_a_input();
-    b = zad2_b_input();
+    a = check_a_input();
+    b = check_b_input();
 
     if (b == 0.0){
         cout << "!!! Предупреждение !!!: деление не будет выполнено\n";
@@ -52,6 +49,29 @@ int main(){
     if (division){
         cout << "Частное: " << a/b << endl;
     }
+}
+
+void zad3_main(){
+    // решение уравнения вида: bx + c = 0
+    double answer, b, c;
+    b = check_a_input();
+    c = check_b_input();
+
+    if (!b == 0.0){
+        answer = -c/b;
+        cout << "x = " << answer << endl;
+    } else{
+        cout << "нет корней" << endl;
+    }
+}
+
+int main(){
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+
+//    zad1_main();
+//    zad2_main();
+    zad3_main();
 
     return 0;
 }
