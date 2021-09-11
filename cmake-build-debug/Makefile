@@ -248,6 +248,54 @@ test-progs/zad3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.s
 .PHONY : test-progs/zad3.cpp.s
 
+test-progs/zad4.obj: test-progs/zad4.cpp.obj
+.PHONY : test-progs/zad4.obj
+
+# target to build an object file
+test-progs/zad4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj
+.PHONY : test-progs/zad4.cpp.obj
+
+test-progs/zad4.i: test-progs/zad4.cpp.i
+.PHONY : test-progs/zad4.i
+
+# target to preprocess a source file
+test-progs/zad4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.i
+.PHONY : test-progs/zad4.cpp.i
+
+test-progs/zad4.s: test-progs/zad4.cpp.s
+.PHONY : test-progs/zad4.s
+
+# target to generate assembly for a file
+test-progs/zad4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.s
+.PHONY : test-progs/zad4.cpp.s
+
+test-progs/zad5.obj: test-progs/zad5.cpp.obj
+.PHONY : test-progs/zad5.obj
+
+# target to build an object file
+test-progs/zad5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj
+.PHONY : test-progs/zad5.cpp.obj
+
+test-progs/zad5.i: test-progs/zad5.cpp.i
+.PHONY : test-progs/zad5.i
+
+# target to preprocess a source file
+test-progs/zad5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.i
+.PHONY : test-progs/zad5.cpp.i
+
+test-progs/zad5.s: test-progs/zad5.cpp.s
+.PHONY : test-progs/zad5.s
+
+# target to generate assembly for a file
+test-progs/zad5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.s
+.PHONY : test-progs/zad5.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -272,6 +320,12 @@ help:
 	@echo ... test-progs/zad3.obj
 	@echo ... test-progs/zad3.i
 	@echo ... test-progs/zad3.s
+	@echo ... test-progs/zad4.obj
+	@echo ... test-progs/zad4.i
+	@echo ... test-progs/zad4.s
+	@echo ... test-progs/zad5.obj
+	@echo ... test-progs/zad5.i
+	@echo ... test-progs/zad5.s
 .PHONY : help
 
 

@@ -16,3 +16,9 @@ CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj: \
 CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj: \
  ../test-progs/zad3.cpp \
  ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj: \
+ ../test-progs/zad4.cpp \
+ ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj: \
+ ../test-progs/zad5.cpp \
+ ../test-progs/zads.h

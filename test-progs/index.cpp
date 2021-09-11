@@ -10,14 +10,17 @@ int main(){
 
     cout << "Запуск системы тестирования программ...\n";
 
-    zad1();
-    system("pause");
+    // домашнее задание 1
 
-    zad2();
-    system("pause");
+//    zad_imya();
+//    zad_ariphmetica();
+//    zad_uravneniye();
+//    zad_yeshyo_uravneniye();
+//    zad_lampa_so_shtorkoy();
 
-    zad3();
+    // домашнее задание 2
 
+//    zad_konus();
 
     cout << "Завершение работы системы тестирования...\n";
 

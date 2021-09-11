@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj"
   "libprocedural_programming.dll.a"
   "procedural_programming.exe"
   "procedural_programming.exe.manifest"
