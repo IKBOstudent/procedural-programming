@@ -13,10 +13,10 @@ void zad_ariphmetica(){
     bool vvod = true;
 
     while (vvod){
-        cout << "[ввод первого числа]\n";
+        cout << "\n[ввод первого числа]\n";
         a = double_type_input();
 
-        cout << "[ввод второго числа]\n";
+        cout << "\n[ввод второго числа]\n";
         b = double_type_input();
 
         cout << "Вы ввели a = " << a << "; b = " << b << endl;

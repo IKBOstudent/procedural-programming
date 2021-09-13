@@ -13,10 +13,10 @@ void zad_uravneniye(){
     bool vvod = true;
 
     while (vvod){
-        cout << "[ввод коэффициента b]\n";
+        cout << "\n[ввод коэффициента b]\n";
         b = double_type_input();
 
-        cout << "[ввод коэффициента c]\n";
+        cout << "\n[ввод коэффициента c]\n";
         c = double_type_input();
 
         cout << "Вы ввели b = " << b << "; c = " << c << endl;

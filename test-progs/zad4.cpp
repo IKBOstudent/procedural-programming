@@ -15,13 +15,13 @@ void zad_yeshyo_uravneniye(){
     bool vvod = true;
 
     while (vvod){
-        cout << "[ввод коэффициента a]\n";
+        cout << "\n[ввод коэффициента a]\n";
         a = double_type_input();
 
-        cout << "[ввод коэффициента b]\n";
+        cout << "\n[ввод коэффициента b]\n";
         b = double_type_input();
 
-        cout << "[ввод коэффициента c]\n";
+        cout << "\n[ввод коэффициента c]\n";
         c = double_type_input();
 
         cout << "Вы ввели a = " << a << "; b = " << b << "; c = " << c << endl;
@@ -61,10 +61,10 @@ void zad_yeshyo_uravneniye(){
         cout << "x = " << answer1 << endl;
 
     } else if (d > 0) {
-        answer1 = (-b + sqrt(d)) / (2 * a);
+        answer1 = (-b + sqrtl(d)) / (2 * a);
         if (answer1 == 0)
             answer1 = 0;
-        answer2 = (-b - sqrt(d)) / (2 * a);
+        answer2 = (-b - sqrtl(d)) / (2 * a);
         if (answer2 == 0)
             answer2 = 0;
         cout << "x1 = " << answer1 << "x2 = " << answer2 << endl;
