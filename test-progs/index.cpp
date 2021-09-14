@@ -1,19 +1,15 @@
 #include <iostream>
-#include "zad1.h"
-#include "zad2.h"
-#include "zad3.h"
-#include "zad4.h"
-#include "zad5.h"
-#include "double_type_input.h"
+#include "zads.h"
+
 // для windows
-#include <windows.h>
+// #include <windows.h>
 
 using namespace std;
 
 int main(){
     // для CLion
-    SetConsoleCP(CP_UTF8);
-    SetConsoleOutputCP(CP_UTF8);
+//    SetConsoleCP(CP_UTF8);
+//    SetConsoleOutputCP(CP_UTF8);
 
     // для CodeBlocks
 //    SetConsoleCP(1251);
@@ -23,11 +19,11 @@ int main(){
 
     // домашнее задание 1
 
-    zad_imya();
-    zad_ariphmetica();
-    zad_uravneniye();
+    //zad_imya();
+    //zad_ariphmetica();
+    //zad_uravneniye();
     zad_yeshyo_uravneniye();
-    zad_lampa_so_shtorkoy();
+    //zad_lampa_so_shtorkoy();
 
     cout << "Завершение работы системы тестирования...\n";
 

@@ -1,6 +1,7 @@
 #include <iostream>
 #include "zads.h"
 
+
 using namespace std;
 
 void zad_ariphmetica(){
