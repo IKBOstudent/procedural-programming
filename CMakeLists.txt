@@ -4,4 +4,4 @@ project(procedural_programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(procedural_programming
-        test-progs/zads.h test-progs/index.cpp test-progs/zad1.h test-progs/zad2.h test-progs/double_type_input.h test-progs/zad3.h test-progs/zad4.h test-progs/zad5.h)
+        test-progs/zads.h test-progs/index.cpp test-progs/zad1.cpp test-progs/zad2.cpp test-progs/dti.cpp test-progs/zad3.cpp test-progs/zad4.cpp test-progs/zad5.cpp test-progs/zad6.cpp test-progs/zad7.cpp test-progs/zad8.cpp test-progs/zad9.cpp test-progs/zad10.cpp)

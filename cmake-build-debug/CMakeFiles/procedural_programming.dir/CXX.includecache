@@ -6,55 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.h
-iostream
--
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/index.cpp
-iostream
--
-zad1.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.h
-zad2.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.h
-zad3.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.h
-zad4.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.h
-zad5.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.h
-double_type_input.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.h
-windows.h
--
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.h
-iostream
--
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad10.cpp
 iostream
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.h
-iostream
--
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.h
-iostream
--
-cmath
--
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.h
-iostream
--
 
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 

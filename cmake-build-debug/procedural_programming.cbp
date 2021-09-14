@@ -80,25 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/dti.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
 		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/index.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad10.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad6.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad7.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad8.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad9.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
 		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h">

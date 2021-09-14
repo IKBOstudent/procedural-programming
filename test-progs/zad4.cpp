@@ -24,7 +24,7 @@ void zad_yeshyo_uravneniye(){
         cout << "\n[ввод коэффициента c]\n";
         c = double_type_input();
 
-        cout << "Вы ввели a = " << a << "; b = " << b << "; c = " << c << endl;
+        cout << "вы ввели a = " << a << "; b = " << b << "; c = " << c << endl;
         cout << "чтобы продолжить введите [y]; чтобы повторить ввод введите [n]" << endl;
         string y_n;
         cin >> y_n;
