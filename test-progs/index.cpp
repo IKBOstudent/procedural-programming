@@ -5,10 +5,20 @@
 #include "zad4.h"
 #include "zad5.h"
 #include "double_type_input.h"
+// для windows
+#include <windows.h>
 
 using namespace std;
 
 int main(){
+    // для CLion
+    SetConsoleCP(CP_UTF8);
+    SetConsoleOutputCP(CP_UTF8);
+
+    // для CodeBlocks
+//    SetConsoleCP(1251);
+//    SetConsoleOutputCP(1251);
+
     cout << "Запуск системы тестирования программ...\n";
 
     // домашнее задание 1

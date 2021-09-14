@@ -78,109 +78,19 @@ CMakeFiles/procedural_programming.dir/test-progs/index.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/index.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\index.cpp -o CMakeFiles\procedural_programming.dir\test-progs\index.cpp.s
 
-CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
-CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj: ../test-progs/zad1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\test-progs\zad1.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad1.cpp
-
-CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad1.cpp > CMakeFiles\procedural_programming.dir\test-progs\zad1.cpp.i
-
-CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad1.cpp -o CMakeFiles\procedural_programming.dir\test-progs\zad1.cpp.s
-
-CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
-CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj: ../test-progs/zad2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\test-progs\zad2.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad2.cpp
-
-CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad2.cpp > CMakeFiles\procedural_programming.dir\test-progs\zad2.cpp.i
-
-CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad2.cpp -o CMakeFiles\procedural_programming.dir\test-progs\zad2.cpp.s
-
-CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
-CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj: ../test-progs/double_type_input.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\test-progs\double_type_input.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\test-progs\double_type_input.cpp
-
-CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\test-progs\double_type_input.cpp > CMakeFiles\procedural_programming.dir\test-progs\double_type_input.cpp.i
-
-CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\double_type_input.cpp -o CMakeFiles\procedural_programming.dir\test-progs\double_type_input.cpp.s
-
-CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
-CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj: ../test-progs/zad3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\test-progs\zad3.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad3.cpp
-
-CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad3.cpp > CMakeFiles\procedural_programming.dir\test-progs\zad3.cpp.i
-
-CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad3.cpp -o CMakeFiles\procedural_programming.dir\test-progs\zad3.cpp.s
-
-CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
-CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj: ../test-progs/zad4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\test-progs\zad4.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad4.cpp
-
-CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad4.cpp > CMakeFiles\procedural_programming.dir\test-progs\zad4.cpp.i
-
-CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad4.cpp -o CMakeFiles\procedural_programming.dir\test-progs\zad4.cpp.s
-
-CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
-CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj: ../test-progs/zad5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\test-progs\zad5.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad5.cpp
-
-CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad5.cpp > CMakeFiles\procedural_programming.dir\test-progs\zad5.cpp.i
-
-CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\test-progs\zad5.cpp -o CMakeFiles\procedural_programming.dir\test-progs\zad5.cpp.s
-
 # Object files for target procedural_programming
 procedural_programming_OBJECTS = \
-"CMakeFiles/procedural_programming.dir/test-progs/index.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj"
+"CMakeFiles/procedural_programming.dir/test-progs/index.cpp.obj"
 
 # External object files for target procedural_programming
 procedural_programming_EXTERNAL_OBJECTS =
 
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/index.cpp.obj
-procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj
-procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj
-procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj
-procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj
-procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj
-procedural_programming.exe: CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/build.make
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/linklibs.rsp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/objects1.rsp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable procedural_programming.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable procedural_programming.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\procedural_programming.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

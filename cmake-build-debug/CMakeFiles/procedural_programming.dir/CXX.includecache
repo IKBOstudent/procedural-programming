@@ -6,51 +6,55 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.h
 iostream
 -
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/index.cpp
 iostream
 -
+zad1.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.h
+zad2.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.h
+zad3.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.h
+zad4.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.h
+zad5.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.h
+double_type_input.h
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.h
 windows.h
 -
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.h
+iostream
+-
+
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.h
 iostream
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.h
 iostream
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.h
 iostream
 -
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.cpp
-iostream
--
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 cmath
 -
-
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.cpp
-iostream
--
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
+
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.h
+iostream
+-
 
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 

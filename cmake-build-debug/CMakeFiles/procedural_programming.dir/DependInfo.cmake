@@ -8,13 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/double_type_input.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/double_type_input.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/index.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/index.cpp.obj"
-  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj"
-  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj"
-  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj"
-  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj"
-  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
