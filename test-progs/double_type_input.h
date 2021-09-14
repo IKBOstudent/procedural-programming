@@ -1,5 +1,4 @@
 #include <iostream>
-#include "zads.h"
 
 using namespace std;
 
@@ -10,12 +9,12 @@ long double double_type_input(){
 
     while (!(cin >> num)){
         cin.clear();
-        cin.ignore(INT_MAX, '\n');
+        cin.ignore(32767, '\n');
         cout << "ввод некорректный! Введите число заново:\n";
     }
 
     cin.clear();
-    cin.ignore(INT_MAX, '\n');
+    cin.ignore(32767, '\n');
 
     return num;
 }
