@@ -4,6 +4,9 @@
 using namespace std;
 
 void zad_tabulyaziya(){
+
+    cout.precision(12);
+
     cout << "--------------------------------\n";
     cout << "начало задания 10\n\n";
     cout << "эта программа для функции y = (x^2 - 2x + 2)/(x - 1)\n"
@@ -26,7 +29,3 @@ void zad_tabulyaziya(){
     cout << "\nконец задания 10\n";
     cout << "--------------------------------\n\n";
 }
-//
-// Created by Mark on 14.09.2021.
-//
-

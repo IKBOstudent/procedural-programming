@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad10.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad14.cpp
 iostream
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
+fstream
+-
 
 C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h
 

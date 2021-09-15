@@ -13,6 +13,21 @@ CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj: \
 CMakeFiles/procedural_programming.dir/test-progs/zad10.cpp.obj: \
  ../test-progs/zad10.cpp \
  ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad11.cpp.obj: \
+ ../test-progs/zad11.cpp \
+ ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad12.cpp.obj: \
+ ../test-progs/zad12.cpp \
+ ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad13.cpp.obj: \
+ ../test-progs/zad13.cpp \
+ ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad14.cpp.obj: \
+ ../test-progs/zad14.cpp \
+ ../test-progs/zads.h
+CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.obj: \
+ ../test-progs/zad15.cpp \
+ ../test-progs/zads.h
 CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj: \
  ../test-progs/zad2.cpp \
  ../test-progs/zads.h

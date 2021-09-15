@@ -15,8 +15,16 @@ void zad_funcziya();  // 8
 void zad_poryadok();  // 9
 void zad_tabulyaziya();  // 10
 
+// дз 3
+void zad_zayem();  // 11
+void zad_ssuda();  // 12
+void zad_copy_file();  // 13
+void zad_filtr();  // 14
+void zad_sortirovka_bukv();  // 15
+
 // доп функция ввода чисел с плавающей + валидация
 long double double_type_input();
 int int_type_input();
+bool yes_no_input();
 
 #endif //ZADS_H

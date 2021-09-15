@@ -5,6 +5,9 @@
 using namespace std;
 
 void zad_razvetvleniye(){
+
+    cout.precision(12);
+
     cout << "--------------------------------\n";
     cout << "начало задания 7\n\n";
     cout << "эта программа выводит значение функции w\n";
@@ -21,15 +24,8 @@ void zad_razvetvleniye(){
         a = double_type_input();
 
         cout << "вы ввели x = " << x << "; a = " << a << endl;
-        cout << "чтобы продолжить введите [y]; чтобы повторить ввод введите [n]" << endl;
-        string y_n;
-        cin >> y_n;
-        while (y_n != "y" and y_n != "n") {
-            cout << "ввод некорректный!\n";
-            cout << "чтобы продолжить введите [y]; чтобы повторить ввод введите [n]" << endl;
-            cin >> y_n;
-        }
-        if (y_n == "y") {
+
+        if (yes_no_input()) {
             vvod = false;
         }
     }

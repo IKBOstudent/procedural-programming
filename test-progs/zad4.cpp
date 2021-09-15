@@ -5,6 +5,9 @@
 using namespace std;
 
 void zad_yeshyo_uravneniye(){
+
+    cout.precision(12);
+
     cout << "--------------------------------\n";
     cout << "начало задания 4\n\n";
     cout << "эта программа выводит решение уранения вида: ax^2 + bx + c = 0\n";
@@ -25,15 +28,8 @@ void zad_yeshyo_uravneniye(){
         c = double_type_input();
 
         cout << "вы ввели a = " << a << "; b = " << b << "; c = " << c << endl;
-        cout << "чтобы продолжить введите [y]; чтобы повторить ввод введите [n]" << endl;
-        string y_n;
-        cin >> y_n;
-        while (y_n != "y" and y_n != "n") {
-            cout << "ввод некорректный!\n";
-            cout << "чтобы продолжить введите [y]; чтобы повторить ввод введите [n]" << endl;
-            cin >> y_n;
-        }
-        if (y_n == "y") {
+
+        if (yes_no_input()) {
             vvod = false;
         }
     }
