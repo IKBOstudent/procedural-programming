@@ -29,9 +29,8 @@ void zad_yeshyo_uravneniye(){
 
         cout << "вы ввели a = " << a << "; b = " << b << "; c = " << c << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     long double d = b*b - 4*a*c;
@@ -45,9 +44,8 @@ void zad_yeshyo_uravneniye(){
                 answer1 = 0;
 
             cout << "x = " << answer1 << endl;
-        } else {
+        } else
             cout << "x - любое число\n";
-        }
 
     }
     else if (d == 0) {
@@ -65,9 +63,8 @@ void zad_yeshyo_uravneniye(){
             answer2 = 0;
         cout << "x1 = " << answer1 << "x2 = " << answer2 << endl;
 
-    } else {
+    } else
         cout << "нет корней" << endl;
-    }
 
     cout << "\nконец задания 4\n";
     cout << "--------------------------------\n\n";

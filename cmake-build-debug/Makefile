@@ -344,6 +344,54 @@ test-progs/zad15.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.s
 .PHONY : test-progs/zad15.cpp.s
 
+test-progs/zad16.obj: test-progs/zad16.cpp.obj
+.PHONY : test-progs/zad16.obj
+
+# target to build an object file
+test-progs/zad16.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.obj
+.PHONY : test-progs/zad16.cpp.obj
+
+test-progs/zad16.i: test-progs/zad16.cpp.i
+.PHONY : test-progs/zad16.i
+
+# target to preprocess a source file
+test-progs/zad16.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.i
+.PHONY : test-progs/zad16.cpp.i
+
+test-progs/zad16.s: test-progs/zad16.cpp.s
+.PHONY : test-progs/zad16.s
+
+# target to generate assembly for a file
+test-progs/zad16.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.s
+.PHONY : test-progs/zad16.cpp.s
+
+test-progs/zad17.obj: test-progs/zad17.cpp.obj
+.PHONY : test-progs/zad17.obj
+
+# target to build an object file
+test-progs/zad17.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.obj
+.PHONY : test-progs/zad17.cpp.obj
+
+test-progs/zad17.i: test-progs/zad17.cpp.i
+.PHONY : test-progs/zad17.i
+
+# target to preprocess a source file
+test-progs/zad17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.i
+.PHONY : test-progs/zad17.cpp.i
+
+test-progs/zad17.s: test-progs/zad17.cpp.s
+.PHONY : test-progs/zad17.s
+
+# target to generate assembly for a file
+test-progs/zad17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.s
+.PHONY : test-progs/zad17.cpp.s
+
 test-progs/zad2.obj: test-progs/zad2.cpp.obj
 .PHONY : test-progs/zad2.obj
 
@@ -572,6 +620,12 @@ help:
 	@echo ... test-progs/zad15.obj
 	@echo ... test-progs/zad15.i
 	@echo ... test-progs/zad15.s
+	@echo ... test-progs/zad16.obj
+	@echo ... test-progs/zad16.i
+	@echo ... test-progs/zad16.s
+	@echo ... test-progs/zad17.obj
+	@echo ... test-progs/zad17.i
+	@echo ... test-progs/zad17.s
 	@echo ... test-progs/zad2.obj
 	@echo ... test-progs/zad2.i
 	@echo ... test-progs/zad2.s

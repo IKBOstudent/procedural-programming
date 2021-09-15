@@ -28,9 +28,8 @@ void zad_funcziya(){
 
         cout << "вы ввели x = " << x << "; y = " << y << "; b = " << b << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     cout << "\nвывод задания 8: \n";

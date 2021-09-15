@@ -14,10 +14,9 @@ void zad_copy_file(){
     cout << "\nвывод задания 13: \n";
 
     ifstream fin(filename);
-    if (!fin.is_open()) {
-        cout << "Невозможно открыть файл '"
-             << filename << "'" << endl;
-    } else {
+    if (!fin.is_open())
+        cout << "Невозможно открыть файл '" << filename << "'" << endl;
+    else {
         cout << "\n[начало файла]\n";
         while (!fin.eof()){
             string s;
@@ -29,7 +28,6 @@ void zad_copy_file(){
                 cout << "\n[конец файла]\n";
         }
     }
-
     fin.close();
 
     cout << "\nконец задания 13\n";

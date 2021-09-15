@@ -22,6 +22,10 @@ void zad_copy_file();  // 13
 void zad_filtr();  // 14
 void zad_sortirovka_bukv();  // 15
 
+// дз 4
+void zad_file();  // 16
+void zad_znak_chisla();  // 17
+
 // доп функция ввода чисел с плавающей + валидация
 long double double_type_input();
 int int_type_input();

@@ -25,9 +25,8 @@ void zad_razvetvleniye(){
 
         cout << "вы ввели x = " << x << "; a = " << a << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     cout << "\nвывод задания 7: \n";

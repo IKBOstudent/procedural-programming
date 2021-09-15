@@ -35,9 +35,8 @@ void zad_konus() {
 
         cout << "вы ввели r1 = " << r1 << "; r2 = " << r2 << "; h = " << h << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     // v = 1/3*pi*h*(r1^2 + r1*r2 + r2^2)

@@ -24,9 +24,8 @@ void zad_ariphmetica(){
 
         cout << "Вы ввели a = " << a << "; b = " << b << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     cout << "\nвывод задания 2:\n\n";
@@ -35,9 +34,8 @@ void zad_ariphmetica(){
     sum = a + b;
     raz = a - b;
     prod = a * b;
-    if (prod == 0){
+    if (prod == 0)
         prod = 0;
-    }
 
     cout << "сумма: " << sum << endl;
     cout << "разность: " << raz << endl;

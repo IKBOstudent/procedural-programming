@@ -14,10 +14,9 @@ void zad_filtr(){
     cout << "\nвывод задания 14: \n";
 
     ifstream fin(filename);
-    if (!fin.is_open()) {
-        cout << "Невозможно открыть файл '"
-             << filename << "'" << endl;
-    } else {
+    if (!fin.is_open())
+        cout << "Невозможно открыть файл '" << filename << "'" << endl;
+    else {
         cout << "\n[начало файла]\n";
         while (!fin.eof()){
             string s;
@@ -34,7 +33,6 @@ void zad_filtr(){
                 cout << "\n[конец файла]\n";
         }
     }
-
     fin.close();
 
     cout << "\nконец задания 14\n";

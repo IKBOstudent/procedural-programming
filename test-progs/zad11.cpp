@@ -35,9 +35,8 @@ void zad_zayem() {
 
         cout << "вы ввели S = " << s << "; n = " << n << "; p = " << p << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     long double r, pow_p, answer;

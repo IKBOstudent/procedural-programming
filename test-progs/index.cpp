@@ -41,6 +41,10 @@ int main(){
     //zad_filtr();  // 14
     //zad_sortirovka_bukv();  // 15
 
+    // домашнее задание 4
+
+    //zad_file();  // 16
+    //zad_znak_chisla();  // 17
 
 
     cout << "Завершение работы системы тестирования...\n";

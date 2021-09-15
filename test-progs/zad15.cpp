@@ -30,13 +30,13 @@ void zad_sortirovka_bukv(){
         }
     }
 
+    cout << "\nвывод задания 15: \n";
+
     // вывод массива
     for (int i = 0; i < length; ++i){
         cout << a[i];
         (i == length-1) ? cout << "\n" : cout << ", ";
     }
-
-    cout << "\nвывод задания 15: \n";
 
     cout << "\n\nконец задания 15\n";
     cout << "--------------------------------\n\n";

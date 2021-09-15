@@ -22,9 +22,8 @@ void zad_poryadok(){
 
         cout << "Вы ввели N = " << n << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     cout << "\nвывод задания 9: \n";

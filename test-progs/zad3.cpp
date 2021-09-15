@@ -24,9 +24,8 @@ void zad_uravneniye(){
 
         cout << "Вы ввели b = " << b << "; c = " << c << endl;
 
-        if (yes_no_input()) {
+        if (yes_no_input())
             vvod = false;
-        }
     }
 
     cout << "\nвывод задания 3:\n\n";
@@ -37,9 +36,8 @@ void zad_uravneniye(){
             answer = 0;
 
         cout << "x = " << answer << endl;
-    } else{
+    } else
         cout << "нет корней" << endl;
-    }
 
     cout << "\nконец задания 3\n";
     cout << "--------------------------------\n\n";

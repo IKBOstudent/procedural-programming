@@ -8,6 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/procedural_programming.dir/test-progs/zad13.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad14.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj"
   "CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj"
