@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad15.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad16.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad17.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.obj"
+  "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad18.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj"

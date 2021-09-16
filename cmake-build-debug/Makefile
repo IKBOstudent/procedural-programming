@@ -392,6 +392,30 @@ test-progs/zad17.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.s
 .PHONY : test-progs/zad17.cpp.s
 
+test-progs/zad18.obj: test-progs/zad18.cpp.obj
+.PHONY : test-progs/zad18.obj
+
+# target to build an object file
+test-progs/zad18.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.obj
+.PHONY : test-progs/zad18.cpp.obj
+
+test-progs/zad18.i: test-progs/zad18.cpp.i
+.PHONY : test-progs/zad18.i
+
+# target to preprocess a source file
+test-progs/zad18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.i
+.PHONY : test-progs/zad18.cpp.i
+
+test-progs/zad18.s: test-progs/zad18.cpp.s
+.PHONY : test-progs/zad18.s
+
+# target to generate assembly for a file
+test-progs/zad18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.s
+.PHONY : test-progs/zad18.cpp.s
+
 test-progs/zad2.obj: test-progs/zad2.cpp.obj
 .PHONY : test-progs/zad2.obj
 
@@ -626,6 +650,9 @@ help:
 	@echo ... test-progs/zad17.obj
 	@echo ... test-progs/zad17.i
 	@echo ... test-progs/zad17.s
+	@echo ... test-progs/zad18.obj
+	@echo ... test-progs/zad18.i
+	@echo ... test-progs/zad18.s
 	@echo ... test-progs/zad2.obj
 	@echo ... test-progs/zad2.i
 	@echo ... test-progs/zad2.s

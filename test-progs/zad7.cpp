@@ -5,13 +5,13 @@
 using namespace std;
 
 void zad_razvetvleniye(){
-
-    cout.precision(12);
-
+    cout.precision(24);
     cout << "--------------------------------\n";
+#ifdef RUS
     cout << "начало задания 7\n\n";
     cout << "эта программа выводит значение функции w\n";
-    cout << "при |x| >= 1: w = a * ln|x|; при |x| < 1: w = sqrt(a-x^2)\n";
+    cout << "при |x| < 1: w = a * ln|x|;\n"
+            "при |x| >= 1: w = sqrt(a-x^2)\n";
 
     long double x, a;
     bool vvod = true;
@@ -40,6 +40,40 @@ void zad_razvetvleniye(){
         cout << "w = " << a * logl(abs(x)) << endl;
 
     cout << "\nконец задания 7\n";
+#else
+    cout << "Task 7 BEGIN\n\n";
+    cout << "This program prints W value\n";
+    cout << "if |x| < 1: W = a * ln|x|;\n"
+            "if |x| >= 1: W = sqrt(a-x^2)\n";
+
+    long double x, a;
+    bool vvod = true;
+
+    while (vvod){
+        cout << "\n[x input]\n";
+        x = double_type_input();
+
+        cout << "\n[a input]\n";
+        a = double_type_input();
+
+        cout << "x = " << x << "; a = " << a << endl;
+
+        if (yes_no_input())
+            vvod = false;
+    }
+
+    cout << "\nTask 7 OUTPUT: \n";
+
+    if (abs(x) >= 1) {
+        if (x*x > a)
+            cout << "W is undefined\n";
+        else
+            cout << "W = " << sqrtl(a - x*x) << endl;
+    } else
+        cout << "W = " << a * logl(abs(x)) << endl;
+
+    cout << "\nTask 7 END\n";
+#endif
     cout << "--------------------------------\n\n";
 }
 

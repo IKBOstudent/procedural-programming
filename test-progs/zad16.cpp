@@ -6,34 +6,35 @@ using namespace std;
 
 void zad_file(){
     cout << "--------------------------------\n";
-    cout << "начало задания 16\n\n";
-    cout << "эта программа выводит сумму чисел введенных вами в файл\n";
+    cout << "Task 16 BEGIN\n\n";
+    cout << "This program prints sum of numbers from "
+            "file \"test.txt\"\n";
 
     string filename("../test-progs/test.txt");
 
     ofstream fout(filename);
     if (!fout.is_open())
-        cout << "Невозможно открыть файл '" << filename << "'" << endl;
+        cout << "Unable to open '" << filename << "'" << endl;
     else {
         long double a;
 
-        cout << "введите 10 чисел\n";
+        cout << "Enter a chain of 10 numbers\n";
         for (int i = 0; i < 10; ++i){
-            cout << "\n[ввод числа]\n";
+            cout << "\n[number input]\n";
             a = double_type_input();
             fout << a << " ";
         }
     }
     fout.close();
 
-    cout << "\nвывод задания 16: \n";
+    cout << "\nTask 16 OUTPUT: \n";
 
-    long double summa = 0;
+    long double summa = 0.0;
     long double number;
 
     ifstream fin(filename);
     if (!fin.is_open())
-        cout << "Невозможно открыть файл '" << filename << "'" << endl;
+        cout << "Unable to open '" << filename << "'" << endl;
     else {
         while(fin >> number){
             summa += number;
@@ -41,8 +42,8 @@ void zad_file(){
     }
     fin.close();
 
-    cout << "сумма чисел = " << summa << endl;
+    cout << "\nSum = " << summa << endl;
 
-    cout << "\nконец задания 16\n";
+    cout << "\nTask 16 END\n";
     cout << "--------------------------------\n\n";
 }

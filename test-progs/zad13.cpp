@@ -6,6 +6,7 @@ using namespace std;
 
 void zad_copy_file(){
     cout << "--------------------------------\n";
+#ifdef RUS
     cout << "начало задания 13\n\n";
     cout << "эта программа выводит содержимое файла на экран\n";
 
@@ -31,5 +32,33 @@ void zad_copy_file(){
     fin.close();
 
     cout << "\nконец задания 13\n";
+#else
+    cout << "Task 13 BEGIN\n\n";
+    cout << "This program print the content of "
+            "file \"test.txt\"\n";
+
+    string filename("../test-progs/test.txt");
+
+    cout << "\nTask 13 OUTPUT: \n";
+
+    ifstream fin(filename);
+    if (!fin.is_open())
+        cout << "Unable to open '" << filename << "'" << endl;
+    else {
+        cout << "\n[FILE BEGIN]\n";
+        while (!fin.eof()){
+            string s;
+            getline(fin, s);
+            cout << s;
+            if (!fin.eof())
+                cout << endl;
+            else
+                cout << "\n[FILE END]\n";
+        }
+    }
+    fin.close();
+
+    cout << "\nTask 13 END\n";
+#endif
     cout << "--------------------------------\n\n";
 }
