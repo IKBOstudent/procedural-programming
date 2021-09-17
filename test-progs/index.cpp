@@ -59,7 +59,7 @@ int main(){
 #ifdef RUS
     cout << "Завершение работы системы тестирования...\n";
 #else
-    cout << "Quitting test system ...";
+    cout << "Quitting test system ...\n";
 #endif
 
     return 0;

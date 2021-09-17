@@ -14,7 +14,7 @@ void zad_yeshyo_uravneniye(){
     cout << "эта программа выводит решение уранения "
             "вида: ax^2 + bx + c = 0\n";
 
-    long double answer1, answer2, a, b, c;
+    long double a, b, c;
     bool vvod = true;
 
     while (vvod){
@@ -37,6 +37,8 @@ void zad_yeshyo_uravneniye(){
 
     cout << "\nвывод задания 4:\n\n";
 
+    long double answer1, answer2;
+
     if (a == 0){
         if (b != 0) {
             answer1 = -c / b;
@@ -44,8 +46,14 @@ void zad_yeshyo_uravneniye(){
                 answer1 = 0;
 
             cout << "x = " << answer1 << endl;
-        } else
+        } else {
+          if (c == 0)
             cout << "x - любое число" << endl;
+          else
+            cout << "нет корней\n";
+        }
+
+
     } else if (d == 0) {
         answer1 = -b / (2 * a);
         if (answer1 == 0)

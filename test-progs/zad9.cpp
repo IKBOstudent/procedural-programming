@@ -16,11 +16,6 @@ void zad_poryadok(){
         cout << "\n[ввод N]\n";
         n = int_type_input();
 
-        if (n <= 0) {
-            cout << "введите натуральное n!\n";
-            continue;
-        }
-
         cout << "Вы ввели N = " << n << endl;
 
         if (yes_no_input())
@@ -28,6 +23,9 @@ void zad_poryadok(){
     }
 
     cout << "\nвывод задания 9: \n";
+
+    if (n <= 0)
+        n = 1;
 
     for (long long i = n; i < n + 10; ++i) {
         cout << i;
@@ -47,11 +45,6 @@ void zad_poryadok(){
         cout << "\n[N input]\n";
         n = int_type_input();
 
-        if (n <= 0) {
-            cout << "Enter natural N!\n";
-            continue;
-        }
-
         cout << "N = " << n << endl;
 
         if (yes_no_input())
@@ -59,6 +52,9 @@ void zad_poryadok(){
     }
 
     cout << "\nTask 9 OUTPUT: \n";
+
+    if (n <= 0)
+        n = 1;
 
     for (long long i = n; i < n + 10; ++i) {
         cout << i;

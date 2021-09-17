@@ -32,6 +32,12 @@ void zad_konus() {
             continue;
         }
 
+        if (r1 == r2) {
+            cout << "вы ввели параметры цилиндра!\n";
+            cout << "повторите ввод параметров!\n";
+            continue;
+        }
+
         cout << "вы ввели r1 = " << r1 << "; r2 = " << r2 << "; h = " << h << endl;
 
         if (yes_no_input())
@@ -72,6 +78,12 @@ void zad_konus() {
 
         if (r1 <= 0 or r2 <= 0 or h <= 0) {
             cout << "Invalid geometric object parameters!\n";
+            cout << "Enter parameters again...\n";
+            continue;
+        }
+
+        if (r1 == r2) {
+            cout << "These are cilinder parameters!\n";
             cout << "Enter parameters again...\n";
             continue;
         }

@@ -36,8 +36,12 @@ void zad_razvetvleniye(){
             cout << "w не определено\n";
         else
             cout << "w = " << sqrtl(a - x*x) << endl;
-    } else
-        cout << "w = " << a * logl(abs(x)) << endl;
+    } else {
+        if (x != 0)
+            cout << "w = " << a * logl(abs(x)) << endl;
+        else
+            cout << "w не определено\n";
+    }
 
     cout << "\nконец задания 7\n";
 #else
@@ -69,11 +73,14 @@ void zad_razvetvleniye(){
             cout << "W is undefined\n";
         else
             cout << "W = " << sqrtl(a - x*x) << endl;
-    } else
-        cout << "W = " << a * logl(abs(x)) << endl;
+    } else {
+        if (x != 0)
+            cout << "w = " << a * logl(abs(x)) << endl;
+        else
+            cout << "w is undefined\n";
+    }
 
     cout << "\nTask 7 END\n";
 #endif
     cout << "--------------------------------\n\n";
 }
-
