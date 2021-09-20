@@ -128,485 +128,485 @@ procedural_programming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/build
 .PHONY : procedural_programming/fast
 
-test-progs/dti.obj: test-progs/dti.cpp.obj
-.PHONY : test-progs/dti.obj
+ikbo/index.obj: ikbo/index.cpp.obj
+.PHONY : ikbo/index.obj
 
 # target to build an object file
-test-progs/dti.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/dti.cpp.obj
-.PHONY : test-progs/dti.cpp.obj
+ikbo/index.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj
+.PHONY : ikbo/index.cpp.obj
 
-test-progs/dti.i: test-progs/dti.cpp.i
-.PHONY : test-progs/dti.i
+ikbo/index.i: ikbo/index.cpp.i
+.PHONY : ikbo/index.i
 
 # target to preprocess a source file
-test-progs/dti.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/dti.cpp.i
-.PHONY : test-progs/dti.cpp.i
+ikbo/index.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.i
+.PHONY : ikbo/index.cpp.i
 
-test-progs/dti.s: test-progs/dti.cpp.s
-.PHONY : test-progs/dti.s
+ikbo/index.s: ikbo/index.cpp.s
+.PHONY : ikbo/index.s
 
 # target to generate assembly for a file
-test-progs/dti.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/dti.cpp.s
-.PHONY : test-progs/dti.cpp.s
+ikbo/index.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.s
+.PHONY : ikbo/index.cpp.s
 
-test-progs/index.obj: test-progs/index.cpp.obj
-.PHONY : test-progs/index.obj
+ikbo/validator.obj: ikbo/validator.cpp.obj
+.PHONY : ikbo/validator.obj
 
 # target to build an object file
-test-progs/index.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/index.cpp.obj
-.PHONY : test-progs/index.cpp.obj
+ikbo/validator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.obj
+.PHONY : ikbo/validator.cpp.obj
 
-test-progs/index.i: test-progs/index.cpp.i
-.PHONY : test-progs/index.i
+ikbo/validator.i: ikbo/validator.cpp.i
+.PHONY : ikbo/validator.i
 
 # target to preprocess a source file
-test-progs/index.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/index.cpp.i
-.PHONY : test-progs/index.cpp.i
+ikbo/validator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.i
+.PHONY : ikbo/validator.cpp.i
 
-test-progs/index.s: test-progs/index.cpp.s
-.PHONY : test-progs/index.s
+ikbo/validator.s: ikbo/validator.cpp.s
+.PHONY : ikbo/validator.s
 
 # target to generate assembly for a file
-test-progs/index.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/index.cpp.s
-.PHONY : test-progs/index.cpp.s
+ikbo/validator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.s
+.PHONY : ikbo/validator.cpp.s
 
-test-progs/zad1.obj: test-progs/zad1.cpp.obj
-.PHONY : test-progs/zad1.obj
+ikbo/zad1.obj: ikbo/zad1.cpp.obj
+.PHONY : ikbo/zad1.obj
 
 # target to build an object file
-test-progs/zad1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.obj
-.PHONY : test-progs/zad1.cpp.obj
+ikbo/zad1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.obj
+.PHONY : ikbo/zad1.cpp.obj
 
-test-progs/zad1.i: test-progs/zad1.cpp.i
-.PHONY : test-progs/zad1.i
+ikbo/zad1.i: ikbo/zad1.cpp.i
+.PHONY : ikbo/zad1.i
 
 # target to preprocess a source file
-test-progs/zad1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.i
-.PHONY : test-progs/zad1.cpp.i
+ikbo/zad1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.i
+.PHONY : ikbo/zad1.cpp.i
 
-test-progs/zad1.s: test-progs/zad1.cpp.s
-.PHONY : test-progs/zad1.s
+ikbo/zad1.s: ikbo/zad1.cpp.s
+.PHONY : ikbo/zad1.s
 
 # target to generate assembly for a file
-test-progs/zad1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad1.cpp.s
-.PHONY : test-progs/zad1.cpp.s
+ikbo/zad1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.s
+.PHONY : ikbo/zad1.cpp.s
 
-test-progs/zad10.obj: test-progs/zad10.cpp.obj
-.PHONY : test-progs/zad10.obj
+ikbo/zad10.obj: ikbo/zad10.cpp.obj
+.PHONY : ikbo/zad10.obj
 
 # target to build an object file
-test-progs/zad10.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad10.cpp.obj
-.PHONY : test-progs/zad10.cpp.obj
+ikbo/zad10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.obj
+.PHONY : ikbo/zad10.cpp.obj
 
-test-progs/zad10.i: test-progs/zad10.cpp.i
-.PHONY : test-progs/zad10.i
+ikbo/zad10.i: ikbo/zad10.cpp.i
+.PHONY : ikbo/zad10.i
 
 # target to preprocess a source file
-test-progs/zad10.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad10.cpp.i
-.PHONY : test-progs/zad10.cpp.i
+ikbo/zad10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.i
+.PHONY : ikbo/zad10.cpp.i
 
-test-progs/zad10.s: test-progs/zad10.cpp.s
-.PHONY : test-progs/zad10.s
+ikbo/zad10.s: ikbo/zad10.cpp.s
+.PHONY : ikbo/zad10.s
 
 # target to generate assembly for a file
-test-progs/zad10.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad10.cpp.s
-.PHONY : test-progs/zad10.cpp.s
+ikbo/zad10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.s
+.PHONY : ikbo/zad10.cpp.s
 
-test-progs/zad11.obj: test-progs/zad11.cpp.obj
-.PHONY : test-progs/zad11.obj
+ikbo/zad11.obj: ikbo/zad11.cpp.obj
+.PHONY : ikbo/zad11.obj
 
 # target to build an object file
-test-progs/zad11.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad11.cpp.obj
-.PHONY : test-progs/zad11.cpp.obj
+ikbo/zad11.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad11.cpp.obj
+.PHONY : ikbo/zad11.cpp.obj
 
-test-progs/zad11.i: test-progs/zad11.cpp.i
-.PHONY : test-progs/zad11.i
+ikbo/zad11.i: ikbo/zad11.cpp.i
+.PHONY : ikbo/zad11.i
 
 # target to preprocess a source file
-test-progs/zad11.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad11.cpp.i
-.PHONY : test-progs/zad11.cpp.i
+ikbo/zad11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad11.cpp.i
+.PHONY : ikbo/zad11.cpp.i
 
-test-progs/zad11.s: test-progs/zad11.cpp.s
-.PHONY : test-progs/zad11.s
+ikbo/zad11.s: ikbo/zad11.cpp.s
+.PHONY : ikbo/zad11.s
 
 # target to generate assembly for a file
-test-progs/zad11.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad11.cpp.s
-.PHONY : test-progs/zad11.cpp.s
+ikbo/zad11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad11.cpp.s
+.PHONY : ikbo/zad11.cpp.s
 
-test-progs/zad12.obj: test-progs/zad12.cpp.obj
-.PHONY : test-progs/zad12.obj
+ikbo/zad12.obj: ikbo/zad12.cpp.obj
+.PHONY : ikbo/zad12.obj
 
 # target to build an object file
-test-progs/zad12.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad12.cpp.obj
-.PHONY : test-progs/zad12.cpp.obj
+ikbo/zad12.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad12.cpp.obj
+.PHONY : ikbo/zad12.cpp.obj
 
-test-progs/zad12.i: test-progs/zad12.cpp.i
-.PHONY : test-progs/zad12.i
+ikbo/zad12.i: ikbo/zad12.cpp.i
+.PHONY : ikbo/zad12.i
 
 # target to preprocess a source file
-test-progs/zad12.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad12.cpp.i
-.PHONY : test-progs/zad12.cpp.i
+ikbo/zad12.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad12.cpp.i
+.PHONY : ikbo/zad12.cpp.i
 
-test-progs/zad12.s: test-progs/zad12.cpp.s
-.PHONY : test-progs/zad12.s
+ikbo/zad12.s: ikbo/zad12.cpp.s
+.PHONY : ikbo/zad12.s
 
 # target to generate assembly for a file
-test-progs/zad12.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad12.cpp.s
-.PHONY : test-progs/zad12.cpp.s
+ikbo/zad12.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad12.cpp.s
+.PHONY : ikbo/zad12.cpp.s
 
-test-progs/zad13.obj: test-progs/zad13.cpp.obj
-.PHONY : test-progs/zad13.obj
+ikbo/zad13.obj: ikbo/zad13.cpp.obj
+.PHONY : ikbo/zad13.obj
 
 # target to build an object file
-test-progs/zad13.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad13.cpp.obj
-.PHONY : test-progs/zad13.cpp.obj
+ikbo/zad13.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad13.cpp.obj
+.PHONY : ikbo/zad13.cpp.obj
 
-test-progs/zad13.i: test-progs/zad13.cpp.i
-.PHONY : test-progs/zad13.i
+ikbo/zad13.i: ikbo/zad13.cpp.i
+.PHONY : ikbo/zad13.i
 
 # target to preprocess a source file
-test-progs/zad13.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad13.cpp.i
-.PHONY : test-progs/zad13.cpp.i
+ikbo/zad13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad13.cpp.i
+.PHONY : ikbo/zad13.cpp.i
 
-test-progs/zad13.s: test-progs/zad13.cpp.s
-.PHONY : test-progs/zad13.s
+ikbo/zad13.s: ikbo/zad13.cpp.s
+.PHONY : ikbo/zad13.s
 
 # target to generate assembly for a file
-test-progs/zad13.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad13.cpp.s
-.PHONY : test-progs/zad13.cpp.s
+ikbo/zad13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad13.cpp.s
+.PHONY : ikbo/zad13.cpp.s
 
-test-progs/zad14.obj: test-progs/zad14.cpp.obj
-.PHONY : test-progs/zad14.obj
+ikbo/zad14.obj: ikbo/zad14.cpp.obj
+.PHONY : ikbo/zad14.obj
 
 # target to build an object file
-test-progs/zad14.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad14.cpp.obj
-.PHONY : test-progs/zad14.cpp.obj
+ikbo/zad14.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad14.cpp.obj
+.PHONY : ikbo/zad14.cpp.obj
 
-test-progs/zad14.i: test-progs/zad14.cpp.i
-.PHONY : test-progs/zad14.i
+ikbo/zad14.i: ikbo/zad14.cpp.i
+.PHONY : ikbo/zad14.i
 
 # target to preprocess a source file
-test-progs/zad14.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad14.cpp.i
-.PHONY : test-progs/zad14.cpp.i
+ikbo/zad14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad14.cpp.i
+.PHONY : ikbo/zad14.cpp.i
 
-test-progs/zad14.s: test-progs/zad14.cpp.s
-.PHONY : test-progs/zad14.s
+ikbo/zad14.s: ikbo/zad14.cpp.s
+.PHONY : ikbo/zad14.s
 
 # target to generate assembly for a file
-test-progs/zad14.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad14.cpp.s
-.PHONY : test-progs/zad14.cpp.s
+ikbo/zad14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad14.cpp.s
+.PHONY : ikbo/zad14.cpp.s
 
-test-progs/zad15.obj: test-progs/zad15.cpp.obj
-.PHONY : test-progs/zad15.obj
+ikbo/zad15.obj: ikbo/zad15.cpp.obj
+.PHONY : ikbo/zad15.obj
 
 # target to build an object file
-test-progs/zad15.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.obj
-.PHONY : test-progs/zad15.cpp.obj
+ikbo/zad15.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.obj
+.PHONY : ikbo/zad15.cpp.obj
 
-test-progs/zad15.i: test-progs/zad15.cpp.i
-.PHONY : test-progs/zad15.i
+ikbo/zad15.i: ikbo/zad15.cpp.i
+.PHONY : ikbo/zad15.i
 
 # target to preprocess a source file
-test-progs/zad15.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.i
-.PHONY : test-progs/zad15.cpp.i
+ikbo/zad15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.i
+.PHONY : ikbo/zad15.cpp.i
 
-test-progs/zad15.s: test-progs/zad15.cpp.s
-.PHONY : test-progs/zad15.s
+ikbo/zad15.s: ikbo/zad15.cpp.s
+.PHONY : ikbo/zad15.s
 
 # target to generate assembly for a file
-test-progs/zad15.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad15.cpp.s
-.PHONY : test-progs/zad15.cpp.s
+ikbo/zad15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.s
+.PHONY : ikbo/zad15.cpp.s
 
-test-progs/zad16.obj: test-progs/zad16.cpp.obj
-.PHONY : test-progs/zad16.obj
+ikbo/zad16.obj: ikbo/zad16.cpp.obj
+.PHONY : ikbo/zad16.obj
 
 # target to build an object file
-test-progs/zad16.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.obj
-.PHONY : test-progs/zad16.cpp.obj
+ikbo/zad16.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.obj
+.PHONY : ikbo/zad16.cpp.obj
 
-test-progs/zad16.i: test-progs/zad16.cpp.i
-.PHONY : test-progs/zad16.i
+ikbo/zad16.i: ikbo/zad16.cpp.i
+.PHONY : ikbo/zad16.i
 
 # target to preprocess a source file
-test-progs/zad16.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.i
-.PHONY : test-progs/zad16.cpp.i
+ikbo/zad16.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.i
+.PHONY : ikbo/zad16.cpp.i
 
-test-progs/zad16.s: test-progs/zad16.cpp.s
-.PHONY : test-progs/zad16.s
+ikbo/zad16.s: ikbo/zad16.cpp.s
+.PHONY : ikbo/zad16.s
 
 # target to generate assembly for a file
-test-progs/zad16.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad16.cpp.s
-.PHONY : test-progs/zad16.cpp.s
+ikbo/zad16.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.s
+.PHONY : ikbo/zad16.cpp.s
 
-test-progs/zad17.obj: test-progs/zad17.cpp.obj
-.PHONY : test-progs/zad17.obj
+ikbo/zad17.obj: ikbo/zad17.cpp.obj
+.PHONY : ikbo/zad17.obj
 
 # target to build an object file
-test-progs/zad17.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.obj
-.PHONY : test-progs/zad17.cpp.obj
+ikbo/zad17.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.obj
+.PHONY : ikbo/zad17.cpp.obj
 
-test-progs/zad17.i: test-progs/zad17.cpp.i
-.PHONY : test-progs/zad17.i
+ikbo/zad17.i: ikbo/zad17.cpp.i
+.PHONY : ikbo/zad17.i
 
 # target to preprocess a source file
-test-progs/zad17.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.i
-.PHONY : test-progs/zad17.cpp.i
+ikbo/zad17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.i
+.PHONY : ikbo/zad17.cpp.i
 
-test-progs/zad17.s: test-progs/zad17.cpp.s
-.PHONY : test-progs/zad17.s
+ikbo/zad17.s: ikbo/zad17.cpp.s
+.PHONY : ikbo/zad17.s
 
 # target to generate assembly for a file
-test-progs/zad17.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad17.cpp.s
-.PHONY : test-progs/zad17.cpp.s
+ikbo/zad17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.s
+.PHONY : ikbo/zad17.cpp.s
 
-test-progs/zad18.obj: test-progs/zad18.cpp.obj
-.PHONY : test-progs/zad18.obj
+ikbo/zad18.obj: ikbo/zad18.cpp.obj
+.PHONY : ikbo/zad18.obj
 
 # target to build an object file
-test-progs/zad18.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.obj
-.PHONY : test-progs/zad18.cpp.obj
+ikbo/zad18.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj
+.PHONY : ikbo/zad18.cpp.obj
 
-test-progs/zad18.i: test-progs/zad18.cpp.i
-.PHONY : test-progs/zad18.i
+ikbo/zad18.i: ikbo/zad18.cpp.i
+.PHONY : ikbo/zad18.i
 
 # target to preprocess a source file
-test-progs/zad18.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.i
-.PHONY : test-progs/zad18.cpp.i
+ikbo/zad18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.i
+.PHONY : ikbo/zad18.cpp.i
 
-test-progs/zad18.s: test-progs/zad18.cpp.s
-.PHONY : test-progs/zad18.s
+ikbo/zad18.s: ikbo/zad18.cpp.s
+.PHONY : ikbo/zad18.s
 
 # target to generate assembly for a file
-test-progs/zad18.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad18.cpp.s
-.PHONY : test-progs/zad18.cpp.s
+ikbo/zad18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.s
+.PHONY : ikbo/zad18.cpp.s
 
-test-progs/zad2.obj: test-progs/zad2.cpp.obj
-.PHONY : test-progs/zad2.obj
+ikbo/zad2.obj: ikbo/zad2.cpp.obj
+.PHONY : ikbo/zad2.obj
 
 # target to build an object file
-test-progs/zad2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.obj
-.PHONY : test-progs/zad2.cpp.obj
+ikbo/zad2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.obj
+.PHONY : ikbo/zad2.cpp.obj
 
-test-progs/zad2.i: test-progs/zad2.cpp.i
-.PHONY : test-progs/zad2.i
+ikbo/zad2.i: ikbo/zad2.cpp.i
+.PHONY : ikbo/zad2.i
 
 # target to preprocess a source file
-test-progs/zad2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.i
-.PHONY : test-progs/zad2.cpp.i
+ikbo/zad2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.i
+.PHONY : ikbo/zad2.cpp.i
 
-test-progs/zad2.s: test-progs/zad2.cpp.s
-.PHONY : test-progs/zad2.s
+ikbo/zad2.s: ikbo/zad2.cpp.s
+.PHONY : ikbo/zad2.s
 
 # target to generate assembly for a file
-test-progs/zad2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad2.cpp.s
-.PHONY : test-progs/zad2.cpp.s
+ikbo/zad2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.s
+.PHONY : ikbo/zad2.cpp.s
 
-test-progs/zad3.obj: test-progs/zad3.cpp.obj
-.PHONY : test-progs/zad3.obj
+ikbo/zad3.obj: ikbo/zad3.cpp.obj
+.PHONY : ikbo/zad3.obj
 
 # target to build an object file
-test-progs/zad3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.obj
-.PHONY : test-progs/zad3.cpp.obj
+ikbo/zad3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj
+.PHONY : ikbo/zad3.cpp.obj
 
-test-progs/zad3.i: test-progs/zad3.cpp.i
-.PHONY : test-progs/zad3.i
+ikbo/zad3.i: ikbo/zad3.cpp.i
+.PHONY : ikbo/zad3.i
 
 # target to preprocess a source file
-test-progs/zad3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.i
-.PHONY : test-progs/zad3.cpp.i
+ikbo/zad3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.i
+.PHONY : ikbo/zad3.cpp.i
 
-test-progs/zad3.s: test-progs/zad3.cpp.s
-.PHONY : test-progs/zad3.s
+ikbo/zad3.s: ikbo/zad3.cpp.s
+.PHONY : ikbo/zad3.s
 
 # target to generate assembly for a file
-test-progs/zad3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad3.cpp.s
-.PHONY : test-progs/zad3.cpp.s
+ikbo/zad3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.s
+.PHONY : ikbo/zad3.cpp.s
 
-test-progs/zad4.obj: test-progs/zad4.cpp.obj
-.PHONY : test-progs/zad4.obj
+ikbo/zad4.obj: ikbo/zad4.cpp.obj
+.PHONY : ikbo/zad4.obj
 
 # target to build an object file
-test-progs/zad4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.obj
-.PHONY : test-progs/zad4.cpp.obj
+ikbo/zad4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj
+.PHONY : ikbo/zad4.cpp.obj
 
-test-progs/zad4.i: test-progs/zad4.cpp.i
-.PHONY : test-progs/zad4.i
+ikbo/zad4.i: ikbo/zad4.cpp.i
+.PHONY : ikbo/zad4.i
 
 # target to preprocess a source file
-test-progs/zad4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.i
-.PHONY : test-progs/zad4.cpp.i
+ikbo/zad4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.i
+.PHONY : ikbo/zad4.cpp.i
 
-test-progs/zad4.s: test-progs/zad4.cpp.s
-.PHONY : test-progs/zad4.s
+ikbo/zad4.s: ikbo/zad4.cpp.s
+.PHONY : ikbo/zad4.s
 
 # target to generate assembly for a file
-test-progs/zad4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad4.cpp.s
-.PHONY : test-progs/zad4.cpp.s
+ikbo/zad4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.s
+.PHONY : ikbo/zad4.cpp.s
 
-test-progs/zad5.obj: test-progs/zad5.cpp.obj
-.PHONY : test-progs/zad5.obj
+ikbo/zad5.obj: ikbo/zad5.cpp.obj
+.PHONY : ikbo/zad5.obj
 
 # target to build an object file
-test-progs/zad5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.obj
-.PHONY : test-progs/zad5.cpp.obj
+ikbo/zad5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.obj
+.PHONY : ikbo/zad5.cpp.obj
 
-test-progs/zad5.i: test-progs/zad5.cpp.i
-.PHONY : test-progs/zad5.i
+ikbo/zad5.i: ikbo/zad5.cpp.i
+.PHONY : ikbo/zad5.i
 
 # target to preprocess a source file
-test-progs/zad5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.i
-.PHONY : test-progs/zad5.cpp.i
+ikbo/zad5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.i
+.PHONY : ikbo/zad5.cpp.i
 
-test-progs/zad5.s: test-progs/zad5.cpp.s
-.PHONY : test-progs/zad5.s
+ikbo/zad5.s: ikbo/zad5.cpp.s
+.PHONY : ikbo/zad5.s
 
 # target to generate assembly for a file
-test-progs/zad5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad5.cpp.s
-.PHONY : test-progs/zad5.cpp.s
+ikbo/zad5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.s
+.PHONY : ikbo/zad5.cpp.s
 
-test-progs/zad6.obj: test-progs/zad6.cpp.obj
-.PHONY : test-progs/zad6.obj
+ikbo/zad6.obj: ikbo/zad6.cpp.obj
+.PHONY : ikbo/zad6.obj
 
 # target to build an object file
-test-progs/zad6.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad6.cpp.obj
-.PHONY : test-progs/zad6.cpp.obj
+ikbo/zad6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.obj
+.PHONY : ikbo/zad6.cpp.obj
 
-test-progs/zad6.i: test-progs/zad6.cpp.i
-.PHONY : test-progs/zad6.i
+ikbo/zad6.i: ikbo/zad6.cpp.i
+.PHONY : ikbo/zad6.i
 
 # target to preprocess a source file
-test-progs/zad6.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad6.cpp.i
-.PHONY : test-progs/zad6.cpp.i
+ikbo/zad6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.i
+.PHONY : ikbo/zad6.cpp.i
 
-test-progs/zad6.s: test-progs/zad6.cpp.s
-.PHONY : test-progs/zad6.s
+ikbo/zad6.s: ikbo/zad6.cpp.s
+.PHONY : ikbo/zad6.s
 
 # target to generate assembly for a file
-test-progs/zad6.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad6.cpp.s
-.PHONY : test-progs/zad6.cpp.s
+ikbo/zad6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.s
+.PHONY : ikbo/zad6.cpp.s
 
-test-progs/zad7.obj: test-progs/zad7.cpp.obj
-.PHONY : test-progs/zad7.obj
+ikbo/zad7.obj: ikbo/zad7.cpp.obj
+.PHONY : ikbo/zad7.obj
 
 # target to build an object file
-test-progs/zad7.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad7.cpp.obj
-.PHONY : test-progs/zad7.cpp.obj
+ikbo/zad7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad7.cpp.obj
+.PHONY : ikbo/zad7.cpp.obj
 
-test-progs/zad7.i: test-progs/zad7.cpp.i
-.PHONY : test-progs/zad7.i
+ikbo/zad7.i: ikbo/zad7.cpp.i
+.PHONY : ikbo/zad7.i
 
 # target to preprocess a source file
-test-progs/zad7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad7.cpp.i
-.PHONY : test-progs/zad7.cpp.i
+ikbo/zad7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad7.cpp.i
+.PHONY : ikbo/zad7.cpp.i
 
-test-progs/zad7.s: test-progs/zad7.cpp.s
-.PHONY : test-progs/zad7.s
+ikbo/zad7.s: ikbo/zad7.cpp.s
+.PHONY : ikbo/zad7.s
 
 # target to generate assembly for a file
-test-progs/zad7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad7.cpp.s
-.PHONY : test-progs/zad7.cpp.s
+ikbo/zad7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad7.cpp.s
+.PHONY : ikbo/zad7.cpp.s
 
-test-progs/zad8.obj: test-progs/zad8.cpp.obj
-.PHONY : test-progs/zad8.obj
+ikbo/zad8.obj: ikbo/zad8.cpp.obj
+.PHONY : ikbo/zad8.obj
 
 # target to build an object file
-test-progs/zad8.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad8.cpp.obj
-.PHONY : test-progs/zad8.cpp.obj
+ikbo/zad8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad8.cpp.obj
+.PHONY : ikbo/zad8.cpp.obj
 
-test-progs/zad8.i: test-progs/zad8.cpp.i
-.PHONY : test-progs/zad8.i
+ikbo/zad8.i: ikbo/zad8.cpp.i
+.PHONY : ikbo/zad8.i
 
 # target to preprocess a source file
-test-progs/zad8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad8.cpp.i
-.PHONY : test-progs/zad8.cpp.i
+ikbo/zad8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad8.cpp.i
+.PHONY : ikbo/zad8.cpp.i
 
-test-progs/zad8.s: test-progs/zad8.cpp.s
-.PHONY : test-progs/zad8.s
+ikbo/zad8.s: ikbo/zad8.cpp.s
+.PHONY : ikbo/zad8.s
 
 # target to generate assembly for a file
-test-progs/zad8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad8.cpp.s
-.PHONY : test-progs/zad8.cpp.s
+ikbo/zad8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad8.cpp.s
+.PHONY : ikbo/zad8.cpp.s
 
-test-progs/zad9.obj: test-progs/zad9.cpp.obj
-.PHONY : test-progs/zad9.obj
+ikbo/zad9.obj: ikbo/zad9.cpp.obj
+.PHONY : ikbo/zad9.obj
 
 # target to build an object file
-test-progs/zad9.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad9.cpp.obj
-.PHONY : test-progs/zad9.cpp.obj
+ikbo/zad9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad9.cpp.obj
+.PHONY : ikbo/zad9.cpp.obj
 
-test-progs/zad9.i: test-progs/zad9.cpp.i
-.PHONY : test-progs/zad9.i
+ikbo/zad9.i: ikbo/zad9.cpp.i
+.PHONY : ikbo/zad9.i
 
 # target to preprocess a source file
-test-progs/zad9.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad9.cpp.i
-.PHONY : test-progs/zad9.cpp.i
+ikbo/zad9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad9.cpp.i
+.PHONY : ikbo/zad9.cpp.i
 
-test-progs/zad9.s: test-progs/zad9.cpp.s
-.PHONY : test-progs/zad9.s
+ikbo/zad9.s: ikbo/zad9.cpp.s
+.PHONY : ikbo/zad9.s
 
 # target to generate assembly for a file
-test-progs/zad9.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/test-progs/zad9.cpp.s
-.PHONY : test-progs/zad9.cpp.s
+ikbo/zad9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad9.cpp.s
+.PHONY : ikbo/zad9.cpp.s
 
 # Help Target
 help:
@@ -617,66 +617,66 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... procedural_programming
-	@echo ... test-progs/dti.obj
-	@echo ... test-progs/dti.i
-	@echo ... test-progs/dti.s
-	@echo ... test-progs/index.obj
-	@echo ... test-progs/index.i
-	@echo ... test-progs/index.s
-	@echo ... test-progs/zad1.obj
-	@echo ... test-progs/zad1.i
-	@echo ... test-progs/zad1.s
-	@echo ... test-progs/zad10.obj
-	@echo ... test-progs/zad10.i
-	@echo ... test-progs/zad10.s
-	@echo ... test-progs/zad11.obj
-	@echo ... test-progs/zad11.i
-	@echo ... test-progs/zad11.s
-	@echo ... test-progs/zad12.obj
-	@echo ... test-progs/zad12.i
-	@echo ... test-progs/zad12.s
-	@echo ... test-progs/zad13.obj
-	@echo ... test-progs/zad13.i
-	@echo ... test-progs/zad13.s
-	@echo ... test-progs/zad14.obj
-	@echo ... test-progs/zad14.i
-	@echo ... test-progs/zad14.s
-	@echo ... test-progs/zad15.obj
-	@echo ... test-progs/zad15.i
-	@echo ... test-progs/zad15.s
-	@echo ... test-progs/zad16.obj
-	@echo ... test-progs/zad16.i
-	@echo ... test-progs/zad16.s
-	@echo ... test-progs/zad17.obj
-	@echo ... test-progs/zad17.i
-	@echo ... test-progs/zad17.s
-	@echo ... test-progs/zad18.obj
-	@echo ... test-progs/zad18.i
-	@echo ... test-progs/zad18.s
-	@echo ... test-progs/zad2.obj
-	@echo ... test-progs/zad2.i
-	@echo ... test-progs/zad2.s
-	@echo ... test-progs/zad3.obj
-	@echo ... test-progs/zad3.i
-	@echo ... test-progs/zad3.s
-	@echo ... test-progs/zad4.obj
-	@echo ... test-progs/zad4.i
-	@echo ... test-progs/zad4.s
-	@echo ... test-progs/zad5.obj
-	@echo ... test-progs/zad5.i
-	@echo ... test-progs/zad5.s
-	@echo ... test-progs/zad6.obj
-	@echo ... test-progs/zad6.i
-	@echo ... test-progs/zad6.s
-	@echo ... test-progs/zad7.obj
-	@echo ... test-progs/zad7.i
-	@echo ... test-progs/zad7.s
-	@echo ... test-progs/zad8.obj
-	@echo ... test-progs/zad8.i
-	@echo ... test-progs/zad8.s
-	@echo ... test-progs/zad9.obj
-	@echo ... test-progs/zad9.i
-	@echo ... test-progs/zad9.s
+	@echo ... ikbo/index.obj
+	@echo ... ikbo/index.i
+	@echo ... ikbo/index.s
+	@echo ... ikbo/validator.obj
+	@echo ... ikbo/validator.i
+	@echo ... ikbo/validator.s
+	@echo ... ikbo/zad1.obj
+	@echo ... ikbo/zad1.i
+	@echo ... ikbo/zad1.s
+	@echo ... ikbo/zad10.obj
+	@echo ... ikbo/zad10.i
+	@echo ... ikbo/zad10.s
+	@echo ... ikbo/zad11.obj
+	@echo ... ikbo/zad11.i
+	@echo ... ikbo/zad11.s
+	@echo ... ikbo/zad12.obj
+	@echo ... ikbo/zad12.i
+	@echo ... ikbo/zad12.s
+	@echo ... ikbo/zad13.obj
+	@echo ... ikbo/zad13.i
+	@echo ... ikbo/zad13.s
+	@echo ... ikbo/zad14.obj
+	@echo ... ikbo/zad14.i
+	@echo ... ikbo/zad14.s
+	@echo ... ikbo/zad15.obj
+	@echo ... ikbo/zad15.i
+	@echo ... ikbo/zad15.s
+	@echo ... ikbo/zad16.obj
+	@echo ... ikbo/zad16.i
+	@echo ... ikbo/zad16.s
+	@echo ... ikbo/zad17.obj
+	@echo ... ikbo/zad17.i
+	@echo ... ikbo/zad17.s
+	@echo ... ikbo/zad18.obj
+	@echo ... ikbo/zad18.i
+	@echo ... ikbo/zad18.s
+	@echo ... ikbo/zad2.obj
+	@echo ... ikbo/zad2.i
+	@echo ... ikbo/zad2.s
+	@echo ... ikbo/zad3.obj
+	@echo ... ikbo/zad3.i
+	@echo ... ikbo/zad3.s
+	@echo ... ikbo/zad4.obj
+	@echo ... ikbo/zad4.i
+	@echo ... ikbo/zad4.s
+	@echo ... ikbo/zad5.obj
+	@echo ... ikbo/zad5.i
+	@echo ... ikbo/zad5.s
+	@echo ... ikbo/zad6.obj
+	@echo ... ikbo/zad6.i
+	@echo ... ikbo/zad6.s
+	@echo ... ikbo/zad7.obj
+	@echo ... ikbo/zad7.i
+	@echo ... ikbo/zad7.s
+	@echo ... ikbo/zad8.obj
+	@echo ... ikbo/zad8.i
+	@echo ... ikbo/zad8.s
+	@echo ... ikbo/zad9.obj
+	@echo ... ikbo/zad9.i
+	@echo ... ikbo/zad9.s
 .PHONY : help
 
 

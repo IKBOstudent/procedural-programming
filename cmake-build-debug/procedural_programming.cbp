@@ -80,67 +80,67 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/dti.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/index.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/index.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/validator.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad1.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad1.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad10.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad10.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad11.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad11.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad12.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad12.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad13.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad13.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad14.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad14.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad15.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad15.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad16.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad16.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad17.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad17.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad18.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad18.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad2.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad2.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad3.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad3.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad4.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad4.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad5.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad5.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad6.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad6.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad7.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad7.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad8.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad8.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zad9.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad9.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/test-progs/zads.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h">
 			<Option target="procedural_programming"/>
 		</Unit>
 		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/CMakeLists.txt">

@@ -4,4 +4,4 @@ project(procedural_programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(procedural_programming
-        test-progs/zads.h test-progs/index.cpp test-progs/zad1.cpp test-progs/zad2.cpp test-progs/dti.cpp test-progs/zad3.cpp test-progs/zad4.cpp test-progs/zad5.cpp test-progs/zad6.cpp test-progs/zad7.cpp test-progs/zad8.cpp test-progs/zad9.cpp test-progs/zad10.cpp test-progs/zad11.cpp test-progs/zad12.cpp test-progs/zad13.cpp test-progs/zad14.cpp test-progs/zad15.cpp test-progs/zad16.cpp test-progs/zad17.cpp test-progs/zad18.cpp)
+        ikbo/zads.h ikbo/index.cpp ikbo/zad1.cpp ikbo/zad2.cpp ikbo/validator.cpp ikbo/zad3.cpp ikbo/zad4.cpp ikbo/zad5.cpp ikbo/zad6.cpp ikbo/zad7.cpp ikbo/zad8.cpp ikbo/zad9.cpp ikbo/zad10.cpp ikbo/zad11.cpp ikbo/zad12.cpp ikbo/zad13.cpp ikbo/zad14.cpp ikbo/zad15.cpp ikbo/zad16.cpp ikbo/zad17.cpp ikbo/zad18.cpp)
