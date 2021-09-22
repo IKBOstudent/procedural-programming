@@ -12,6 +12,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.obj"

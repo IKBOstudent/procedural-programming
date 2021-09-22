@@ -40,6 +40,12 @@ CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj: \
 CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.obj: \
  ../ikbo/zad2.cpp \
  ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj: \
+ ../ikbo/zad25.cpp \
+ ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj: \
+ ../ikbo/zad26.cpp \
+ ../ikbo/zads.h
 CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj: \
  ../ikbo/zad3.cpp \
  ../ikbo/zads.h

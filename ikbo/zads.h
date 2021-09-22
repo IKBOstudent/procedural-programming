@@ -39,10 +39,12 @@ void zad_umnozheniye_matrits();  // 23
 void zad_systems_schislenya();  // 24
 
 // dom_zad5
-void zad_algorritm_evklid();  // 25
+void zad_algorritm_evklida();  // 25
 void zad_resheto_eratosphena();  // 26
-void zad_obrabotka_tekstovyh_files();  // 27 - 28
-void zad_ryadyu();  // 29 - 30
+void zad_obrabotka_tekstovyh_files_n1();  // 27
+void zad_obrabotka_tekstovyh_files_n2();  // 28
+void zad_ryadyu_n1();  // 29
+void zad_ryadyu_n2();  // 30
 void zad_failyu();  // 31
 
 #endif  // ZADS_H

@@ -21,6 +21,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad17.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad18.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad2.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.obj"
+  "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad25.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj"
+  "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad26.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad3.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad4.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad5.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.obj"

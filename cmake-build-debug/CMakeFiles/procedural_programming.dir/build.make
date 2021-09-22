@@ -325,6 +325,32 @@ CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad18.cpp -o CMakeFiles\procedural_programming.dir\ikbo\zad18.cpp.s
 
+CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
+CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj: ../ikbo/zad25.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\ikbo\zad25.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad25.cpp
+
+CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad25.cpp > CMakeFiles\procedural_programming.dir\ikbo\zad25.cpp.i
+
+CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad25.cpp -o CMakeFiles\procedural_programming.dir\ikbo\zad25.cpp.s
+
+CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
+CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj: ../ikbo/zad26.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\ikbo\zad26.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad26.cpp
+
+CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad26.cpp > CMakeFiles\procedural_programming.dir\ikbo\zad26.cpp.i
+
+CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\ikbo\zad26.cpp -o CMakeFiles\procedural_programming.dir\ikbo\zad26.cpp.s
+
 # Object files for target procedural_programming
 procedural_programming_OBJECTS = \
 "CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj" \
@@ -346,7 +372,9 @@ procedural_programming_OBJECTS = \
 "CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.obj" \
 "CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.obj" \
 "CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.obj" \
-"CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj"
+"CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj" \
+"CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj" \
+"CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj"
 
 # External object files for target procedural_programming
 procedural_programming_EXTERNAL_OBJECTS =
@@ -371,11 +399,13 @@ procedural_programming.exe: CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.obj
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.obj
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj
+procedural_programming.exe: CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj
+procedural_programming.exe: CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/build.make
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/linklibs.rsp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/objects1.rsp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable procedural_programming.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable procedural_programming.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\procedural_programming.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
