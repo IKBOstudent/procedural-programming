@@ -11,12 +11,12 @@ void zad_filtr(){
     cout << "------------------------------------------------------\n";
     cout << "Task 14 BEGIN\n\n";
 
-    cout << "\'\'\' This program prints only digits from "
+    cout << "\'\'\' This program prints only digits from\n"
             "file \"test.txt\" \'\'\'\n";
 
     string filename("../ikbo/test.txt");
 
-    cout << "\nTask 14 BEGIN: \n";
+    cout << "\nTask 14 OUTPUT: \n";
 
     ifstream fin(filename);
     if (!fin.is_open())

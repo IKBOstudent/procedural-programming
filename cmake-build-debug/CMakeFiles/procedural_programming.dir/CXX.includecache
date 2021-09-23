@@ -6,20 +6,12 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad19.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad22.cpp
 iostream
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
-
-C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad20.cpp
-iostream
--
-zads.h
-C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
-windows.h
--
-cmath
+ctime
 -
 
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h

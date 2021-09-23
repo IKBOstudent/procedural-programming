@@ -488,6 +488,54 @@ ikbo/zad20.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.s
 .PHONY : ikbo/zad20.cpp.s
 
+ikbo/zad21.obj: ikbo/zad21.cpp.obj
+.PHONY : ikbo/zad21.obj
+
+# target to build an object file
+ikbo/zad21.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad21.cpp.obj
+.PHONY : ikbo/zad21.cpp.obj
+
+ikbo/zad21.i: ikbo/zad21.cpp.i
+.PHONY : ikbo/zad21.i
+
+# target to preprocess a source file
+ikbo/zad21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad21.cpp.i
+.PHONY : ikbo/zad21.cpp.i
+
+ikbo/zad21.s: ikbo/zad21.cpp.s
+.PHONY : ikbo/zad21.s
+
+# target to generate assembly for a file
+ikbo/zad21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad21.cpp.s
+.PHONY : ikbo/zad21.cpp.s
+
+ikbo/zad22.obj: ikbo/zad22.cpp.obj
+.PHONY : ikbo/zad22.obj
+
+# target to build an object file
+ikbo/zad22.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad22.cpp.obj
+.PHONY : ikbo/zad22.cpp.obj
+
+ikbo/zad22.i: ikbo/zad22.cpp.i
+.PHONY : ikbo/zad22.i
+
+# target to preprocess a source file
+ikbo/zad22.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad22.cpp.i
+.PHONY : ikbo/zad22.cpp.i
+
+ikbo/zad22.s: ikbo/zad22.cpp.s
+.PHONY : ikbo/zad22.s
+
+# target to generate assembly for a file
+ikbo/zad22.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad22.cpp.s
+.PHONY : ikbo/zad22.cpp.s
+
 ikbo/zad25.obj: ikbo/zad25.cpp.obj
 .PHONY : ikbo/zad25.obj
 
@@ -535,6 +583,54 @@ ikbo/zad26.s: ikbo/zad26.cpp.s
 ikbo/zad26.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.s
 .PHONY : ikbo/zad26.cpp.s
+
+ikbo/zad27.obj: ikbo/zad27.cpp.obj
+.PHONY : ikbo/zad27.obj
+
+# target to build an object file
+ikbo/zad27.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.obj
+.PHONY : ikbo/zad27.cpp.obj
+
+ikbo/zad27.i: ikbo/zad27.cpp.i
+.PHONY : ikbo/zad27.i
+
+# target to preprocess a source file
+ikbo/zad27.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.i
+.PHONY : ikbo/zad27.cpp.i
+
+ikbo/zad27.s: ikbo/zad27.cpp.s
+.PHONY : ikbo/zad27.s
+
+# target to generate assembly for a file
+ikbo/zad27.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.s
+.PHONY : ikbo/zad27.cpp.s
+
+ikbo/zad28.obj: ikbo/zad28.cpp.obj
+.PHONY : ikbo/zad28.obj
+
+# target to build an object file
+ikbo/zad28.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.obj
+.PHONY : ikbo/zad28.cpp.obj
+
+ikbo/zad28.i: ikbo/zad28.cpp.i
+.PHONY : ikbo/zad28.i
+
+# target to preprocess a source file
+ikbo/zad28.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.i
+.PHONY : ikbo/zad28.cpp.i
+
+ikbo/zad28.s: ikbo/zad28.cpp.s
+.PHONY : ikbo/zad28.s
+
+# target to generate assembly for a file
+ikbo/zad28.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.s
+.PHONY : ikbo/zad28.cpp.s
 
 ikbo/zad3.obj: ikbo/zad3.cpp.obj
 .PHONY : ikbo/zad3.obj
@@ -758,12 +854,24 @@ help:
 	@echo ... ikbo/zad20.obj
 	@echo ... ikbo/zad20.i
 	@echo ... ikbo/zad20.s
+	@echo ... ikbo/zad21.obj
+	@echo ... ikbo/zad21.i
+	@echo ... ikbo/zad21.s
+	@echo ... ikbo/zad22.obj
+	@echo ... ikbo/zad22.i
+	@echo ... ikbo/zad22.s
 	@echo ... ikbo/zad25.obj
 	@echo ... ikbo/zad25.i
 	@echo ... ikbo/zad25.s
 	@echo ... ikbo/zad26.obj
 	@echo ... ikbo/zad26.i
 	@echo ... ikbo/zad26.s
+	@echo ... ikbo/zad27.obj
+	@echo ... ikbo/zad27.i
+	@echo ... ikbo/zad27.s
+	@echo ... ikbo/zad28.obj
+	@echo ... ikbo/zad28.i
+	@echo ... ikbo/zad28.s
 	@echo ... ikbo/zad3.obj
 	@echo ... ikbo/zad3.i
 	@echo ... ikbo/zad3.s

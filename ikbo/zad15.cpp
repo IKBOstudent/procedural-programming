@@ -12,56 +12,61 @@ void zad_sortirovka_bukv(){
 
     cout << "\'\'\' This program prints sorted array of characters \'\'\'\n";
 
-    cout << "\nEnter a chain of 30 !ENGLISH! characters\n";
+    int length = 5;
+    char * a = new char[length];
 
-    int length = 30;
-    char a[length];
+    cout << "\nEnter a chain of " << length << " english characters\n";
+    cout << "If you type more than " << length << " characters\n"
+            "the odd will be deleted!\n";
 
-    bool bad;
-    while (true) {
-        bad = false;
-        for (int i = 0; i < length; ++i){
-            cin >> a[i];
-            if (65 <= a[i] and a[i] <= 90)
-                a[i] = (char)(a[i] + 32);
-            else if (!(97 <= a[i] and a[i] <= 122)) {
-                if (a[i] != ' ' and a[i] != ',' and a[i] != ';') {
-                    cout << "Oh, you typed not an english character! "
-                            "Enter again\n";
-                    bad = true;
-                    cin.ignore(MAX_INT, '\n');
-                    break;
-                } else
-                    i--;
-            }
+    int counter = 0;
+    char c;
+
+    while (true){
+        cin >> c;
+
+        if ('A' <= c and c <= 'Z'){
+            a[counter] = (char)(c + 32);
+            counter++;
         }
-        if (!bad)
+        else if ('a' <= c and c <= 'z'){
+            a[counter] = c;
+            counter++;
+        }
+        else if (!((32 <= c and c <= 47) or c == ';' or c == '-')) {
+            if (counter == 0) {
+                cout << "Enter ENGLISH LETTERS!\n";
+                cin.ignore(MAX_INT, '\n');
+            }
+            else {
+                cout << "You typed not an english character!\n"
+                        "The odd will be deleted\n";
+                cin.ignore(MAX_INT, '\n');
+                break;
+            }
+
+        }
+        if (counter == length)
             break;
     }
 
-    cin.ignore(MAX_INT, '\n');
-    cout << "\nIf you typed more than 10 characters\n"
-            "the odd will be deleted!\n";
-
     // array sort
-    for (int i = 0; i < length; ++i) {
-        for (int j = i+1; j < length; ++j) {
-            if ((int)a[i] > (int)a[j]){
+    for (int i = 0; i < counter; ++i)
+        for (int j = i+1; j < counter; ++j)
+            if (a[i] > a[j]){
                 char tmp = a[i];
                 a[i] = a[j];
                 a[j] = tmp;
             }
-        }
-    }
 
     cout << "\nTask 15 OUTPUT: \n";
 
     // array print
-    for (int i = 0; i < length; ++i){
+    for (int i = 0; i < counter; ++i){
         if (i % 12 == 0)
             cout << endl;
         cout << a[i];
-        (i == length-1) ? cout << "\n" : cout << ", ";
+        (i == counter-1) ? cout << "\n" : cout << ", ";
     }
 
     cout << "\nTask 15 END\n";

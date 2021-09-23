@@ -38,8 +38,8 @@ int main(){
 //    zad_geometricheskiye_figurs();  // 18    [ R  |  - ]
 //    zad_bylaya_slava();  // 19    [ R  |  - ]
 //    zad_sinusoida();  // 20    [ NO RELEASE  |  - ]
-//    zad_automatnyi_rasposnovatel();  // 21    [ -  |  - ]
-//    zad_generator_psevdosluchayinyh_chisel();  // 22    [ -  |  - ]
+//    zad_automatnyi_rasposnovatel();  // 21    [ NO RELEASE  |  - ]
+//    zad_generator_psevdosluchayinyh_chisel();  // 22    [ R  |  - ]
 //    zad_umnozheniye_matrits();  // 23    [ -  |  - ]
 //    zad_systems_schislenya();  // 24    [ -  |  - ]
 
@@ -47,11 +47,8 @@ int main(){
 
 //    zad_algorritm_evklida();  // 25    [ R  |  - ]
 //    zad_resheto_eratosphena();  // 26    [ R  |  - ]
-//    void zad_obrabotka_tekstovyh_files_n8();  // 27    [ -  |  - ]
-//    void zad_obrabotka_tekstovyh_files_n32();  // 28    [ -  |  - ]
-//    void zad_ryadyu_n1();  // 29    [ -  |  - ]
-//    void zad_ryadyu_n2();  // 30    [ -  |  - ]
-//    zad_failyu();  // 31    [ -  |  - ]
+//    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  - ]
+//    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  - ]
 
     cout << "Quitting test system ...\n";
     return 0;
