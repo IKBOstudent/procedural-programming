@@ -416,6 +416,30 @@ ikbo/zad18.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.s
 .PHONY : ikbo/zad18.cpp.s
 
+ikbo/zad19.obj: ikbo/zad19.cpp.obj
+.PHONY : ikbo/zad19.obj
+
+# target to build an object file
+ikbo/zad19.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad19.cpp.obj
+.PHONY : ikbo/zad19.cpp.obj
+
+ikbo/zad19.i: ikbo/zad19.cpp.i
+.PHONY : ikbo/zad19.i
+
+# target to preprocess a source file
+ikbo/zad19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad19.cpp.i
+.PHONY : ikbo/zad19.cpp.i
+
+ikbo/zad19.s: ikbo/zad19.cpp.s
+.PHONY : ikbo/zad19.s
+
+# target to generate assembly for a file
+ikbo/zad19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad19.cpp.s
+.PHONY : ikbo/zad19.cpp.s
+
 ikbo/zad2.obj: ikbo/zad2.cpp.obj
 .PHONY : ikbo/zad2.obj
 
@@ -439,6 +463,30 @@ ikbo/zad2.s: ikbo/zad2.cpp.s
 ikbo/zad2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.s
 .PHONY : ikbo/zad2.cpp.s
+
+ikbo/zad20.obj: ikbo/zad20.cpp.obj
+.PHONY : ikbo/zad20.obj
+
+# target to build an object file
+ikbo/zad20.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.obj
+.PHONY : ikbo/zad20.cpp.obj
+
+ikbo/zad20.i: ikbo/zad20.cpp.i
+.PHONY : ikbo/zad20.i
+
+# target to preprocess a source file
+ikbo/zad20.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.i
+.PHONY : ikbo/zad20.cpp.i
+
+ikbo/zad20.s: ikbo/zad20.cpp.s
+.PHONY : ikbo/zad20.s
+
+# target to generate assembly for a file
+ikbo/zad20.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.s
+.PHONY : ikbo/zad20.cpp.s
 
 ikbo/zad25.obj: ikbo/zad25.cpp.obj
 .PHONY : ikbo/zad25.obj
@@ -701,9 +749,15 @@ help:
 	@echo ... ikbo/zad18.obj
 	@echo ... ikbo/zad18.i
 	@echo ... ikbo/zad18.s
+	@echo ... ikbo/zad19.obj
+	@echo ... ikbo/zad19.i
+	@echo ... ikbo/zad19.s
 	@echo ... ikbo/zad2.obj
 	@echo ... ikbo/zad2.i
 	@echo ... ikbo/zad2.s
+	@echo ... ikbo/zad20.obj
+	@echo ... ikbo/zad20.i
+	@echo ... ikbo/zad20.s
 	@echo ... ikbo/zad25.obj
 	@echo ... ikbo/zad25.i
 	@echo ... ikbo/zad25.s
