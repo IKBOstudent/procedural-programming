@@ -1,6 +1,14 @@
 #ifndef ZADS_H
 #define ZADS_H
 
+void roman();
+
+// custom sorting functions
+void integer_bubble_sort(long long * A, int len);
+void integer_shaker_sort(long long * A, int len);
+void char_bubble_sort(char * A, int len);
+void char_shaker_sort(char * A, int len);
+
 // validation functions
 long double double_type_input();
 long long int_type_input();
@@ -35,8 +43,6 @@ void zad_bylaya_slava();  // 19
 void zad_sinusoida();  // 20
 void zad_automatnyi_rasposnovatel();  // 21
 void zad_generator_psevdosluchayinyh_chisel();  // 22
-void zad_umnozheniye_matrits();  // 23
-void zad_systems_schislenya();  // 24
 
 // dom_zad5
 void zad_algorritm_evklida();  // 25

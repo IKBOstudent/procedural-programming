@@ -1,23 +1,24 @@
 #include <iostream>
 #include <vector>
 #include "zads.h"
+#include <fstream>
 
 using std::cout;
 using std::endl;
 using std::cin;
 using std::string;
 using std::vector;
-const long long MAX_INT = 2147483647;
+using std::ifstream;
 
-void zad_automatnyi_rasposnovatel() {
+
+void roman() {
     cout << "------------------------------------------------------\n";
-    cout << "Task 21 BEGIN\n\n";
+    const string filename("../ikbo/roman.txt");
 
-    cout << "\'\'\' This program converts roman number to integer \'\'\'\n";
+    ifstream fin(filename);
 
-    cout << "\nEnter a roman number using only { I, V, X, L, C, D, M }\n";
-
-    /**
+    while (!fin.eof()) {
+        /**
          * @RULE_1
          * The digits I, X, C and M may occur
          * no more than three times in a row.
@@ -54,61 +55,16 @@ void zad_automatnyi_rasposnovatel() {
          * of the same range 1-9 / 10-90 / 100-900
         */
 
-    const string RULE_1 = "The digits I, X, C and M may occur\n"
-                          "no more than three times in a row.\n";
-
-    const string RULE_2 = "The digits V, L and D may occur only once.\n";
-
-    const string RULE_5 = "The subtractive notation is possible only\n"
-                          "in 6 cases: \"IV\", \"IX\", \"XL\", \"XC\", \"CD\", \"CM\".\n";
-
-    const string RULE_6_7 = "The subtractive notation\n"
-                            "of LOWER value NEVER stands in front\n"
-                            "of a numeral of LARGER value.\n"
-                            "AND a numeral of LOWER value NEVER stands\n"
-                            "in front of a subtractive notation.\n";
-
-    const string RULE_8 = "A numeral NEVER stands AFTER a subtractive notation\n"
-                          "of the same range 1-9 / 10-90 / 100-900\n";
-
-    const string ROMAN_ALPHABET = "IVXLCDM";
-
-    int answer;
-
-
-    while (true) {
         string roman;
-        getline(cin, roman);
-
-        bool bad_string = false;
-
-        if (roman.length() == 0)
-            bad_string = true;
-
-        // checking input
-        for (char i: roman) {
-            bool ok_char = false;
-            for (char j: ROMAN_ALPHABET)
-                if (i == j)
-                    ok_char = true;
-
-            if (!ok_char) {
-                cout << "Your input has NON-roman symbols.\n"
-                        "Enter again!\n";
-                bad_string = true;
-                break;
-            }
-        }
-
-        // if s is ready to be converted
-        if (bad_string)
-            continue;
+        getline(fin, roman, ' ');
 
         const vector<char> DIGITS { 'I', 'V', 'X', 'L', 'C', 'D', 'M' };
         const vector<int> DECIMAL_DIGITS { 1, 5, 10, 50, 100, 500, 1000 };
 
         const vector<string> SUBTRACTIVE_COMBS { "IV", "IX", "XL", "XC", "CD", "CM" };
         const vector<int> DECIMAL_SUBTRACTIVE_COMBS { 4, 9, 40, 90, 400, 900 };
+
+        bool bad_string = false;
 
         int len = (int)roman.length();
 
@@ -127,8 +83,8 @@ void zad_automatnyi_rasposnovatel() {
                         if (last_match == match){
                             repeating[match]++;
                             if (repeating[match] == 4) {
-                                cout << RULE_1;
-                                cout << "Enter again\n";
+                                // RULE_1 violation
+                                cout << "problem RULE_1\n";
                                 bad_string = true;
                                 break;
                             }
@@ -140,8 +96,8 @@ void zad_automatnyi_rasposnovatel() {
                     } else {
                         repeating[match]++;
                         if (repeating[match] == 2) {
-                            cout << RULE_2;
-                            cout << "Enter again\n";
+                            // RULE_2 violation
+                            cout << "problem RULE_2\n";
                             bad_string = true;
                             break;
                         }
@@ -181,8 +137,7 @@ void zad_automatnyi_rasposnovatel() {
                     }
 
                     if (!found_sub){
-                        cout << RULE_5;
-                        cout << "Enter again\n";
+                        cout << "RULE_5 violation\n";
                         bad_string = true;
                         break;
                     } else {
@@ -208,8 +163,7 @@ void zad_automatnyi_rasposnovatel() {
                 int next = decimals[i+1];
 
                 if (current < next) {
-                    cout << RULE_6_7;
-                    cout << "Enter again\n";
+                    cout << "RULE_6-7 violation\n";
                     bad_string = true;
                     break;
                 } else {
@@ -225,29 +179,23 @@ void zad_automatnyi_rasposnovatel() {
                             or (current >= 10 and current < 100 and next >= 10 and next < 100)  // range 10 - 90
                             or (current >= 100 and current < 1000 and next >= 100 and next < 1000))  // range 100 - 900
                         {
-                            cout << RULE_8;
-                            cout << "Enter again\n";
+                            cout << "RULE_8 violation\n";
                             bad_string = true;
                             break;
                         }
                     }
                 }
             }
+
             summa += decimals[i];
         }
 
         if (!bad_string){
-            answer = summa;
-            break;
-        }
+            cout << roman << " = " << summa << endl;
+        } else
+            cout << "bad string\n";
+
     } // end while
 
-
-    cout << "\nTask 21 OUTPUT: \n";
-
-    cout << answer << endl;
-
-
-    cout << "\nTask 21 END\n";
     cout << "------------------------------------------------------\n\n";
 }

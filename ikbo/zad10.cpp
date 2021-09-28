@@ -14,15 +14,15 @@ void zad_tabulyatsiya(){
 
     cout << "\nTask 10 OUTPUT: \n";
 
-    long double x = -4;
+    float y,  x = -4;
     while (x <= 4) {
         if (x == 1)
-            cout << "x = 1; y is undefined\n";
+            cout << "x=1"<< "\t" << ": y is undefined\n";
         else {
-            long double y = (x*x - 2*x + 2)/(x - 1);
-            cout << "x = " << x << ": y = " << y << endl;
+            y = (x*x - 2*x + 2)/(x - 1);
+            cout << "x=" << x << "\t" <<": y=" << y << endl;
         }
-        x += 0.5;
+        x += 0.5f;
     }
 
     cout << "\nTask 10 END\n";

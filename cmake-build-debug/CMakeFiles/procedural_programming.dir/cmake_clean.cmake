@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.obj"

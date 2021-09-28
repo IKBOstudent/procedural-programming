@@ -22,21 +22,35 @@ void zad_filtr(){
     if (!fin.is_open())
         cout << "Unable to open '" << filename << "'" << endl;
     else {
-        cout << "\n[FILE BEGIN]";
-        int counter = 0;
+        cout << "\n[FILE BEGIN]\n";
 
         while (!fin.eof()){
             string s;
             getline(fin, s);
-            auto len = s.length();
 
-            for (int i = 0; i < len; ++i){
+            int i = 0;
+
+            while (i < s.length()){
+                bool start_number = false;
                 if (isdigit(s[i])) {
-                    if (counter % 12 == 0)
-                        cout << endl;
-                    cout << s[i] << "; ";
-                    counter++;
+                    start_number = true;
+
+                    bool start = true;
+                    while (isdigit(s[i])) {
+                        if (s[i] != '0')
+                            start = false;
+                        if (start) {
+                            i++;
+                            continue;
+                        }
+                        cout << s[i];
+                        i++;
+                    }
                 }
+                if (start_number){
+                    cout << endl;
+                }
+                i++;
             }
 
             if (fin.eof())

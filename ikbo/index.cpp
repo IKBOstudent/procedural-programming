@@ -1,10 +1,12 @@
 #include <iostream>
+#include <algorithm>
+#include <vector>
 #include "zads.h"
 
 using std::cout;
 using std::endl;
 
-int main(){
+int main() {
     cout << "Launching test system...\n\n";
 
     /**   dom_zad1   **/
@@ -38,10 +40,10 @@ int main(){
 //    zad_geometricheskiye_figurs();  // 18    [ R  |  - ]
 //    zad_bylaya_slava();  // 19    [ R  |  - ]
 //    zad_sinusoida();  // 20    [ NO RELEASE  |  - ]
-//    zad_automatnyi_rasposnovatel();  // 21    [ NO RELEASE  |  - ]
+//    zad_automatnyi_rasposnovatel();  // 21    [ R  |  - ]
 //    zad_generator_psevdosluchayinyh_chisel();  // 22    [ R  |  - ]
-//    zad_umnozheniye_matrits();  // 23    [ -  |  - ]
-//    zad_systems_schislenya();  // 24    [ -  |  - ]
+//    zad_umnozheniye_matrits();  // 23    [ NO FILE  |  - ]
+//    zad_systems_schislenya();  // 24    [ NO FILE  |  - ]
 
     /**   dom_zad5   **/
 
@@ -50,6 +52,7 @@ int main(){
 //    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  - ]
 //    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  - ]
 
-    cout << "Quitting test system ...\n";
+
+    cout << "\nQuitting test system ...\n";
     return 0;
 }

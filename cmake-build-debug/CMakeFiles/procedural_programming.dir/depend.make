@@ -4,6 +4,12 @@
 CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj: \
  ../ikbo/index.cpp \
  ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj: \
+ ../ikbo/roman.cpp \
+ ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj: \
+ ../ikbo/sort_algs.cpp \
+ ../ikbo/zads.h
 CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.obj: \
  ../ikbo/validator.cpp \
  ../ikbo/zads.h

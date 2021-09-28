@@ -12,7 +12,7 @@ void zad_sortirovka_bukv(){
 
     cout << "\'\'\' This program prints sorted array of characters \'\'\'\n";
 
-    int length = 5;
+    int length = 30;
     char * a = new char[length];
 
     cout << "\nEnter a chain of " << length << " english characters\n";
@@ -20,9 +20,9 @@ void zad_sortirovka_bukv(){
             "the odd will be deleted!\n";
 
     int counter = 0;
-    char c;
 
     while (true){
+        char c;
         cin >> c;
 
         if ('A' <= c and c <= 'Z'){
@@ -51,24 +51,17 @@ void zad_sortirovka_bukv(){
     }
 
     // array sort
-    for (int i = 0; i < counter; ++i)
-        for (int j = i+1; j < counter; ++j)
-            if (a[i] > a[j]){
-                char tmp = a[i];
-                a[i] = a[j];
-                a[j] = tmp;
-            }
+    char_bubble_sort(a, counter);
 
     cout << "\nTask 15 OUTPUT: \n";
 
     // array print
     for (int i = 0; i < counter; ++i){
-        if (i % 12 == 0)
+        if (i % 20 == 0)
             cout << endl;
-        cout << a[i];
-        (i == counter-1) ? cout << "\n" : cout << ", ";
+        cout << a[i] << " ";
     }
 
-    cout << "\nTask 15 END\n";
+    cout << "\n\nTask 15 END\n";
     cout << "------------------------------------------------------\n\n";
 }

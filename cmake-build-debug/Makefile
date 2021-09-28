@@ -152,6 +152,54 @@ ikbo/index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.s
 .PHONY : ikbo/index.cpp.s
 
+ikbo/roman.obj: ikbo/roman.cpp.obj
+.PHONY : ikbo/roman.obj
+
+# target to build an object file
+ikbo/roman.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj
+.PHONY : ikbo/roman.cpp.obj
+
+ikbo/roman.i: ikbo/roman.cpp.i
+.PHONY : ikbo/roman.i
+
+# target to preprocess a source file
+ikbo/roman.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.i
+.PHONY : ikbo/roman.cpp.i
+
+ikbo/roman.s: ikbo/roman.cpp.s
+.PHONY : ikbo/roman.s
+
+# target to generate assembly for a file
+ikbo/roman.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.s
+.PHONY : ikbo/roman.cpp.s
+
+ikbo/sort_algs.obj: ikbo/sort_algs.cpp.obj
+.PHONY : ikbo/sort_algs.obj
+
+# target to build an object file
+ikbo/sort_algs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj
+.PHONY : ikbo/sort_algs.cpp.obj
+
+ikbo/sort_algs.i: ikbo/sort_algs.cpp.i
+.PHONY : ikbo/sort_algs.i
+
+# target to preprocess a source file
+ikbo/sort_algs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.i
+.PHONY : ikbo/sort_algs.cpp.i
+
+ikbo/sort_algs.s: ikbo/sort_algs.cpp.s
+.PHONY : ikbo/sort_algs.s
+
+# target to generate assembly for a file
+ikbo/sort_algs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.s
+.PHONY : ikbo/sort_algs.cpp.s
+
 ikbo/validator.obj: ikbo/validator.cpp.obj
 .PHONY : ikbo/validator.obj
 
@@ -812,6 +860,12 @@ help:
 	@echo ... ikbo/index.obj
 	@echo ... ikbo/index.i
 	@echo ... ikbo/index.s
+	@echo ... ikbo/roman.obj
+	@echo ... ikbo/roman.i
+	@echo ... ikbo/roman.s
+	@echo ... ikbo/sort_algs.obj
+	@echo ... ikbo/sort_algs.i
+	@echo ... ikbo/sort_algs.s
 	@echo ... ikbo/validator.obj
 	@echo ... ikbo/validator.i
 	@echo ... ikbo/validator.s

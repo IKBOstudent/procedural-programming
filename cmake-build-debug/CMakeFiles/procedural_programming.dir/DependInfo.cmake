@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/index.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj"
+  "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/roman.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj"
+  "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/sort_algs.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/validator.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad1.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.obj"
   "C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad10.cpp" "C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.obj"

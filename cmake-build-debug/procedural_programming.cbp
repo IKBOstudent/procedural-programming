@@ -83,6 +83,12 @@
 		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/index.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/roman.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/sort_algs.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
 		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/ikbo/validator.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>

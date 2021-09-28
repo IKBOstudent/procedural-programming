@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad22.cpp
+C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad21.cpp
 iostream
+-
+vector
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
-ctime
--
 
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
 

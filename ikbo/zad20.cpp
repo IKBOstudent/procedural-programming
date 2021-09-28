@@ -1,7 +1,5 @@
 #include <iostream>
 #include "zads.h"
-#include <windows.h>
-#include <cmath>
 
 using std::cout;
 using std::cin;

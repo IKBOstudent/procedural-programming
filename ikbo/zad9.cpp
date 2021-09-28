@@ -24,18 +24,19 @@ void zad_poryadok(){
 
     cout << "\nTask 9 OUTPUT: \n";
 
+    long long start;
     if (n <= 1)
-        n = 1;
+        start = 1;
     else {
-        n = ceill(n);
-        cout << "ceiled n = " << n << endl;
+        start = (long long)ceill(n);
     }
 
-    for (auto i = (long long)n; i < n + 10; ++i) {
+    for (long long i = start; i < start + 10; ++i) {
         cout << i;
-        (i == n + 9) ? cout << "\n" : cout << ", ";
+        (i == start + 9) ? cout << "\n" : cout << ", ";
     }
 
     cout << "\n\nTask 9 END\n";
     cout << "------------------------------------------------------\n\n";
 }
+
