@@ -39,7 +39,7 @@ int main() {
 //    zad_znak_chisla();  // 17    [ R  |  - ]
 //    zad_geometricheskiye_figurs();  // 18    [ R  |  - ]
 //    zad_bylaya_slava();  // 19    [ R  |  - ]
-//    zad_sinusoida();  // 20    [ NO RELEASE  |  - ]
+//    zad_sinusoida();  // 20    [ R  |  - ]
 //    zad_automatnyi_rasposnovatel();  // 21    [ R  |  - ]
 //    zad_generator_psevdosluchayinyh_chisel();  // 22    [ R  |  - ]
 //    zad_umnozheniye_matrits();  // 23    [ NO FILE  |  - ]
