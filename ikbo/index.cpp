@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <vector>
 #include "zads.h"
+#include <cmath>
 
 using std::cout;
 using std::endl;
@@ -42,8 +43,8 @@ int main() {
 //    zad_sinusoida();  // 20    [ R  |  - ]
 //    zad_automatnyi_rasposnovatel();  // 21    [ R  |  - ]
 //    zad_generator_psevdosluchayinyh_chisel();  // 22    [ R  |  - ]
-//    zad_umnozheniye_matrits();  // 23    [ NO FILE  |  - ]
-//    zad_systems_schislenya();  // 24    [ NO FILE  |  - ]
+//    zad_umnozheniye_matrits();  // 23    [ R  |  - ]
+//    zad_systems_schislenya();  // 24    [ R  |  - ]
 
     /**   dom_zad5   **/
 
@@ -51,7 +52,6 @@ int main() {
 //    zad_resheto_eratosphena();  // 26    [ R  |  - ]
 //    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  - ]
 //    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  - ]
-
 
     cout << "\nQuitting test system ...\n";
     return 0;

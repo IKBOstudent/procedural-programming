@@ -43,6 +43,8 @@ void zad_bylaya_slava();  // 19
 void zad_sinusoida();  // 20
 void zad_automatnyi_rasposnovatel();  // 21
 void zad_generator_psevdosluchayinyh_chisel();  // 22
+void zad_umnozheniye_matrits();  // 23
+void zad_systems_schislenya();  // 24
 
 // dom_zad5
 void zad_algorritm_evklida();  // 25
