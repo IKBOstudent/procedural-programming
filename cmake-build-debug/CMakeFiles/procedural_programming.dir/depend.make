@@ -4,9 +4,6 @@
 CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj: \
  ../ikbo/index.cpp \
  ../ikbo/zads.h
-CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj: \
- ../ikbo/roman.cpp \
- ../ikbo/zads.h
 CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj: \
  ../ikbo/sort_algs.cpp \
  ../ikbo/zads.h
@@ -76,8 +73,17 @@ CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.obj: \
 CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.obj: \
  ../ikbo/zad28.cpp \
  ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.obj: \
+ ../ikbo/zad29.cpp \
+ ../ikbo/zads.h
 CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj: \
  ../ikbo/zad3.cpp \
+ ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.obj: \
+ ../ikbo/zad30.cpp \
+ ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.obj: \
+ ../ikbo/zad31.cpp \
  ../ikbo/zads.h
 CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj: \
  ../ikbo/zad4.cpp \

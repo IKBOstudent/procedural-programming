@@ -1,8 +1,6 @@
 #ifndef ZADS_H
 #define ZADS_H
 
-void roman();
-
 // custom sorting functions
 void integer_bubble_sort(long long * A, int len);
 void integer_shaker_sort(long long * A, int len);
@@ -51,5 +49,8 @@ void zad_algorritm_evklida();  // 25
 void zad_resheto_eratosphena();  // 26
 void zad_obrabotka_tekstovyh_files_n8();  // 27
 void zad_obrabotka_tekstovyh_files_n32();  // 28
+void zad_ryady_n7();  // 29
+void zad_ryady_n2();  // 30
+void zad_fily_n11();  // 31
 
 #endif  // ZADS_H

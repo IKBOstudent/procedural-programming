@@ -1,8 +1,6 @@
 #include <iostream>
 #include <algorithm>
-#include <vector>
 #include "zads.h"
-#include <cmath>
 
 using std::cout;
 using std::endl;
@@ -28,11 +26,11 @@ int main() {
 
     /**   dom_zad3   **/
 
-//    zad_zayem();  // 1    [ R  |  - ]
-//    zad_ssuda();  // 12    [ R  |  - ]
-//    zad_copy_file();  // 13    [ R  |  - ]
-//    zad_filtr();  // 14    [ R  |  - ]
-//    zad_sortirovka_bukv();  // 15    [ R  |  - ]
+//    zad_zayem();  // 1    [ R  |  Z ]
+//    zad_ssuda();  // 12    [ R  |  Z ]
+//    zad_copy_file();  // 13    [ R  |  Z ]
+//    zad_filtr();  // 14    [ R  |  Z ]
+//    zad_sortirovka_bukv();  // 15    [ R  |  Z ]
 
     /**   dom_zad4   **/
 
@@ -52,6 +50,9 @@ int main() {
 //    zad_resheto_eratosphena();  // 26    [ R  |  - ]
 //    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  - ]
 //    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  - ]
+//    zad_ryady_n7();  // 29 [ NO RELEASE  |  - ]
+//    zad_ryady_n2();  // 30 [ NO RELEASE  |  - ]
+//    zad_fily_n11();  // 31 [ R  |  - ]
 
     cout << "\nQuitting test system ...\n";
     return 0;

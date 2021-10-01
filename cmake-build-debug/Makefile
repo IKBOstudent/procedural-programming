@@ -152,30 +152,6 @@ ikbo/index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.s
 .PHONY : ikbo/index.cpp.s
 
-ikbo/roman.obj: ikbo/roman.cpp.obj
-.PHONY : ikbo/roman.obj
-
-# target to build an object file
-ikbo/roman.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj
-.PHONY : ikbo/roman.cpp.obj
-
-ikbo/roman.i: ikbo/roman.cpp.i
-.PHONY : ikbo/roman.i
-
-# target to preprocess a source file
-ikbo/roman.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.i
-.PHONY : ikbo/roman.cpp.i
-
-ikbo/roman.s: ikbo/roman.cpp.s
-.PHONY : ikbo/roman.s
-
-# target to generate assembly for a file
-ikbo/roman.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.s
-.PHONY : ikbo/roman.cpp.s
-
 ikbo/sort_algs.obj: ikbo/sort_algs.cpp.obj
 .PHONY : ikbo/sort_algs.obj
 
@@ -728,6 +704,30 @@ ikbo/zad28.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.s
 .PHONY : ikbo/zad28.cpp.s
 
+ikbo/zad29.obj: ikbo/zad29.cpp.obj
+.PHONY : ikbo/zad29.obj
+
+# target to build an object file
+ikbo/zad29.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.obj
+.PHONY : ikbo/zad29.cpp.obj
+
+ikbo/zad29.i: ikbo/zad29.cpp.i
+.PHONY : ikbo/zad29.i
+
+# target to preprocess a source file
+ikbo/zad29.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.i
+.PHONY : ikbo/zad29.cpp.i
+
+ikbo/zad29.s: ikbo/zad29.cpp.s
+.PHONY : ikbo/zad29.s
+
+# target to generate assembly for a file
+ikbo/zad29.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.s
+.PHONY : ikbo/zad29.cpp.s
+
 ikbo/zad3.obj: ikbo/zad3.cpp.obj
 .PHONY : ikbo/zad3.obj
 
@@ -751,6 +751,54 @@ ikbo/zad3.s: ikbo/zad3.cpp.s
 ikbo/zad3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.s
 .PHONY : ikbo/zad3.cpp.s
+
+ikbo/zad30.obj: ikbo/zad30.cpp.obj
+.PHONY : ikbo/zad30.obj
+
+# target to build an object file
+ikbo/zad30.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.obj
+.PHONY : ikbo/zad30.cpp.obj
+
+ikbo/zad30.i: ikbo/zad30.cpp.i
+.PHONY : ikbo/zad30.i
+
+# target to preprocess a source file
+ikbo/zad30.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.i
+.PHONY : ikbo/zad30.cpp.i
+
+ikbo/zad30.s: ikbo/zad30.cpp.s
+.PHONY : ikbo/zad30.s
+
+# target to generate assembly for a file
+ikbo/zad30.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.s
+.PHONY : ikbo/zad30.cpp.s
+
+ikbo/zad31.obj: ikbo/zad31.cpp.obj
+.PHONY : ikbo/zad31.obj
+
+# target to build an object file
+ikbo/zad31.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.obj
+.PHONY : ikbo/zad31.cpp.obj
+
+ikbo/zad31.i: ikbo/zad31.cpp.i
+.PHONY : ikbo/zad31.i
+
+# target to preprocess a source file
+ikbo/zad31.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.i
+.PHONY : ikbo/zad31.cpp.i
+
+ikbo/zad31.s: ikbo/zad31.cpp.s
+.PHONY : ikbo/zad31.s
+
+# target to generate assembly for a file
+ikbo/zad31.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.s
+.PHONY : ikbo/zad31.cpp.s
 
 ikbo/zad4.obj: ikbo/zad4.cpp.obj
 .PHONY : ikbo/zad4.obj
@@ -908,9 +956,6 @@ help:
 	@echo ... ikbo/index.obj
 	@echo ... ikbo/index.i
 	@echo ... ikbo/index.s
-	@echo ... ikbo/roman.obj
-	@echo ... ikbo/roman.i
-	@echo ... ikbo/roman.s
 	@echo ... ikbo/sort_algs.obj
 	@echo ... ikbo/sort_algs.i
 	@echo ... ikbo/sort_algs.s
@@ -980,9 +1025,18 @@ help:
 	@echo ... ikbo/zad28.obj
 	@echo ... ikbo/zad28.i
 	@echo ... ikbo/zad28.s
+	@echo ... ikbo/zad29.obj
+	@echo ... ikbo/zad29.i
+	@echo ... ikbo/zad29.s
 	@echo ... ikbo/zad3.obj
 	@echo ... ikbo/zad3.i
 	@echo ... ikbo/zad3.s
+	@echo ... ikbo/zad30.obj
+	@echo ... ikbo/zad30.i
+	@echo ... ikbo/zad30.s
+	@echo ... ikbo/zad31.obj
+	@echo ... ikbo/zad31.i
+	@echo ... ikbo/zad31.s
 	@echo ... ikbo/zad4.obj
 	@echo ... ikbo/zad4.i
 	@echo ... ikbo/zad4.s

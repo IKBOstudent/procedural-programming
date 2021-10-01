@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj"
-  "CMakeFiles/procedural_programming.dir/ikbo/roman.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.obj"
@@ -24,7 +23,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.obj"
+  "CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.obj"
   "CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.obj"
