@@ -14,12 +14,18 @@ void zad_obrabotka_tekstovyh_files_n32() {
     cout << "\'\'\' This program prints encrypted text\n"
             "from file \"test.txt\" \'\'\'\n";
 
-    string filename("../ikbo/test.txt");
-
-    cout << "\nTask 28 OUTPUT: \n";
+    cout << "\nSHIFT value input\n";
 
     // CAESAR encryption shift
-    int SHIFT = 10;
+    int SHIFT = (int)int_type_input();
+
+    if (SHIFT < 0)
+        SHIFT = 26 + SHIFT;
+
+    SHIFT = SHIFT % 26;
+
+    string filename("../ikbo/test.txt");
+    cout << "\nTask 28 OUTPUT: \n";
 
     ifstream fin(filename);
     if (!fin.is_open())
@@ -28,7 +34,6 @@ void zad_obrabotka_tekstovyh_files_n32() {
         cout << "\n[FILE BEGIN] " << "(shift = " << SHIFT << ")\n";
 
         string s;
-        SHIFT = SHIFT % 26;
 
         while (!fin.eof()) {
             getline(fin, s);

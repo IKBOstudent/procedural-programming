@@ -85,6 +85,9 @@ CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.obj: \
 CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.obj: \
  ../ikbo/zad31.cpp \
  ../ikbo/zads.h
+CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.obj: \
+ ../ikbo/zad32.cpp \
+ ../ikbo/zads.h
 CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj: \
  ../ikbo/zad4.cpp \
  ../ikbo/zads.h

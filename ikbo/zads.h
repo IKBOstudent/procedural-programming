@@ -53,4 +53,6 @@ void zad_ryady_n7();  // 29
 void zad_ryady_n2();  // 30
 void zad_fily_n11();  // 31
 
+void zad_shariki();  // 32
+
 #endif  // ZADS_H

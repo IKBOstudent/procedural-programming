@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 #include "zads.h"
 
 using std::cout;
@@ -34,15 +33,15 @@ int main() {
 
     /**   dom_zad4   **/
 
-//    zad_file();  // 16    [ R  |  - ]
-//    zad_znak_chisla();  // 17    [ R  |  - ]
-//    zad_geometricheskiye_figurs();  // 18    [ R  |  - ]
-//    zad_bylaya_slava();  // 19    [ R  |  - ]
-//    zad_sinusoida();  // 20    [ R  |  - ]
-//    zad_automatnyi_rasposnovatel();  // 21    [ R  |  - ]
-//    zad_generator_psevdosluchayinyh_chisel();  // 22    [ R  |  - ]
-//    zad_umnozheniye_matrits();  // 23    [ R  |  - ]
-//    zad_systems_schislenya();  // 24    [ R  |  - ]
+//    zad_file();  // 16    [ R  |  Z ]
+//    zad_znak_chisla();  // 17    [ R  |  Z ]
+//    zad_geometricheskiye_figurs();  // 18    [ R  |  Z ]
+//    zad_bylaya_slava();  // 19    [ R  |  Z ]
+//    zad_sinusoida();  // 20    [ R  |  Z ]
+//    zad_automatnyi_rasposnovatel();  // 21    [ R  |  Z ]
+//    zad_generator_psevdosluchayinyh_chisel();  // 22    [ R  |  Z ]
+//    zad_umnozheniye_matrits();  // 23    [ R  |  Z ]
+//    zad_systems_schislenya();  // 24    [ R  |  Z ]
 
     /**   dom_zad5   **/
 
@@ -53,6 +52,8 @@ int main() {
 //    zad_ryady_n7();  // 29 [ NO RELEASE  |  - ]
 //    zad_ryady_n2();  // 30 [ NO RELEASE  |  - ]
 //    zad_fily_n11();  // 31 [ R  |  - ]
+
+//    zad_shariki();  // 32 [ NO RELEASE  |  - ]
 
     cout << "\nQuitting test system ...\n";
     return 0;

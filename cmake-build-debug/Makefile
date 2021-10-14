@@ -800,6 +800,30 @@ ikbo/zad31.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.s
 .PHONY : ikbo/zad31.cpp.s
 
+ikbo/zad32.obj: ikbo/zad32.cpp.obj
+.PHONY : ikbo/zad32.obj
+
+# target to build an object file
+ikbo/zad32.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.obj
+.PHONY : ikbo/zad32.cpp.obj
+
+ikbo/zad32.i: ikbo/zad32.cpp.i
+.PHONY : ikbo/zad32.i
+
+# target to preprocess a source file
+ikbo/zad32.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.i
+.PHONY : ikbo/zad32.cpp.i
+
+ikbo/zad32.s: ikbo/zad32.cpp.s
+.PHONY : ikbo/zad32.s
+
+# target to generate assembly for a file
+ikbo/zad32.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.s
+.PHONY : ikbo/zad32.cpp.s
+
 ikbo/zad4.obj: ikbo/zad4.cpp.obj
 .PHONY : ikbo/zad4.obj
 
@@ -1037,6 +1061,9 @@ help:
 	@echo ... ikbo/zad31.obj
 	@echo ... ikbo/zad31.i
 	@echo ... ikbo/zad31.s
+	@echo ... ikbo/zad32.obj
+	@echo ... ikbo/zad32.i
+	@echo ... ikbo/zad32.s
 	@echo ... ikbo/zad4.obj
 	@echo ... ikbo/zad4.i
 	@echo ... ikbo/zad4.s
