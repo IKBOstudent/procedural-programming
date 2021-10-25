@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Mark/CLionProjects/procedural-programming/ikbo/index.cpp
+iostream
+-
+zads.h
+C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
+
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zad32.cpp
 iostream
 -
 zads.h
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
-vector
--
 
 C:/Users/Mark/CLionProjects/procedural-programming/ikbo/zads.h
 

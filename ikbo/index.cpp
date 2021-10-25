@@ -25,7 +25,7 @@ int main() {
 
     /**   dom_zad3   **/
 
-//    zad_zayem();  // 1    [ R  |  Z ]
+//    zad_zayem();  // 11    [ R  |  Z ]
 //    zad_ssuda();  // 12    [ R  |  Z ]
 //    zad_copy_file();  // 13    [ R  |  Z ]
 //    zad_filtr();  // 14    [ R  |  Z ]
@@ -45,15 +45,15 @@ int main() {
 
     /**   dom_zad5   **/
 
-//    zad_algorritm_evklida();  // 25    [ R  |  - ]
-//    zad_resheto_eratosphena();  // 26    [ R  |  - ]
-//    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  - ]
-//    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  - ]
+//    zad_algorritm_evklida();  // 25    [ R  |  Z ]
+//    zad_resheto_eratosphena();  // 26    [ R  |  Z ]
+//    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  Z ]
+//    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  Z ]
 //    zad_ryady_n7();  // 29 [ NO RELEASE  |  - ]
 //    zad_ryady_n2();  // 30 [ NO RELEASE  |  - ]
-//    zad_fily_n11();  // 31 [ R  |  - ]
+//    zad_fily_n11();  // 31 [ R  |  Z ]
 
-//    zad_shariki();  // 32 [ NO RELEASE  |  - ]
+//    zad_shariki();  // 32 [ R  |  Z ]
 
     cout << "\nQuitting test system ...\n";
     return 0;

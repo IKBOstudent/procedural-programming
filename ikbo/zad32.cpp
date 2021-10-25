@@ -1,77 +1,78 @@
 #include <iostream>
 #include "zads.h"
-#include <vector>
 
 using std::cout;
 using std::endl;
-using std::vector;
+using std::swap;
 
-void perm(vector<int> a, int N, int level, long long& ans){
-    if (level == N){
-        bool good = false;
-        for (int i = 0; i < N; i++) {
-            if (a[i] == i+1) {
-                good = true;
-                ans++;
-                break;
-            }
-        }
-//
-//        if (good) {
-//            for (int j = 0; j < N; j++)
-//                cout << a[j] << " ";
-//            cout << endl;
-//        }
-        return;
-    }
-    for (int i = level; i < N; i++){
-        std::swap(a[level], a[i]);
+void perm(int* a, int level);
 
-        perm(a, N, level + 1, ans);
+long long fact(int x){
+    long long res = 1;
+    for (int i = 1; i < x+1; i++)
+        res *= i;
 
-        std::swap(a[level], a[i]);
-    }
+    return res;
 }
+
+long long ANS;
+int N;
 
 void zad_shariki(){
     cout << "------------------------------------------------------\n";
     cout << "Task 32 BEGIN\n\n";
 
-    /**
-     * There are 10 balls in a bin
-     * The balls are numerated from 1 to 10\n\n
-     *
-     * You pull every ball out of the bin one by one and
-     * write down the number of the ball you've pulled in a numerated list\n\n
-     *
-     * Count the number of possible permutations of balls numbers when the index
-     * (position of the ball in the list) of at least one ball is equal to it's number
-     */
-
     cout << "\'\'\' This program solves shariki problem \'\'\'\n";
 
-    int N;
     while (true) {
         N = (int) int_type_input(); // number of balls
-        if (N < 1 or N > 11)
+        if (N < 1 or N > 13)
             cout << "Invalid input\n";
         else
             break;
     }
 
-    vector<int> nums(N, 0);
+    int nums[N];
 
     for (int i = 0; i < N; i++)
         nums[i] = i+1;
 
-    long long ans = 0;
+    ANS = 0;
 
     cout << "\nTask 32 OUTPUT:\n\n";
 
-    perm(nums, N, 0, ans);
+    perm(nums, 0);
 
-    cout << "Answer = " << ans << endl;
+    cout << "Answer = " << ANS << endl;
+    // 11: Answer = 25232230
+    // 12: Answer = 302786759
+    // 13: Answer = 3936227868
 
     cout << "\nTask 32 END\n";
     cout << "------------------------------------------------------\n\n";
+}
+
+
+void perm(int* a, int level){
+    if (level == N){
+        return;
+    }
+    for (int i = level; i < N; i++){
+//        cout << level+1 << " lvl:\n";
+        swap(a[level], a[i]);
+
+//        for(int j = 0; j < N; j++)
+//            cout << a[j] << " ";
+//        cout << endl;
+
+        if (a[i] == i+1) {
+//            cout << "a add " << fact(N - level - 1) << endl;
+            ANS += fact(N - level - 1);
+        } else
+            perm(a, level + 1);
+
+
+        swap(a[level], a[i]);
+//        cout << "end level " << level+1 << endl << endl;
+    }
 }
