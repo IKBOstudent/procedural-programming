@@ -56,5 +56,6 @@ int main() {
 //    zad_shariki();  // 32 [ R  |  Z ]
 
     cout << "\nQuitting test system ...\n";
+
     return 0;
 }
