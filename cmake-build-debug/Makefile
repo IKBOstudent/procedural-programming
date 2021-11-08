@@ -128,845 +128,1013 @@ procedural_programming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/build
 .PHONY : procedural_programming/fast
 
-ikbo/index.obj: ikbo/index.cpp.obj
-.PHONY : ikbo/index.obj
+contr/n1.obj: contr/n1.cpp.obj
+.PHONY : contr/n1.obj
 
 # target to build an object file
-ikbo/index.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.obj
-.PHONY : ikbo/index.cpp.obj
+contr/n1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n1.cpp.obj
+.PHONY : contr/n1.cpp.obj
 
-ikbo/index.i: ikbo/index.cpp.i
-.PHONY : ikbo/index.i
+contr/n1.i: contr/n1.cpp.i
+.PHONY : contr/n1.i
 
 # target to preprocess a source file
-ikbo/index.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.i
-.PHONY : ikbo/index.cpp.i
+contr/n1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n1.cpp.i
+.PHONY : contr/n1.cpp.i
 
-ikbo/index.s: ikbo/index.cpp.s
-.PHONY : ikbo/index.s
+contr/n1.s: contr/n1.cpp.s
+.PHONY : contr/n1.s
 
 # target to generate assembly for a file
-ikbo/index.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/index.cpp.s
-.PHONY : ikbo/index.cpp.s
+contr/n1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n1.cpp.s
+.PHONY : contr/n1.cpp.s
 
-ikbo/sort_algs.obj: ikbo/sort_algs.cpp.obj
-.PHONY : ikbo/sort_algs.obj
+contr/n2.obj: contr/n2.cpp.obj
+.PHONY : contr/n2.obj
 
 # target to build an object file
-ikbo/sort_algs.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.obj
-.PHONY : ikbo/sort_algs.cpp.obj
+contr/n2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n2.cpp.obj
+.PHONY : contr/n2.cpp.obj
 
-ikbo/sort_algs.i: ikbo/sort_algs.cpp.i
-.PHONY : ikbo/sort_algs.i
+contr/n2.i: contr/n2.cpp.i
+.PHONY : contr/n2.i
 
 # target to preprocess a source file
-ikbo/sort_algs.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.i
-.PHONY : ikbo/sort_algs.cpp.i
+contr/n2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n2.cpp.i
+.PHONY : contr/n2.cpp.i
 
-ikbo/sort_algs.s: ikbo/sort_algs.cpp.s
-.PHONY : ikbo/sort_algs.s
+contr/n2.s: contr/n2.cpp.s
+.PHONY : contr/n2.s
 
 # target to generate assembly for a file
-ikbo/sort_algs.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/sort_algs.cpp.s
-.PHONY : ikbo/sort_algs.cpp.s
+contr/n2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n2.cpp.s
+.PHONY : contr/n2.cpp.s
 
-ikbo/validator.obj: ikbo/validator.cpp.obj
-.PHONY : ikbo/validator.obj
+contr/n3.obj: contr/n3.cpp.obj
+.PHONY : contr/n3.obj
 
 # target to build an object file
-ikbo/validator.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.obj
-.PHONY : ikbo/validator.cpp.obj
+contr/n3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n3.cpp.obj
+.PHONY : contr/n3.cpp.obj
 
-ikbo/validator.i: ikbo/validator.cpp.i
-.PHONY : ikbo/validator.i
+contr/n3.i: contr/n3.cpp.i
+.PHONY : contr/n3.i
 
 # target to preprocess a source file
-ikbo/validator.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.i
-.PHONY : ikbo/validator.cpp.i
+contr/n3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n3.cpp.i
+.PHONY : contr/n3.cpp.i
 
-ikbo/validator.s: ikbo/validator.cpp.s
-.PHONY : ikbo/validator.s
+contr/n3.s: contr/n3.cpp.s
+.PHONY : contr/n3.s
 
 # target to generate assembly for a file
-ikbo/validator.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/validator.cpp.s
-.PHONY : ikbo/validator.cpp.s
+contr/n3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n3.cpp.s
+.PHONY : contr/n3.cpp.s
 
-ikbo/zad1.obj: ikbo/zad1.cpp.obj
-.PHONY : ikbo/zad1.obj
+contr/n4.obj: contr/n4.cpp.obj
+.PHONY : contr/n4.obj
 
 # target to build an object file
-ikbo/zad1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.obj
-.PHONY : ikbo/zad1.cpp.obj
+contr/n4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n4.cpp.obj
+.PHONY : contr/n4.cpp.obj
 
-ikbo/zad1.i: ikbo/zad1.cpp.i
-.PHONY : ikbo/zad1.i
+contr/n4.i: contr/n4.cpp.i
+.PHONY : contr/n4.i
 
 # target to preprocess a source file
-ikbo/zad1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.i
-.PHONY : ikbo/zad1.cpp.i
+contr/n4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n4.cpp.i
+.PHONY : contr/n4.cpp.i
 
-ikbo/zad1.s: ikbo/zad1.cpp.s
-.PHONY : ikbo/zad1.s
+contr/n4.s: contr/n4.cpp.s
+.PHONY : contr/n4.s
 
 # target to generate assembly for a file
-ikbo/zad1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad1.cpp.s
-.PHONY : ikbo/zad1.cpp.s
+contr/n4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n4.cpp.s
+.PHONY : contr/n4.cpp.s
 
-ikbo/zad10.obj: ikbo/zad10.cpp.obj
-.PHONY : ikbo/zad10.obj
+contr/n5.obj: contr/n5.cpp.obj
+.PHONY : contr/n5.obj
 
 # target to build an object file
-ikbo/zad10.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.obj
-.PHONY : ikbo/zad10.cpp.obj
+contr/n5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n5.cpp.obj
+.PHONY : contr/n5.cpp.obj
 
-ikbo/zad10.i: ikbo/zad10.cpp.i
-.PHONY : ikbo/zad10.i
+contr/n5.i: contr/n5.cpp.i
+.PHONY : contr/n5.i
 
 # target to preprocess a source file
-ikbo/zad10.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.i
-.PHONY : ikbo/zad10.cpp.i
+contr/n5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n5.cpp.i
+.PHONY : contr/n5.cpp.i
 
-ikbo/zad10.s: ikbo/zad10.cpp.s
-.PHONY : ikbo/zad10.s
+contr/n5.s: contr/n5.cpp.s
+.PHONY : contr/n5.s
 
 # target to generate assembly for a file
-ikbo/zad10.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad10.cpp.s
-.PHONY : ikbo/zad10.cpp.s
+contr/n5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/contr/n5.cpp.s
+.PHONY : contr/n5.cpp.s
 
-ikbo/zad11.obj: ikbo/zad11.cpp.obj
-.PHONY : ikbo/zad11.obj
+domashka/algs/bubblesort.obj: domashka/algs/bubblesort.cpp.obj
+.PHONY : domashka/algs/bubblesort.obj
 
 # target to build an object file
-ikbo/zad11.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad11.cpp.obj
-.PHONY : ikbo/zad11.cpp.obj
+domashka/algs/bubblesort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.obj
+.PHONY : domashka/algs/bubblesort.cpp.obj
 
-ikbo/zad11.i: ikbo/zad11.cpp.i
-.PHONY : ikbo/zad11.i
+domashka/algs/bubblesort.i: domashka/algs/bubblesort.cpp.i
+.PHONY : domashka/algs/bubblesort.i
 
 # target to preprocess a source file
-ikbo/zad11.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad11.cpp.i
-.PHONY : ikbo/zad11.cpp.i
+domashka/algs/bubblesort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.i
+.PHONY : domashka/algs/bubblesort.cpp.i
 
-ikbo/zad11.s: ikbo/zad11.cpp.s
-.PHONY : ikbo/zad11.s
+domashka/algs/bubblesort.s: domashka/algs/bubblesort.cpp.s
+.PHONY : domashka/algs/bubblesort.s
 
 # target to generate assembly for a file
-ikbo/zad11.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad11.cpp.s
-.PHONY : ikbo/zad11.cpp.s
+domashka/algs/bubblesort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.s
+.PHONY : domashka/algs/bubblesort.cpp.s
 
-ikbo/zad12.obj: ikbo/zad12.cpp.obj
-.PHONY : ikbo/zad12.obj
+domashka/algs/heapsort.obj: domashka/algs/heapsort.cpp.obj
+.PHONY : domashka/algs/heapsort.obj
 
 # target to build an object file
-ikbo/zad12.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad12.cpp.obj
-.PHONY : ikbo/zad12.cpp.obj
+domashka/algs/heapsort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.obj
+.PHONY : domashka/algs/heapsort.cpp.obj
 
-ikbo/zad12.i: ikbo/zad12.cpp.i
-.PHONY : ikbo/zad12.i
+domashka/algs/heapsort.i: domashka/algs/heapsort.cpp.i
+.PHONY : domashka/algs/heapsort.i
 
 # target to preprocess a source file
-ikbo/zad12.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad12.cpp.i
-.PHONY : ikbo/zad12.cpp.i
+domashka/algs/heapsort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.i
+.PHONY : domashka/algs/heapsort.cpp.i
 
-ikbo/zad12.s: ikbo/zad12.cpp.s
-.PHONY : ikbo/zad12.s
+domashka/algs/heapsort.s: domashka/algs/heapsort.cpp.s
+.PHONY : domashka/algs/heapsort.s
 
 # target to generate assembly for a file
-ikbo/zad12.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad12.cpp.s
-.PHONY : ikbo/zad12.cpp.s
+domashka/algs/heapsort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.s
+.PHONY : domashka/algs/heapsort.cpp.s
 
-ikbo/zad13.obj: ikbo/zad13.cpp.obj
-.PHONY : ikbo/zad13.obj
+domashka/algs/quicksort.obj: domashka/algs/quicksort.cpp.obj
+.PHONY : domashka/algs/quicksort.obj
 
 # target to build an object file
-ikbo/zad13.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad13.cpp.obj
-.PHONY : ikbo/zad13.cpp.obj
+domashka/algs/quicksort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.obj
+.PHONY : domashka/algs/quicksort.cpp.obj
 
-ikbo/zad13.i: ikbo/zad13.cpp.i
-.PHONY : ikbo/zad13.i
+domashka/algs/quicksort.i: domashka/algs/quicksort.cpp.i
+.PHONY : domashka/algs/quicksort.i
 
 # target to preprocess a source file
-ikbo/zad13.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad13.cpp.i
-.PHONY : ikbo/zad13.cpp.i
+domashka/algs/quicksort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.i
+.PHONY : domashka/algs/quicksort.cpp.i
 
-ikbo/zad13.s: ikbo/zad13.cpp.s
-.PHONY : ikbo/zad13.s
+domashka/algs/quicksort.s: domashka/algs/quicksort.cpp.s
+.PHONY : domashka/algs/quicksort.s
 
 # target to generate assembly for a file
-ikbo/zad13.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad13.cpp.s
-.PHONY : ikbo/zad13.cpp.s
+domashka/algs/quicksort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.s
+.PHONY : domashka/algs/quicksort.cpp.s
 
-ikbo/zad14.obj: ikbo/zad14.cpp.obj
-.PHONY : ikbo/zad14.obj
+domashka/yes_no.obj: domashka/yes_no.cpp.obj
+.PHONY : domashka/yes_no.obj
 
 # target to build an object file
-ikbo/zad14.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad14.cpp.obj
-.PHONY : ikbo/zad14.cpp.obj
+domashka/yes_no.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.obj
+.PHONY : domashka/yes_no.cpp.obj
 
-ikbo/zad14.i: ikbo/zad14.cpp.i
-.PHONY : ikbo/zad14.i
+domashka/yes_no.i: domashka/yes_no.cpp.i
+.PHONY : domashka/yes_no.i
 
 # target to preprocess a source file
-ikbo/zad14.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad14.cpp.i
-.PHONY : ikbo/zad14.cpp.i
+domashka/yes_no.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.i
+.PHONY : domashka/yes_no.cpp.i
 
-ikbo/zad14.s: ikbo/zad14.cpp.s
-.PHONY : ikbo/zad14.s
+domashka/yes_no.s: domashka/yes_no.cpp.s
+.PHONY : domashka/yes_no.s
 
 # target to generate assembly for a file
-ikbo/zad14.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad14.cpp.s
-.PHONY : ikbo/zad14.cpp.s
+domashka/yes_no.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.s
+.PHONY : domashka/yes_no.cpp.s
 
-ikbo/zad15.obj: ikbo/zad15.cpp.obj
-.PHONY : ikbo/zad15.obj
+domashka/zad1.obj: domashka/zad1.cpp.obj
+.PHONY : domashka/zad1.obj
 
 # target to build an object file
-ikbo/zad15.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.obj
-.PHONY : ikbo/zad15.cpp.obj
+domashka/zad1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.obj
+.PHONY : domashka/zad1.cpp.obj
 
-ikbo/zad15.i: ikbo/zad15.cpp.i
-.PHONY : ikbo/zad15.i
+domashka/zad1.i: domashka/zad1.cpp.i
+.PHONY : domashka/zad1.i
 
 # target to preprocess a source file
-ikbo/zad15.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.i
-.PHONY : ikbo/zad15.cpp.i
+domashka/zad1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.i
+.PHONY : domashka/zad1.cpp.i
 
-ikbo/zad15.s: ikbo/zad15.cpp.s
-.PHONY : ikbo/zad15.s
+domashka/zad1.s: domashka/zad1.cpp.s
+.PHONY : domashka/zad1.s
 
 # target to generate assembly for a file
-ikbo/zad15.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad15.cpp.s
-.PHONY : ikbo/zad15.cpp.s
+domashka/zad1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.s
+.PHONY : domashka/zad1.cpp.s
 
-ikbo/zad16.obj: ikbo/zad16.cpp.obj
-.PHONY : ikbo/zad16.obj
+domashka/zad10.obj: domashka/zad10.cpp.obj
+.PHONY : domashka/zad10.obj
 
 # target to build an object file
-ikbo/zad16.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.obj
-.PHONY : ikbo/zad16.cpp.obj
+domashka/zad10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.obj
+.PHONY : domashka/zad10.cpp.obj
 
-ikbo/zad16.i: ikbo/zad16.cpp.i
-.PHONY : ikbo/zad16.i
+domashka/zad10.i: domashka/zad10.cpp.i
+.PHONY : domashka/zad10.i
 
 # target to preprocess a source file
-ikbo/zad16.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.i
-.PHONY : ikbo/zad16.cpp.i
+domashka/zad10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.i
+.PHONY : domashka/zad10.cpp.i
 
-ikbo/zad16.s: ikbo/zad16.cpp.s
-.PHONY : ikbo/zad16.s
+domashka/zad10.s: domashka/zad10.cpp.s
+.PHONY : domashka/zad10.s
 
 # target to generate assembly for a file
-ikbo/zad16.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad16.cpp.s
-.PHONY : ikbo/zad16.cpp.s
+domashka/zad10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.s
+.PHONY : domashka/zad10.cpp.s
 
-ikbo/zad17.obj: ikbo/zad17.cpp.obj
-.PHONY : ikbo/zad17.obj
+domashka/zad11.obj: domashka/zad11.cpp.obj
+.PHONY : domashka/zad11.obj
 
 # target to build an object file
-ikbo/zad17.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.obj
-.PHONY : ikbo/zad17.cpp.obj
+domashka/zad11.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.obj
+.PHONY : domashka/zad11.cpp.obj
 
-ikbo/zad17.i: ikbo/zad17.cpp.i
-.PHONY : ikbo/zad17.i
+domashka/zad11.i: domashka/zad11.cpp.i
+.PHONY : domashka/zad11.i
 
 # target to preprocess a source file
-ikbo/zad17.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.i
-.PHONY : ikbo/zad17.cpp.i
+domashka/zad11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.i
+.PHONY : domashka/zad11.cpp.i
 
-ikbo/zad17.s: ikbo/zad17.cpp.s
-.PHONY : ikbo/zad17.s
+domashka/zad11.s: domashka/zad11.cpp.s
+.PHONY : domashka/zad11.s
 
 # target to generate assembly for a file
-ikbo/zad17.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad17.cpp.s
-.PHONY : ikbo/zad17.cpp.s
+domashka/zad11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.s
+.PHONY : domashka/zad11.cpp.s
 
-ikbo/zad18.obj: ikbo/zad18.cpp.obj
-.PHONY : ikbo/zad18.obj
+domashka/zad12.obj: domashka/zad12.cpp.obj
+.PHONY : domashka/zad12.obj
 
 # target to build an object file
-ikbo/zad18.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.obj
-.PHONY : ikbo/zad18.cpp.obj
+domashka/zad12.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.obj
+.PHONY : domashka/zad12.cpp.obj
 
-ikbo/zad18.i: ikbo/zad18.cpp.i
-.PHONY : ikbo/zad18.i
+domashka/zad12.i: domashka/zad12.cpp.i
+.PHONY : domashka/zad12.i
 
 # target to preprocess a source file
-ikbo/zad18.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.i
-.PHONY : ikbo/zad18.cpp.i
+domashka/zad12.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.i
+.PHONY : domashka/zad12.cpp.i
 
-ikbo/zad18.s: ikbo/zad18.cpp.s
-.PHONY : ikbo/zad18.s
+domashka/zad12.s: domashka/zad12.cpp.s
+.PHONY : domashka/zad12.s
 
 # target to generate assembly for a file
-ikbo/zad18.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad18.cpp.s
-.PHONY : ikbo/zad18.cpp.s
+domashka/zad12.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.s
+.PHONY : domashka/zad12.cpp.s
 
-ikbo/zad19.obj: ikbo/zad19.cpp.obj
-.PHONY : ikbo/zad19.obj
+domashka/zad13.obj: domashka/zad13.cpp.obj
+.PHONY : domashka/zad13.obj
 
 # target to build an object file
-ikbo/zad19.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad19.cpp.obj
-.PHONY : ikbo/zad19.cpp.obj
+domashka/zad13.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.obj
+.PHONY : domashka/zad13.cpp.obj
 
-ikbo/zad19.i: ikbo/zad19.cpp.i
-.PHONY : ikbo/zad19.i
+domashka/zad13.i: domashka/zad13.cpp.i
+.PHONY : domashka/zad13.i
 
 # target to preprocess a source file
-ikbo/zad19.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad19.cpp.i
-.PHONY : ikbo/zad19.cpp.i
+domashka/zad13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.i
+.PHONY : domashka/zad13.cpp.i
 
-ikbo/zad19.s: ikbo/zad19.cpp.s
-.PHONY : ikbo/zad19.s
+domashka/zad13.s: domashka/zad13.cpp.s
+.PHONY : domashka/zad13.s
 
 # target to generate assembly for a file
-ikbo/zad19.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad19.cpp.s
-.PHONY : ikbo/zad19.cpp.s
+domashka/zad13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.s
+.PHONY : domashka/zad13.cpp.s
 
-ikbo/zad2.obj: ikbo/zad2.cpp.obj
-.PHONY : ikbo/zad2.obj
+domashka/zad14.obj: domashka/zad14.cpp.obj
+.PHONY : domashka/zad14.obj
 
 # target to build an object file
-ikbo/zad2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.obj
-.PHONY : ikbo/zad2.cpp.obj
+domashka/zad14.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.obj
+.PHONY : domashka/zad14.cpp.obj
 
-ikbo/zad2.i: ikbo/zad2.cpp.i
-.PHONY : ikbo/zad2.i
+domashka/zad14.i: domashka/zad14.cpp.i
+.PHONY : domashka/zad14.i
 
 # target to preprocess a source file
-ikbo/zad2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.i
-.PHONY : ikbo/zad2.cpp.i
+domashka/zad14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.i
+.PHONY : domashka/zad14.cpp.i
 
-ikbo/zad2.s: ikbo/zad2.cpp.s
-.PHONY : ikbo/zad2.s
+domashka/zad14.s: domashka/zad14.cpp.s
+.PHONY : domashka/zad14.s
 
 # target to generate assembly for a file
-ikbo/zad2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad2.cpp.s
-.PHONY : ikbo/zad2.cpp.s
+domashka/zad14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.s
+.PHONY : domashka/zad14.cpp.s
 
-ikbo/zad20.obj: ikbo/zad20.cpp.obj
-.PHONY : ikbo/zad20.obj
+domashka/zad15.obj: domashka/zad15.cpp.obj
+.PHONY : domashka/zad15.obj
 
 # target to build an object file
-ikbo/zad20.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.obj
-.PHONY : ikbo/zad20.cpp.obj
+domashka/zad15.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.obj
+.PHONY : domashka/zad15.cpp.obj
 
-ikbo/zad20.i: ikbo/zad20.cpp.i
-.PHONY : ikbo/zad20.i
+domashka/zad15.i: domashka/zad15.cpp.i
+.PHONY : domashka/zad15.i
 
 # target to preprocess a source file
-ikbo/zad20.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.i
-.PHONY : ikbo/zad20.cpp.i
+domashka/zad15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.i
+.PHONY : domashka/zad15.cpp.i
 
-ikbo/zad20.s: ikbo/zad20.cpp.s
-.PHONY : ikbo/zad20.s
+domashka/zad15.s: domashka/zad15.cpp.s
+.PHONY : domashka/zad15.s
 
 # target to generate assembly for a file
-ikbo/zad20.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad20.cpp.s
-.PHONY : ikbo/zad20.cpp.s
+domashka/zad15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.s
+.PHONY : domashka/zad15.cpp.s
 
-ikbo/zad21.obj: ikbo/zad21.cpp.obj
-.PHONY : ikbo/zad21.obj
+domashka/zad16.obj: domashka/zad16.cpp.obj
+.PHONY : domashka/zad16.obj
 
 # target to build an object file
-ikbo/zad21.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad21.cpp.obj
-.PHONY : ikbo/zad21.cpp.obj
+domashka/zad16.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.obj
+.PHONY : domashka/zad16.cpp.obj
 
-ikbo/zad21.i: ikbo/zad21.cpp.i
-.PHONY : ikbo/zad21.i
+domashka/zad16.i: domashka/zad16.cpp.i
+.PHONY : domashka/zad16.i
 
 # target to preprocess a source file
-ikbo/zad21.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad21.cpp.i
-.PHONY : ikbo/zad21.cpp.i
+domashka/zad16.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.i
+.PHONY : domashka/zad16.cpp.i
 
-ikbo/zad21.s: ikbo/zad21.cpp.s
-.PHONY : ikbo/zad21.s
+domashka/zad16.s: domashka/zad16.cpp.s
+.PHONY : domashka/zad16.s
 
 # target to generate assembly for a file
-ikbo/zad21.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad21.cpp.s
-.PHONY : ikbo/zad21.cpp.s
+domashka/zad16.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.s
+.PHONY : domashka/zad16.cpp.s
 
-ikbo/zad22.obj: ikbo/zad22.cpp.obj
-.PHONY : ikbo/zad22.obj
+domashka/zad17.obj: domashka/zad17.cpp.obj
+.PHONY : domashka/zad17.obj
 
 # target to build an object file
-ikbo/zad22.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad22.cpp.obj
-.PHONY : ikbo/zad22.cpp.obj
+domashka/zad17.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.obj
+.PHONY : domashka/zad17.cpp.obj
 
-ikbo/zad22.i: ikbo/zad22.cpp.i
-.PHONY : ikbo/zad22.i
+domashka/zad17.i: domashka/zad17.cpp.i
+.PHONY : domashka/zad17.i
 
 # target to preprocess a source file
-ikbo/zad22.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad22.cpp.i
-.PHONY : ikbo/zad22.cpp.i
+domashka/zad17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.i
+.PHONY : domashka/zad17.cpp.i
 
-ikbo/zad22.s: ikbo/zad22.cpp.s
-.PHONY : ikbo/zad22.s
+domashka/zad17.s: domashka/zad17.cpp.s
+.PHONY : domashka/zad17.s
 
 # target to generate assembly for a file
-ikbo/zad22.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad22.cpp.s
-.PHONY : ikbo/zad22.cpp.s
+domashka/zad17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.s
+.PHONY : domashka/zad17.cpp.s
 
-ikbo/zad23.obj: ikbo/zad23.cpp.obj
-.PHONY : ikbo/zad23.obj
+domashka/zad18.obj: domashka/zad18.cpp.obj
+.PHONY : domashka/zad18.obj
 
 # target to build an object file
-ikbo/zad23.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad23.cpp.obj
-.PHONY : ikbo/zad23.cpp.obj
+domashka/zad18.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.obj
+.PHONY : domashka/zad18.cpp.obj
 
-ikbo/zad23.i: ikbo/zad23.cpp.i
-.PHONY : ikbo/zad23.i
+domashka/zad18.i: domashka/zad18.cpp.i
+.PHONY : domashka/zad18.i
 
 # target to preprocess a source file
-ikbo/zad23.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad23.cpp.i
-.PHONY : ikbo/zad23.cpp.i
+domashka/zad18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.i
+.PHONY : domashka/zad18.cpp.i
 
-ikbo/zad23.s: ikbo/zad23.cpp.s
-.PHONY : ikbo/zad23.s
+domashka/zad18.s: domashka/zad18.cpp.s
+.PHONY : domashka/zad18.s
 
 # target to generate assembly for a file
-ikbo/zad23.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad23.cpp.s
-.PHONY : ikbo/zad23.cpp.s
+domashka/zad18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.s
+.PHONY : domashka/zad18.cpp.s
 
-ikbo/zad24.obj: ikbo/zad24.cpp.obj
-.PHONY : ikbo/zad24.obj
+domashka/zad19.obj: domashka/zad19.cpp.obj
+.PHONY : domashka/zad19.obj
 
 # target to build an object file
-ikbo/zad24.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad24.cpp.obj
-.PHONY : ikbo/zad24.cpp.obj
+domashka/zad19.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.obj
+.PHONY : domashka/zad19.cpp.obj
 
-ikbo/zad24.i: ikbo/zad24.cpp.i
-.PHONY : ikbo/zad24.i
+domashka/zad19.i: domashka/zad19.cpp.i
+.PHONY : domashka/zad19.i
 
 # target to preprocess a source file
-ikbo/zad24.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad24.cpp.i
-.PHONY : ikbo/zad24.cpp.i
+domashka/zad19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.i
+.PHONY : domashka/zad19.cpp.i
 
-ikbo/zad24.s: ikbo/zad24.cpp.s
-.PHONY : ikbo/zad24.s
+domashka/zad19.s: domashka/zad19.cpp.s
+.PHONY : domashka/zad19.s
 
 # target to generate assembly for a file
-ikbo/zad24.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad24.cpp.s
-.PHONY : ikbo/zad24.cpp.s
+domashka/zad19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.s
+.PHONY : domashka/zad19.cpp.s
 
-ikbo/zad25.obj: ikbo/zad25.cpp.obj
-.PHONY : ikbo/zad25.obj
+domashka/zad2.obj: domashka/zad2.cpp.obj
+.PHONY : domashka/zad2.obj
 
 # target to build an object file
-ikbo/zad25.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.obj
-.PHONY : ikbo/zad25.cpp.obj
+domashka/zad2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.obj
+.PHONY : domashka/zad2.cpp.obj
 
-ikbo/zad25.i: ikbo/zad25.cpp.i
-.PHONY : ikbo/zad25.i
+domashka/zad2.i: domashka/zad2.cpp.i
+.PHONY : domashka/zad2.i
 
 # target to preprocess a source file
-ikbo/zad25.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.i
-.PHONY : ikbo/zad25.cpp.i
+domashka/zad2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.i
+.PHONY : domashka/zad2.cpp.i
 
-ikbo/zad25.s: ikbo/zad25.cpp.s
-.PHONY : ikbo/zad25.s
+domashka/zad2.s: domashka/zad2.cpp.s
+.PHONY : domashka/zad2.s
 
 # target to generate assembly for a file
-ikbo/zad25.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad25.cpp.s
-.PHONY : ikbo/zad25.cpp.s
+domashka/zad2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.s
+.PHONY : domashka/zad2.cpp.s
 
-ikbo/zad26.obj: ikbo/zad26.cpp.obj
-.PHONY : ikbo/zad26.obj
+domashka/zad20.obj: domashka/zad20.cpp.obj
+.PHONY : domashka/zad20.obj
 
 # target to build an object file
-ikbo/zad26.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.obj
-.PHONY : ikbo/zad26.cpp.obj
+domashka/zad20.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.obj
+.PHONY : domashka/zad20.cpp.obj
 
-ikbo/zad26.i: ikbo/zad26.cpp.i
-.PHONY : ikbo/zad26.i
+domashka/zad20.i: domashka/zad20.cpp.i
+.PHONY : domashka/zad20.i
 
 # target to preprocess a source file
-ikbo/zad26.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.i
-.PHONY : ikbo/zad26.cpp.i
+domashka/zad20.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.i
+.PHONY : domashka/zad20.cpp.i
 
-ikbo/zad26.s: ikbo/zad26.cpp.s
-.PHONY : ikbo/zad26.s
+domashka/zad20.s: domashka/zad20.cpp.s
+.PHONY : domashka/zad20.s
 
 # target to generate assembly for a file
-ikbo/zad26.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad26.cpp.s
-.PHONY : ikbo/zad26.cpp.s
+domashka/zad20.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.s
+.PHONY : domashka/zad20.cpp.s
 
-ikbo/zad27.obj: ikbo/zad27.cpp.obj
-.PHONY : ikbo/zad27.obj
+domashka/zad21.obj: domashka/zad21.cpp.obj
+.PHONY : domashka/zad21.obj
 
 # target to build an object file
-ikbo/zad27.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.obj
-.PHONY : ikbo/zad27.cpp.obj
+domashka/zad21.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.obj
+.PHONY : domashka/zad21.cpp.obj
 
-ikbo/zad27.i: ikbo/zad27.cpp.i
-.PHONY : ikbo/zad27.i
+domashka/zad21.i: domashka/zad21.cpp.i
+.PHONY : domashka/zad21.i
 
 # target to preprocess a source file
-ikbo/zad27.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.i
-.PHONY : ikbo/zad27.cpp.i
+domashka/zad21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.i
+.PHONY : domashka/zad21.cpp.i
 
-ikbo/zad27.s: ikbo/zad27.cpp.s
-.PHONY : ikbo/zad27.s
+domashka/zad21.s: domashka/zad21.cpp.s
+.PHONY : domashka/zad21.s
 
 # target to generate assembly for a file
-ikbo/zad27.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad27.cpp.s
-.PHONY : ikbo/zad27.cpp.s
+domashka/zad21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.s
+.PHONY : domashka/zad21.cpp.s
 
-ikbo/zad28.obj: ikbo/zad28.cpp.obj
-.PHONY : ikbo/zad28.obj
+domashka/zad22.obj: domashka/zad22.cpp.obj
+.PHONY : domashka/zad22.obj
 
 # target to build an object file
-ikbo/zad28.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.obj
-.PHONY : ikbo/zad28.cpp.obj
+domashka/zad22.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.obj
+.PHONY : domashka/zad22.cpp.obj
 
-ikbo/zad28.i: ikbo/zad28.cpp.i
-.PHONY : ikbo/zad28.i
+domashka/zad22.i: domashka/zad22.cpp.i
+.PHONY : domashka/zad22.i
 
 # target to preprocess a source file
-ikbo/zad28.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.i
-.PHONY : ikbo/zad28.cpp.i
+domashka/zad22.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.i
+.PHONY : domashka/zad22.cpp.i
 
-ikbo/zad28.s: ikbo/zad28.cpp.s
-.PHONY : ikbo/zad28.s
+domashka/zad22.s: domashka/zad22.cpp.s
+.PHONY : domashka/zad22.s
 
 # target to generate assembly for a file
-ikbo/zad28.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad28.cpp.s
-.PHONY : ikbo/zad28.cpp.s
+domashka/zad22.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.s
+.PHONY : domashka/zad22.cpp.s
 
-ikbo/zad29.obj: ikbo/zad29.cpp.obj
-.PHONY : ikbo/zad29.obj
+domashka/zad23.obj: domashka/zad23.cpp.obj
+.PHONY : domashka/zad23.obj
 
 # target to build an object file
-ikbo/zad29.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.obj
-.PHONY : ikbo/zad29.cpp.obj
+domashka/zad23.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.obj
+.PHONY : domashka/zad23.cpp.obj
 
-ikbo/zad29.i: ikbo/zad29.cpp.i
-.PHONY : ikbo/zad29.i
+domashka/zad23.i: domashka/zad23.cpp.i
+.PHONY : domashka/zad23.i
 
 # target to preprocess a source file
-ikbo/zad29.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.i
-.PHONY : ikbo/zad29.cpp.i
+domashka/zad23.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.i
+.PHONY : domashka/zad23.cpp.i
 
-ikbo/zad29.s: ikbo/zad29.cpp.s
-.PHONY : ikbo/zad29.s
+domashka/zad23.s: domashka/zad23.cpp.s
+.PHONY : domashka/zad23.s
 
 # target to generate assembly for a file
-ikbo/zad29.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad29.cpp.s
-.PHONY : ikbo/zad29.cpp.s
+domashka/zad23.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.s
+.PHONY : domashka/zad23.cpp.s
 
-ikbo/zad3.obj: ikbo/zad3.cpp.obj
-.PHONY : ikbo/zad3.obj
+domashka/zad24.obj: domashka/zad24.cpp.obj
+.PHONY : domashka/zad24.obj
 
 # target to build an object file
-ikbo/zad3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.obj
-.PHONY : ikbo/zad3.cpp.obj
+domashka/zad24.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.obj
+.PHONY : domashka/zad24.cpp.obj
 
-ikbo/zad3.i: ikbo/zad3.cpp.i
-.PHONY : ikbo/zad3.i
+domashka/zad24.i: domashka/zad24.cpp.i
+.PHONY : domashka/zad24.i
 
 # target to preprocess a source file
-ikbo/zad3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.i
-.PHONY : ikbo/zad3.cpp.i
+domashka/zad24.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.i
+.PHONY : domashka/zad24.cpp.i
 
-ikbo/zad3.s: ikbo/zad3.cpp.s
-.PHONY : ikbo/zad3.s
+domashka/zad24.s: domashka/zad24.cpp.s
+.PHONY : domashka/zad24.s
 
 # target to generate assembly for a file
-ikbo/zad3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad3.cpp.s
-.PHONY : ikbo/zad3.cpp.s
+domashka/zad24.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.s
+.PHONY : domashka/zad24.cpp.s
 
-ikbo/zad30.obj: ikbo/zad30.cpp.obj
-.PHONY : ikbo/zad30.obj
+domashka/zad25.obj: domashka/zad25.cpp.obj
+.PHONY : domashka/zad25.obj
 
 # target to build an object file
-ikbo/zad30.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.obj
-.PHONY : ikbo/zad30.cpp.obj
+domashka/zad25.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.obj
+.PHONY : domashka/zad25.cpp.obj
 
-ikbo/zad30.i: ikbo/zad30.cpp.i
-.PHONY : ikbo/zad30.i
+domashka/zad25.i: domashka/zad25.cpp.i
+.PHONY : domashka/zad25.i
 
 # target to preprocess a source file
-ikbo/zad30.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.i
-.PHONY : ikbo/zad30.cpp.i
+domashka/zad25.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.i
+.PHONY : domashka/zad25.cpp.i
 
-ikbo/zad30.s: ikbo/zad30.cpp.s
-.PHONY : ikbo/zad30.s
+domashka/zad25.s: domashka/zad25.cpp.s
+.PHONY : domashka/zad25.s
 
 # target to generate assembly for a file
-ikbo/zad30.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad30.cpp.s
-.PHONY : ikbo/zad30.cpp.s
+domashka/zad25.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.s
+.PHONY : domashka/zad25.cpp.s
 
-ikbo/zad31.obj: ikbo/zad31.cpp.obj
-.PHONY : ikbo/zad31.obj
+domashka/zad26.obj: domashka/zad26.cpp.obj
+.PHONY : domashka/zad26.obj
 
 # target to build an object file
-ikbo/zad31.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.obj
-.PHONY : ikbo/zad31.cpp.obj
+domashka/zad26.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.obj
+.PHONY : domashka/zad26.cpp.obj
 
-ikbo/zad31.i: ikbo/zad31.cpp.i
-.PHONY : ikbo/zad31.i
+domashka/zad26.i: domashka/zad26.cpp.i
+.PHONY : domashka/zad26.i
 
 # target to preprocess a source file
-ikbo/zad31.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.i
-.PHONY : ikbo/zad31.cpp.i
+domashka/zad26.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.i
+.PHONY : domashka/zad26.cpp.i
 
-ikbo/zad31.s: ikbo/zad31.cpp.s
-.PHONY : ikbo/zad31.s
+domashka/zad26.s: domashka/zad26.cpp.s
+.PHONY : domashka/zad26.s
 
 # target to generate assembly for a file
-ikbo/zad31.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad31.cpp.s
-.PHONY : ikbo/zad31.cpp.s
+domashka/zad26.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.s
+.PHONY : domashka/zad26.cpp.s
 
-ikbo/zad32.obj: ikbo/zad32.cpp.obj
-.PHONY : ikbo/zad32.obj
+domashka/zad27.obj: domashka/zad27.cpp.obj
+.PHONY : domashka/zad27.obj
 
 # target to build an object file
-ikbo/zad32.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.obj
-.PHONY : ikbo/zad32.cpp.obj
+domashka/zad27.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.obj
+.PHONY : domashka/zad27.cpp.obj
 
-ikbo/zad32.i: ikbo/zad32.cpp.i
-.PHONY : ikbo/zad32.i
+domashka/zad27.i: domashka/zad27.cpp.i
+.PHONY : domashka/zad27.i
 
 # target to preprocess a source file
-ikbo/zad32.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.i
-.PHONY : ikbo/zad32.cpp.i
+domashka/zad27.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.i
+.PHONY : domashka/zad27.cpp.i
 
-ikbo/zad32.s: ikbo/zad32.cpp.s
-.PHONY : ikbo/zad32.s
+domashka/zad27.s: domashka/zad27.cpp.s
+.PHONY : domashka/zad27.s
 
 # target to generate assembly for a file
-ikbo/zad32.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad32.cpp.s
-.PHONY : ikbo/zad32.cpp.s
+domashka/zad27.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.s
+.PHONY : domashka/zad27.cpp.s
 
-ikbo/zad4.obj: ikbo/zad4.cpp.obj
-.PHONY : ikbo/zad4.obj
+domashka/zad28.obj: domashka/zad28.cpp.obj
+.PHONY : domashka/zad28.obj
 
 # target to build an object file
-ikbo/zad4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.obj
-.PHONY : ikbo/zad4.cpp.obj
+domashka/zad28.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.obj
+.PHONY : domashka/zad28.cpp.obj
 
-ikbo/zad4.i: ikbo/zad4.cpp.i
-.PHONY : ikbo/zad4.i
+domashka/zad28.i: domashka/zad28.cpp.i
+.PHONY : domashka/zad28.i
 
 # target to preprocess a source file
-ikbo/zad4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.i
-.PHONY : ikbo/zad4.cpp.i
+domashka/zad28.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.i
+.PHONY : domashka/zad28.cpp.i
 
-ikbo/zad4.s: ikbo/zad4.cpp.s
-.PHONY : ikbo/zad4.s
+domashka/zad28.s: domashka/zad28.cpp.s
+.PHONY : domashka/zad28.s
 
 # target to generate assembly for a file
-ikbo/zad4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad4.cpp.s
-.PHONY : ikbo/zad4.cpp.s
+domashka/zad28.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.s
+.PHONY : domashka/zad28.cpp.s
 
-ikbo/zad5.obj: ikbo/zad5.cpp.obj
-.PHONY : ikbo/zad5.obj
+domashka/zad29.obj: domashka/zad29.cpp.obj
+.PHONY : domashka/zad29.obj
 
 # target to build an object file
-ikbo/zad5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.obj
-.PHONY : ikbo/zad5.cpp.obj
+domashka/zad29.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.obj
+.PHONY : domashka/zad29.cpp.obj
 
-ikbo/zad5.i: ikbo/zad5.cpp.i
-.PHONY : ikbo/zad5.i
+domashka/zad29.i: domashka/zad29.cpp.i
+.PHONY : domashka/zad29.i
 
 # target to preprocess a source file
-ikbo/zad5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.i
-.PHONY : ikbo/zad5.cpp.i
+domashka/zad29.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.i
+.PHONY : domashka/zad29.cpp.i
 
-ikbo/zad5.s: ikbo/zad5.cpp.s
-.PHONY : ikbo/zad5.s
+domashka/zad29.s: domashka/zad29.cpp.s
+.PHONY : domashka/zad29.s
 
 # target to generate assembly for a file
-ikbo/zad5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad5.cpp.s
-.PHONY : ikbo/zad5.cpp.s
+domashka/zad29.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.s
+.PHONY : domashka/zad29.cpp.s
 
-ikbo/zad6.obj: ikbo/zad6.cpp.obj
-.PHONY : ikbo/zad6.obj
+domashka/zad3.obj: domashka/zad3.cpp.obj
+.PHONY : domashka/zad3.obj
 
 # target to build an object file
-ikbo/zad6.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.obj
-.PHONY : ikbo/zad6.cpp.obj
+domashka/zad3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.obj
+.PHONY : domashka/zad3.cpp.obj
 
-ikbo/zad6.i: ikbo/zad6.cpp.i
-.PHONY : ikbo/zad6.i
+domashka/zad3.i: domashka/zad3.cpp.i
+.PHONY : domashka/zad3.i
 
 # target to preprocess a source file
-ikbo/zad6.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.i
-.PHONY : ikbo/zad6.cpp.i
+domashka/zad3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.i
+.PHONY : domashka/zad3.cpp.i
 
-ikbo/zad6.s: ikbo/zad6.cpp.s
-.PHONY : ikbo/zad6.s
+domashka/zad3.s: domashka/zad3.cpp.s
+.PHONY : domashka/zad3.s
 
 # target to generate assembly for a file
-ikbo/zad6.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad6.cpp.s
-.PHONY : ikbo/zad6.cpp.s
+domashka/zad3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.s
+.PHONY : domashka/zad3.cpp.s
 
-ikbo/zad7.obj: ikbo/zad7.cpp.obj
-.PHONY : ikbo/zad7.obj
+domashka/zad30.obj: domashka/zad30.cpp.obj
+.PHONY : domashka/zad30.obj
 
 # target to build an object file
-ikbo/zad7.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad7.cpp.obj
-.PHONY : ikbo/zad7.cpp.obj
+domashka/zad30.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.obj
+.PHONY : domashka/zad30.cpp.obj
 
-ikbo/zad7.i: ikbo/zad7.cpp.i
-.PHONY : ikbo/zad7.i
+domashka/zad30.i: domashka/zad30.cpp.i
+.PHONY : domashka/zad30.i
 
 # target to preprocess a source file
-ikbo/zad7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad7.cpp.i
-.PHONY : ikbo/zad7.cpp.i
+domashka/zad30.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.i
+.PHONY : domashka/zad30.cpp.i
 
-ikbo/zad7.s: ikbo/zad7.cpp.s
-.PHONY : ikbo/zad7.s
+domashka/zad30.s: domashka/zad30.cpp.s
+.PHONY : domashka/zad30.s
 
 # target to generate assembly for a file
-ikbo/zad7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad7.cpp.s
-.PHONY : ikbo/zad7.cpp.s
+domashka/zad30.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.s
+.PHONY : domashka/zad30.cpp.s
 
-ikbo/zad8.obj: ikbo/zad8.cpp.obj
-.PHONY : ikbo/zad8.obj
+domashka/zad31.obj: domashka/zad31.cpp.obj
+.PHONY : domashka/zad31.obj
 
 # target to build an object file
-ikbo/zad8.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad8.cpp.obj
-.PHONY : ikbo/zad8.cpp.obj
+domashka/zad31.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.obj
+.PHONY : domashka/zad31.cpp.obj
 
-ikbo/zad8.i: ikbo/zad8.cpp.i
-.PHONY : ikbo/zad8.i
+domashka/zad31.i: domashka/zad31.cpp.i
+.PHONY : domashka/zad31.i
 
 # target to preprocess a source file
-ikbo/zad8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad8.cpp.i
-.PHONY : ikbo/zad8.cpp.i
+domashka/zad31.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.i
+.PHONY : domashka/zad31.cpp.i
 
-ikbo/zad8.s: ikbo/zad8.cpp.s
-.PHONY : ikbo/zad8.s
+domashka/zad31.s: domashka/zad31.cpp.s
+.PHONY : domashka/zad31.s
 
 # target to generate assembly for a file
-ikbo/zad8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad8.cpp.s
-.PHONY : ikbo/zad8.cpp.s
+domashka/zad31.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.s
+.PHONY : domashka/zad31.cpp.s
 
-ikbo/zad9.obj: ikbo/zad9.cpp.obj
-.PHONY : ikbo/zad9.obj
+domashka/zad32.obj: domashka/zad32.cpp.obj
+.PHONY : domashka/zad32.obj
 
 # target to build an object file
-ikbo/zad9.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad9.cpp.obj
-.PHONY : ikbo/zad9.cpp.obj
+domashka/zad32.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.obj
+.PHONY : domashka/zad32.cpp.obj
 
-ikbo/zad9.i: ikbo/zad9.cpp.i
-.PHONY : ikbo/zad9.i
+domashka/zad32.i: domashka/zad32.cpp.i
+.PHONY : domashka/zad32.i
 
 # target to preprocess a source file
-ikbo/zad9.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad9.cpp.i
-.PHONY : ikbo/zad9.cpp.i
+domashka/zad32.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.i
+.PHONY : domashka/zad32.cpp.i
 
-ikbo/zad9.s: ikbo/zad9.cpp.s
-.PHONY : ikbo/zad9.s
+domashka/zad32.s: domashka/zad32.cpp.s
+.PHONY : domashka/zad32.s
 
 # target to generate assembly for a file
-ikbo/zad9.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/ikbo/zad9.cpp.s
-.PHONY : ikbo/zad9.cpp.s
+domashka/zad32.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.s
+.PHONY : domashka/zad32.cpp.s
+
+domashka/zad4.obj: domashka/zad4.cpp.obj
+.PHONY : domashka/zad4.obj
+
+# target to build an object file
+domashka/zad4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.obj
+.PHONY : domashka/zad4.cpp.obj
+
+domashka/zad4.i: domashka/zad4.cpp.i
+.PHONY : domashka/zad4.i
+
+# target to preprocess a source file
+domashka/zad4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.i
+.PHONY : domashka/zad4.cpp.i
+
+domashka/zad4.s: domashka/zad4.cpp.s
+.PHONY : domashka/zad4.s
+
+# target to generate assembly for a file
+domashka/zad4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.s
+.PHONY : domashka/zad4.cpp.s
+
+domashka/zad5.obj: domashka/zad5.cpp.obj
+.PHONY : domashka/zad5.obj
+
+# target to build an object file
+domashka/zad5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.obj
+.PHONY : domashka/zad5.cpp.obj
+
+domashka/zad5.i: domashka/zad5.cpp.i
+.PHONY : domashka/zad5.i
+
+# target to preprocess a source file
+domashka/zad5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.i
+.PHONY : domashka/zad5.cpp.i
+
+domashka/zad5.s: domashka/zad5.cpp.s
+.PHONY : domashka/zad5.s
+
+# target to generate assembly for a file
+domashka/zad5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.s
+.PHONY : domashka/zad5.cpp.s
+
+domashka/zad6.obj: domashka/zad6.cpp.obj
+.PHONY : domashka/zad6.obj
+
+# target to build an object file
+domashka/zad6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.obj
+.PHONY : domashka/zad6.cpp.obj
+
+domashka/zad6.i: domashka/zad6.cpp.i
+.PHONY : domashka/zad6.i
+
+# target to preprocess a source file
+domashka/zad6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.i
+.PHONY : domashka/zad6.cpp.i
+
+domashka/zad6.s: domashka/zad6.cpp.s
+.PHONY : domashka/zad6.s
+
+# target to generate assembly for a file
+domashka/zad6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.s
+.PHONY : domashka/zad6.cpp.s
+
+domashka/zad7.obj: domashka/zad7.cpp.obj
+.PHONY : domashka/zad7.obj
+
+# target to build an object file
+domashka/zad7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.obj
+.PHONY : domashka/zad7.cpp.obj
+
+domashka/zad7.i: domashka/zad7.cpp.i
+.PHONY : domashka/zad7.i
+
+# target to preprocess a source file
+domashka/zad7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.i
+.PHONY : domashka/zad7.cpp.i
+
+domashka/zad7.s: domashka/zad7.cpp.s
+.PHONY : domashka/zad7.s
+
+# target to generate assembly for a file
+domashka/zad7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.s
+.PHONY : domashka/zad7.cpp.s
+
+domashka/zad8.obj: domashka/zad8.cpp.obj
+.PHONY : domashka/zad8.obj
+
+# target to build an object file
+domashka/zad8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.obj
+.PHONY : domashka/zad8.cpp.obj
+
+domashka/zad8.i: domashka/zad8.cpp.i
+.PHONY : domashka/zad8.i
+
+# target to preprocess a source file
+domashka/zad8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.i
+.PHONY : domashka/zad8.cpp.i
+
+domashka/zad8.s: domashka/zad8.cpp.s
+.PHONY : domashka/zad8.s
+
+# target to generate assembly for a file
+domashka/zad8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.s
+.PHONY : domashka/zad8.cpp.s
+
+domashka/zad9.obj: domashka/zad9.cpp.obj
+.PHONY : domashka/zad9.obj
+
+# target to build an object file
+domashka/zad9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.obj
+.PHONY : domashka/zad9.cpp.obj
+
+domashka/zad9.i: domashka/zad9.cpp.i
+.PHONY : domashka/zad9.i
+
+# target to preprocess a source file
+domashka/zad9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.i
+.PHONY : domashka/zad9.cpp.i
+
+domashka/zad9.s: domashka/zad9.cpp.s
+.PHONY : domashka/zad9.s
+
+# target to generate assembly for a file
+domashka/zad9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.s
+.PHONY : domashka/zad9.cpp.s
+
+main.obj: main.cpp.obj
+.PHONY : main.obj
+
+# target to build an object file
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/main.cpp.obj
+.PHONY : main.cpp.obj
+
+main.i: main.cpp.i
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\procedural_programming.dir\build.make CMakeFiles/procedural_programming.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -977,111 +1145,132 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... procedural_programming
-	@echo ... ikbo/index.obj
-	@echo ... ikbo/index.i
-	@echo ... ikbo/index.s
-	@echo ... ikbo/sort_algs.obj
-	@echo ... ikbo/sort_algs.i
-	@echo ... ikbo/sort_algs.s
-	@echo ... ikbo/validator.obj
-	@echo ... ikbo/validator.i
-	@echo ... ikbo/validator.s
-	@echo ... ikbo/zad1.obj
-	@echo ... ikbo/zad1.i
-	@echo ... ikbo/zad1.s
-	@echo ... ikbo/zad10.obj
-	@echo ... ikbo/zad10.i
-	@echo ... ikbo/zad10.s
-	@echo ... ikbo/zad11.obj
-	@echo ... ikbo/zad11.i
-	@echo ... ikbo/zad11.s
-	@echo ... ikbo/zad12.obj
-	@echo ... ikbo/zad12.i
-	@echo ... ikbo/zad12.s
-	@echo ... ikbo/zad13.obj
-	@echo ... ikbo/zad13.i
-	@echo ... ikbo/zad13.s
-	@echo ... ikbo/zad14.obj
-	@echo ... ikbo/zad14.i
-	@echo ... ikbo/zad14.s
-	@echo ... ikbo/zad15.obj
-	@echo ... ikbo/zad15.i
-	@echo ... ikbo/zad15.s
-	@echo ... ikbo/zad16.obj
-	@echo ... ikbo/zad16.i
-	@echo ... ikbo/zad16.s
-	@echo ... ikbo/zad17.obj
-	@echo ... ikbo/zad17.i
-	@echo ... ikbo/zad17.s
-	@echo ... ikbo/zad18.obj
-	@echo ... ikbo/zad18.i
-	@echo ... ikbo/zad18.s
-	@echo ... ikbo/zad19.obj
-	@echo ... ikbo/zad19.i
-	@echo ... ikbo/zad19.s
-	@echo ... ikbo/zad2.obj
-	@echo ... ikbo/zad2.i
-	@echo ... ikbo/zad2.s
-	@echo ... ikbo/zad20.obj
-	@echo ... ikbo/zad20.i
-	@echo ... ikbo/zad20.s
-	@echo ... ikbo/zad21.obj
-	@echo ... ikbo/zad21.i
-	@echo ... ikbo/zad21.s
-	@echo ... ikbo/zad22.obj
-	@echo ... ikbo/zad22.i
-	@echo ... ikbo/zad22.s
-	@echo ... ikbo/zad23.obj
-	@echo ... ikbo/zad23.i
-	@echo ... ikbo/zad23.s
-	@echo ... ikbo/zad24.obj
-	@echo ... ikbo/zad24.i
-	@echo ... ikbo/zad24.s
-	@echo ... ikbo/zad25.obj
-	@echo ... ikbo/zad25.i
-	@echo ... ikbo/zad25.s
-	@echo ... ikbo/zad26.obj
-	@echo ... ikbo/zad26.i
-	@echo ... ikbo/zad26.s
-	@echo ... ikbo/zad27.obj
-	@echo ... ikbo/zad27.i
-	@echo ... ikbo/zad27.s
-	@echo ... ikbo/zad28.obj
-	@echo ... ikbo/zad28.i
-	@echo ... ikbo/zad28.s
-	@echo ... ikbo/zad29.obj
-	@echo ... ikbo/zad29.i
-	@echo ... ikbo/zad29.s
-	@echo ... ikbo/zad3.obj
-	@echo ... ikbo/zad3.i
-	@echo ... ikbo/zad3.s
-	@echo ... ikbo/zad30.obj
-	@echo ... ikbo/zad30.i
-	@echo ... ikbo/zad30.s
-	@echo ... ikbo/zad31.obj
-	@echo ... ikbo/zad31.i
-	@echo ... ikbo/zad31.s
-	@echo ... ikbo/zad32.obj
-	@echo ... ikbo/zad32.i
-	@echo ... ikbo/zad32.s
-	@echo ... ikbo/zad4.obj
-	@echo ... ikbo/zad4.i
-	@echo ... ikbo/zad4.s
-	@echo ... ikbo/zad5.obj
-	@echo ... ikbo/zad5.i
-	@echo ... ikbo/zad5.s
-	@echo ... ikbo/zad6.obj
-	@echo ... ikbo/zad6.i
-	@echo ... ikbo/zad6.s
-	@echo ... ikbo/zad7.obj
-	@echo ... ikbo/zad7.i
-	@echo ... ikbo/zad7.s
-	@echo ... ikbo/zad8.obj
-	@echo ... ikbo/zad8.i
-	@echo ... ikbo/zad8.s
-	@echo ... ikbo/zad9.obj
-	@echo ... ikbo/zad9.i
-	@echo ... ikbo/zad9.s
+	@echo ... contr/n1.obj
+	@echo ... contr/n1.i
+	@echo ... contr/n1.s
+	@echo ... contr/n2.obj
+	@echo ... contr/n2.i
+	@echo ... contr/n2.s
+	@echo ... contr/n3.obj
+	@echo ... contr/n3.i
+	@echo ... contr/n3.s
+	@echo ... contr/n4.obj
+	@echo ... contr/n4.i
+	@echo ... contr/n4.s
+	@echo ... contr/n5.obj
+	@echo ... contr/n5.i
+	@echo ... contr/n5.s
+	@echo ... domashka/algs/bubblesort.obj
+	@echo ... domashka/algs/bubblesort.i
+	@echo ... domashka/algs/bubblesort.s
+	@echo ... domashka/algs/heapsort.obj
+	@echo ... domashka/algs/heapsort.i
+	@echo ... domashka/algs/heapsort.s
+	@echo ... domashka/algs/quicksort.obj
+	@echo ... domashka/algs/quicksort.i
+	@echo ... domashka/algs/quicksort.s
+	@echo ... domashka/yes_no.obj
+	@echo ... domashka/yes_no.i
+	@echo ... domashka/yes_no.s
+	@echo ... domashka/zad1.obj
+	@echo ... domashka/zad1.i
+	@echo ... domashka/zad1.s
+	@echo ... domashka/zad10.obj
+	@echo ... domashka/zad10.i
+	@echo ... domashka/zad10.s
+	@echo ... domashka/zad11.obj
+	@echo ... domashka/zad11.i
+	@echo ... domashka/zad11.s
+	@echo ... domashka/zad12.obj
+	@echo ... domashka/zad12.i
+	@echo ... domashka/zad12.s
+	@echo ... domashka/zad13.obj
+	@echo ... domashka/zad13.i
+	@echo ... domashka/zad13.s
+	@echo ... domashka/zad14.obj
+	@echo ... domashka/zad14.i
+	@echo ... domashka/zad14.s
+	@echo ... domashka/zad15.obj
+	@echo ... domashka/zad15.i
+	@echo ... domashka/zad15.s
+	@echo ... domashka/zad16.obj
+	@echo ... domashka/zad16.i
+	@echo ... domashka/zad16.s
+	@echo ... domashka/zad17.obj
+	@echo ... domashka/zad17.i
+	@echo ... domashka/zad17.s
+	@echo ... domashka/zad18.obj
+	@echo ... domashka/zad18.i
+	@echo ... domashka/zad18.s
+	@echo ... domashka/zad19.obj
+	@echo ... domashka/zad19.i
+	@echo ... domashka/zad19.s
+	@echo ... domashka/zad2.obj
+	@echo ... domashka/zad2.i
+	@echo ... domashka/zad2.s
+	@echo ... domashka/zad20.obj
+	@echo ... domashka/zad20.i
+	@echo ... domashka/zad20.s
+	@echo ... domashka/zad21.obj
+	@echo ... domashka/zad21.i
+	@echo ... domashka/zad21.s
+	@echo ... domashka/zad22.obj
+	@echo ... domashka/zad22.i
+	@echo ... domashka/zad22.s
+	@echo ... domashka/zad23.obj
+	@echo ... domashka/zad23.i
+	@echo ... domashka/zad23.s
+	@echo ... domashka/zad24.obj
+	@echo ... domashka/zad24.i
+	@echo ... domashka/zad24.s
+	@echo ... domashka/zad25.obj
+	@echo ... domashka/zad25.i
+	@echo ... domashka/zad25.s
+	@echo ... domashka/zad26.obj
+	@echo ... domashka/zad26.i
+	@echo ... domashka/zad26.s
+	@echo ... domashka/zad27.obj
+	@echo ... domashka/zad27.i
+	@echo ... domashka/zad27.s
+	@echo ... domashka/zad28.obj
+	@echo ... domashka/zad28.i
+	@echo ... domashka/zad28.s
+	@echo ... domashka/zad29.obj
+	@echo ... domashka/zad29.i
+	@echo ... domashka/zad29.s
+	@echo ... domashka/zad3.obj
+	@echo ... domashka/zad3.i
+	@echo ... domashka/zad3.s
+	@echo ... domashka/zad30.obj
+	@echo ... domashka/zad30.i
+	@echo ... domashka/zad30.s
+	@echo ... domashka/zad31.obj
+	@echo ... domashka/zad31.i
+	@echo ... domashka/zad31.s
+	@echo ... domashka/zad32.obj
+	@echo ... domashka/zad32.i
+	@echo ... domashka/zad32.s
+	@echo ... domashka/zad4.obj
+	@echo ... domashka/zad4.i
+	@echo ... domashka/zad4.s
+	@echo ... domashka/zad5.obj
+	@echo ... domashka/zad5.i
+	@echo ... domashka/zad5.s
+	@echo ... domashka/zad6.obj
+	@echo ... domashka/zad6.i
+	@echo ... domashka/zad6.s
+	@echo ... domashka/zad7.obj
+	@echo ... domashka/zad7.i
+	@echo ... domashka/zad7.s
+	@echo ... domashka/zad8.obj
+	@echo ... domashka/zad8.i
+	@echo ... domashka/zad8.s
+	@echo ... domashka/zad9.obj
+	@echo ... domashka/zad9.i
+	@echo ... domashka/zad9.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 

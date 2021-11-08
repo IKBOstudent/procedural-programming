@@ -80,112 +80,136 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/index.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/HEADER_ns.h">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/sort_algs.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n1.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/validator.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n2.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad1.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n3.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad10.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n4.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad11.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n5.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad12.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/HEADER_zads.h">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad13.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/algs/bubblesort.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad14.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/algs/heapsort.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad15.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/algs/quicksort.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad16.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/yes_no.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad17.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad1.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad18.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad10.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad19.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad11.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad2.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad12.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad20.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad13.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad21.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad14.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad22.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad15.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad23.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad16.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad24.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad17.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad25.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad18.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad26.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad19.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad27.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad2.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad28.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad20.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad29.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad21.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad3.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad22.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad30.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad23.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad31.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad24.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad32.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad25.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad4.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad26.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad5.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad27.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad6.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad28.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad7.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad29.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad8.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad3.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zad9.cpp">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad30.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/ikbo/zads.h">
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad31.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad32.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad4.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad5.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad6.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad7.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad8.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad9.cpp">
+			<Option target="procedural_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/main.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
 		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/CMakeLists.txt">
