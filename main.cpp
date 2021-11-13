@@ -46,7 +46,7 @@ int main() {
 //    zad_obrabotka_tekstovyh_files_n8();  // 27    [ R  |  Z ]
 //    zad_obrabotka_tekstovyh_files_n32();  // 28    [ R  |  Z ]
 //    zad_ryady_n7();  // 29 [ FAIL RELEASE  |  - ]
-//    zad_ryady_n2();  // 30 [ FAIL RELEASE  |  - ]
+//    zad_ryady_n2();  // 30 [ R (CUSTOM)  |  - ]
 //    zad_fily_n11();  // 31 [ R  |  Z ]
 
     /**   SHARIKI   **/
