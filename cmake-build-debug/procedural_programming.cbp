@@ -8,211 +8,211 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="procedural_programming">
-				<Option output="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/procedural_programming.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug"/>
+				<Option output="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/procedural_programming.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 procedural_programming"/>
-					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 procedural_programming"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="procedural_programming/fast">
-				<Option output="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/procedural_programming.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug"/>
+				<Option output="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/procedural_programming.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 procedural_programming/fast"/>
-					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 procedural_programming/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mark/CLionProjects/procedural-programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/HEADER_ns.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/contr/HEADER_ns.h">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n1.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/contr/n1.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n2.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/contr/n2.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n3.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/contr/n3.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n4.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/contr/n4.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/contr/n5.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/contr/n5.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/HEADER_zads.h">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/HEADER_zads.h">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/algs/bubblesort.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/algs/bubblesort.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/algs/heapsort.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/algs/heapsort.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/algs/quicksort.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/algs/quicksort.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/yes_no.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/yes_no.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad1.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad1.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad10.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad10.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad11.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad11.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad12.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad12.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad13.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad13.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad14.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad14.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad15.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad15.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad16.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad16.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad17.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad17.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad18.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad18.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad19.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad19.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad2.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad2.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad20.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad20.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad21.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad21.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad22.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad22.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad23.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad23.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad24.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad24.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad25.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad25.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad26.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad26.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad27.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad27.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad28.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad28.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad29.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad29.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad3.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad3.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad30.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad30.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad31.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad31.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad32.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad32.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad4.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad4.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad5.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad5.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad6.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad6.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad7.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad7.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad8.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad8.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/domashka/zad9.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/domashka/zad9.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/main.cpp">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/main.cpp">
 			<Option target="procedural_programming"/>
 		</Unit>
-		<Unit filename="C:/Users/maxpo/CLionProjects/procedural-programming/CMakeLists.txt">
+		<Unit filename="C:/Users/Mark/CLionProjects/procedural-programming/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

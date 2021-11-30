@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\maxpo\CLionProjects\procedural-programming
+CMAKE_SOURCE_DIR = C:\Users\Mark\CLionProjects\procedural-programming
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/procedural_programming.dir/depend.make
@@ -67,549 +67,549 @@ include CMakeFiles/procedural_programming.dir/flags.make
 
 CMakeFiles/procedural_programming.dir/main.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/procedural_programming.dir/main.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\main.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/procedural_programming.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\main.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\main.cpp
 
 CMakeFiles/procedural_programming.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/main.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\main.cpp > CMakeFiles\procedural_programming.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\main.cpp > CMakeFiles\procedural_programming.dir\main.cpp.i
 
 CMakeFiles/procedural_programming.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/main.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\main.cpp -o CMakeFiles\procedural_programming.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\main.cpp -o CMakeFiles\procedural_programming.dir\main.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.obj: ../domashka/zad1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad1.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad1.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad1.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad1.cpp > CMakeFiles\procedural_programming.dir\domashka\zad1.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad1.cpp > CMakeFiles\procedural_programming.dir\domashka\zad1.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad1.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad1.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad1.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad1.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad1.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.obj: ../domashka/zad2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad2.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad2.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad2.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad2.cpp > CMakeFiles\procedural_programming.dir\domashka\zad2.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad2.cpp > CMakeFiles\procedural_programming.dir\domashka\zad2.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad2.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad2.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad2.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad2.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad2.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.obj: ../domashka/zad3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad3.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad3.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad3.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad3.cpp > CMakeFiles\procedural_programming.dir\domashka\zad3.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad3.cpp > CMakeFiles\procedural_programming.dir\domashka\zad3.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad3.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad3.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad3.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad3.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad3.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.obj: ../domashka/zad4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad4.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad4.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad4.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad4.cpp > CMakeFiles\procedural_programming.dir\domashka\zad4.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad4.cpp > CMakeFiles\procedural_programming.dir\domashka\zad4.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad4.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad4.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad4.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad4.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad4.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.obj: ../domashka/zad5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad5.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad5.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad5.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad5.cpp > CMakeFiles\procedural_programming.dir\domashka\zad5.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad5.cpp > CMakeFiles\procedural_programming.dir\domashka\zad5.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad5.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad5.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad5.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad5.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad5.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.obj: ../domashka/zad6.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad6.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad6.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad6.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad6.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad6.cpp > CMakeFiles\procedural_programming.dir\domashka\zad6.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad6.cpp > CMakeFiles\procedural_programming.dir\domashka\zad6.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad6.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad6.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad6.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad6.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad6.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.obj: ../domashka/zad7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad7.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad7.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad7.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad7.cpp > CMakeFiles\procedural_programming.dir\domashka\zad7.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad7.cpp > CMakeFiles\procedural_programming.dir\domashka\zad7.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad7.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad7.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad7.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad7.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad7.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.obj: ../domashka/zad8.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad8.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad8.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad8.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad8.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad8.cpp > CMakeFiles\procedural_programming.dir\domashka\zad8.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad8.cpp > CMakeFiles\procedural_programming.dir\domashka\zad8.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad8.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad8.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad8.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad8.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad8.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.obj: ../domashka/zad9.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad9.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad9.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad9.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad9.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad9.cpp > CMakeFiles\procedural_programming.dir\domashka\zad9.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad9.cpp > CMakeFiles\procedural_programming.dir\domashka\zad9.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad9.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad9.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad9.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad9.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad9.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.obj: ../domashka/zad10.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad10.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad10.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad10.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad10.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad10.cpp > CMakeFiles\procedural_programming.dir\domashka\zad10.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad10.cpp > CMakeFiles\procedural_programming.dir\domashka\zad10.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad10.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad10.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad10.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad10.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad10.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.obj: ../domashka/zad11.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad11.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad11.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad11.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad11.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad11.cpp > CMakeFiles\procedural_programming.dir\domashka\zad11.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad11.cpp > CMakeFiles\procedural_programming.dir\domashka\zad11.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad11.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad11.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad11.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad11.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad11.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.obj: ../domashka/zad12.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad12.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad12.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad12.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad12.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad12.cpp > CMakeFiles\procedural_programming.dir\domashka\zad12.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad12.cpp > CMakeFiles\procedural_programming.dir\domashka\zad12.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad12.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad12.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad12.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad12.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad12.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.obj: ../domashka/zad13.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad13.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad13.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad13.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad13.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad13.cpp > CMakeFiles\procedural_programming.dir\domashka\zad13.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad13.cpp > CMakeFiles\procedural_programming.dir\domashka\zad13.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad13.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad13.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad13.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad13.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad13.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.obj: ../domashka/zad14.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad14.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad14.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad14.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad14.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad14.cpp > CMakeFiles\procedural_programming.dir\domashka\zad14.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad14.cpp > CMakeFiles\procedural_programming.dir\domashka\zad14.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad14.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad14.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad14.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad14.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad14.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.obj: ../domashka/zad15.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad15.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad15.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad15.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad15.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad15.cpp > CMakeFiles\procedural_programming.dir\domashka\zad15.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad15.cpp > CMakeFiles\procedural_programming.dir\domashka\zad15.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad15.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad15.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad15.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad15.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad15.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.obj: ../domashka/zad16.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad16.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad16.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad16.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad16.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad16.cpp > CMakeFiles\procedural_programming.dir\domashka\zad16.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad16.cpp > CMakeFiles\procedural_programming.dir\domashka\zad16.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad16.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad16.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad16.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad16.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad16.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.obj: ../domashka/zad17.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad17.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad17.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad17.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad17.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad17.cpp > CMakeFiles\procedural_programming.dir\domashka\zad17.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad17.cpp > CMakeFiles\procedural_programming.dir\domashka\zad17.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad17.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad17.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad17.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad17.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad17.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.obj: ../domashka/zad18.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad18.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad18.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad18.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad18.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad18.cpp > CMakeFiles\procedural_programming.dir\domashka\zad18.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad18.cpp > CMakeFiles\procedural_programming.dir\domashka\zad18.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad18.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad18.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad18.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad18.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad18.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.obj: ../domashka/zad25.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad25.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad25.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad25.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad25.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad25.cpp > CMakeFiles\procedural_programming.dir\domashka\zad25.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad25.cpp > CMakeFiles\procedural_programming.dir\domashka\zad25.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad25.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad25.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad25.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad25.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad25.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.obj: ../domashka/zad26.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad26.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad26.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad26.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad26.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad26.cpp > CMakeFiles\procedural_programming.dir\domashka\zad26.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad26.cpp > CMakeFiles\procedural_programming.dir\domashka\zad26.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad26.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad26.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad26.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad26.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad26.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.obj: ../domashka/zad19.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad19.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad19.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad19.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad19.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad19.cpp > CMakeFiles\procedural_programming.dir\domashka\zad19.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad19.cpp > CMakeFiles\procedural_programming.dir\domashka\zad19.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad19.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad19.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad19.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad19.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad19.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.obj: ../domashka/zad20.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad20.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad20.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad20.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad20.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad20.cpp > CMakeFiles\procedural_programming.dir\domashka\zad20.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad20.cpp > CMakeFiles\procedural_programming.dir\domashka\zad20.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad20.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad20.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad20.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad20.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad20.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.obj: ../domashka/zad27.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad27.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad27.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad27.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad27.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad27.cpp > CMakeFiles\procedural_programming.dir\domashka\zad27.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad27.cpp > CMakeFiles\procedural_programming.dir\domashka\zad27.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad27.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad27.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad27.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad27.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad27.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.obj: ../domashka/zad28.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad28.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad28.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad28.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad28.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad28.cpp > CMakeFiles\procedural_programming.dir\domashka\zad28.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad28.cpp > CMakeFiles\procedural_programming.dir\domashka\zad28.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad28.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad28.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad28.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad28.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad28.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.obj: ../domashka/zad21.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad21.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad21.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad21.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad21.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad21.cpp > CMakeFiles\procedural_programming.dir\domashka\zad21.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad21.cpp > CMakeFiles\procedural_programming.dir\domashka\zad21.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad21.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad21.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad21.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad21.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad21.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.obj: ../domashka/zad22.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad22.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad22.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad22.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad22.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad22.cpp > CMakeFiles\procedural_programming.dir\domashka\zad22.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad22.cpp > CMakeFiles\procedural_programming.dir\domashka\zad22.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad22.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad22.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad22.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad22.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad22.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.obj: ../domashka/algs/bubblesort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\algs\bubblesort.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\bubblesort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\algs\bubblesort.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\bubblesort.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\bubblesort.cpp > CMakeFiles\procedural_programming.dir\domashka\algs\bubblesort.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\bubblesort.cpp > CMakeFiles\procedural_programming.dir\domashka\algs\bubblesort.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/algs/bubblesort.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\bubblesort.cpp -o CMakeFiles\procedural_programming.dir\domashka\algs\bubblesort.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\bubblesort.cpp -o CMakeFiles\procedural_programming.dir\domashka\algs\bubblesort.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.obj: ../domashka/zad23.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad23.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad23.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad23.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad23.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad23.cpp > CMakeFiles\procedural_programming.dir\domashka\zad23.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad23.cpp > CMakeFiles\procedural_programming.dir\domashka\zad23.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad23.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad23.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad23.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad23.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad23.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.obj: ../domashka/zad24.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad24.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad24.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad24.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad24.cpp > CMakeFiles\procedural_programming.dir\domashka\zad24.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad24.cpp > CMakeFiles\procedural_programming.dir\domashka\zad24.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad24.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad24.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad24.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad24.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad24.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.obj: ../domashka/zad29.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad29.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad29.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad29.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad29.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad29.cpp > CMakeFiles\procedural_programming.dir\domashka\zad29.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad29.cpp > CMakeFiles\procedural_programming.dir\domashka\zad29.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad29.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad29.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad29.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad29.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad29.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.obj: ../domashka/zad30.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad30.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad30.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad30.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad30.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad30.cpp > CMakeFiles\procedural_programming.dir\domashka\zad30.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad30.cpp > CMakeFiles\procedural_programming.dir\domashka\zad30.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad30.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad30.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad30.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad30.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad30.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.obj: ../domashka/zad31.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad31.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad31.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad31.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad31.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad31.cpp > CMakeFiles\procedural_programming.dir\domashka\zad31.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad31.cpp > CMakeFiles\procedural_programming.dir\domashka\zad31.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad31.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad31.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad31.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad31.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad31.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.obj: ../domashka/zad32.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad32.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad32.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\zad32.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad32.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad32.cpp > CMakeFiles\procedural_programming.dir\domashka\zad32.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad32.cpp > CMakeFiles\procedural_programming.dir\domashka\zad32.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/zad32.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\zad32.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad32.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\zad32.cpp -o CMakeFiles\procedural_programming.dir\domashka\zad32.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.obj: ../domashka/algs/heapsort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\algs\heapsort.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\heapsort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\algs\heapsort.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\heapsort.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\heapsort.cpp > CMakeFiles\procedural_programming.dir\domashka\algs\heapsort.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\heapsort.cpp > CMakeFiles\procedural_programming.dir\domashka\algs\heapsort.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/algs/heapsort.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\heapsort.cpp -o CMakeFiles\procedural_programming.dir\domashka\algs\heapsort.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\heapsort.cpp -o CMakeFiles\procedural_programming.dir\domashka\algs\heapsort.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.obj: ../domashka/algs/quicksort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\algs\quicksort.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\quicksort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\algs\quicksort.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\quicksort.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\quicksort.cpp > CMakeFiles\procedural_programming.dir\domashka\algs\quicksort.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\quicksort.cpp > CMakeFiles\procedural_programming.dir\domashka\algs\quicksort.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/algs/quicksort.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\algs\quicksort.cpp -o CMakeFiles\procedural_programming.dir\domashka\algs\quicksort.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\algs\quicksort.cpp -o CMakeFiles\procedural_programming.dir\domashka\algs\quicksort.cpp.s
 
 CMakeFiles/procedural_programming.dir/contr/n1.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/contr/n1.cpp.obj: ../contr/n1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n1.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n1.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\contr\n1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n1.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n1.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\contr\n1.cpp
 
 CMakeFiles/procedural_programming.dir/contr/n1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/contr/n1.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\contr\n1.cpp > CMakeFiles\procedural_programming.dir\contr\n1.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\contr\n1.cpp > CMakeFiles\procedural_programming.dir\contr\n1.cpp.i
 
 CMakeFiles/procedural_programming.dir/contr/n1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/contr/n1.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\contr\n1.cpp -o CMakeFiles\procedural_programming.dir\contr\n1.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\contr\n1.cpp -o CMakeFiles\procedural_programming.dir\contr\n1.cpp.s
 
 CMakeFiles/procedural_programming.dir/contr/n2.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/contr/n2.cpp.obj: ../contr/n2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n2.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n2.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\contr\n2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n2.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n2.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\contr\n2.cpp
 
 CMakeFiles/procedural_programming.dir/contr/n2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/contr/n2.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\contr\n2.cpp > CMakeFiles\procedural_programming.dir\contr\n2.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\contr\n2.cpp > CMakeFiles\procedural_programming.dir\contr\n2.cpp.i
 
 CMakeFiles/procedural_programming.dir/contr/n2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/contr/n2.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\contr\n2.cpp -o CMakeFiles\procedural_programming.dir\contr\n2.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\contr\n2.cpp -o CMakeFiles\procedural_programming.dir\contr\n2.cpp.s
 
 CMakeFiles/procedural_programming.dir/contr/n3.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/contr/n3.cpp.obj: ../contr/n3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n3.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n3.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\contr\n3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n3.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n3.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\contr\n3.cpp
 
 CMakeFiles/procedural_programming.dir/contr/n3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/contr/n3.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\contr\n3.cpp > CMakeFiles\procedural_programming.dir\contr\n3.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\contr\n3.cpp > CMakeFiles\procedural_programming.dir\contr\n3.cpp.i
 
 CMakeFiles/procedural_programming.dir/contr/n3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/contr/n3.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\contr\n3.cpp -o CMakeFiles\procedural_programming.dir\contr\n3.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\contr\n3.cpp -o CMakeFiles\procedural_programming.dir\contr\n3.cpp.s
 
 CMakeFiles/procedural_programming.dir/contr/n4.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/contr/n4.cpp.obj: ../contr/n4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n4.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n4.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\contr\n4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n4.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n4.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\contr\n4.cpp
 
 CMakeFiles/procedural_programming.dir/contr/n4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/contr/n4.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\contr\n4.cpp > CMakeFiles\procedural_programming.dir\contr\n4.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\contr\n4.cpp > CMakeFiles\procedural_programming.dir\contr\n4.cpp.i
 
 CMakeFiles/procedural_programming.dir/contr/n4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/contr/n4.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\contr\n4.cpp -o CMakeFiles\procedural_programming.dir\contr\n4.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\contr\n4.cpp -o CMakeFiles\procedural_programming.dir\contr\n4.cpp.s
 
 CMakeFiles/procedural_programming.dir/contr/n5.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/contr/n5.cpp.obj: ../contr/n5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n5.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n5.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\contr\n5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/procedural_programming.dir/contr/n5.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\contr\n5.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\contr\n5.cpp
 
 CMakeFiles/procedural_programming.dir/contr/n5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/contr/n5.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\contr\n5.cpp > CMakeFiles\procedural_programming.dir\contr\n5.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\contr\n5.cpp > CMakeFiles\procedural_programming.dir\contr\n5.cpp.i
 
 CMakeFiles/procedural_programming.dir/contr/n5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/contr/n5.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\contr\n5.cpp -o CMakeFiles\procedural_programming.dir\contr\n5.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\contr\n5.cpp -o CMakeFiles\procedural_programming.dir\contr\n5.cpp.s
 
 CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.obj: CMakeFiles/procedural_programming.dir/flags.make
 CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.obj: ../domashka/yes_no.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\yes_no.cpp.obj -c C:\Users\maxpo\CLionProjects\procedural-programming\domashka\yes_no.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\procedural_programming.dir\domashka\yes_no.cpp.obj -c C:\Users\Mark\CLionProjects\procedural-programming\domashka\yes_no.cpp
 
 CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maxpo\CLionProjects\procedural-programming\domashka\yes_no.cpp > CMakeFiles\procedural_programming.dir\domashka\yes_no.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mark\CLionProjects\procedural-programming\domashka\yes_no.cpp > CMakeFiles\procedural_programming.dir\domashka\yes_no.cpp.i
 
 CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/procedural_programming.dir/domashka/yes_no.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maxpo\CLionProjects\procedural-programming\domashka\yes_no.cpp -o CMakeFiles\procedural_programming.dir\domashka\yes_no.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mark\CLionProjects\procedural-programming\domashka\yes_no.cpp -o CMakeFiles\procedural_programming.dir\domashka\yes_no.cpp.s
 
 # Object files for target procedural_programming
 procedural_programming_OBJECTS = \
@@ -705,7 +705,7 @@ procedural_programming.exe: CMakeFiles/procedural_programming.dir/build.make
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/linklibs.rsp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/objects1.rsp
 procedural_programming.exe: CMakeFiles/procedural_programming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable procedural_programming.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable procedural_programming.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\procedural_programming.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -717,6 +717,6 @@ CMakeFiles/procedural_programming.dir/clean:
 .PHONY : CMakeFiles/procedural_programming.dir/clean
 
 CMakeFiles/procedural_programming.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\maxpo\CLionProjects\procedural-programming C:\Users\maxpo\CLionProjects\procedural-programming C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug C:\Users\maxpo\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles\procedural_programming.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mark\CLionProjects\procedural-programming C:\Users\Mark\CLionProjects\procedural-programming C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug C:\Users\Mark\CLionProjects\procedural-programming\cmake-build-debug\CMakeFiles\procedural_programming.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/procedural_programming.dir/depend
 
